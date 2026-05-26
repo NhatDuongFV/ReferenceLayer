@@ -1,0 +1,28 @@
+--- Province 58 ---
+Bà Rịa
+Châu Đức
+Đất Đỏ
+Long Điền
+Phú Mỹ
+Vũng Tàu
+Xuyên Mộc
+Côn Đảo
+--- Province 17 ---
+Cẩm Lệ
+Hải Châu
+Hòa Vang
+Liên Chiểu
+Ngũ Hành Sơn
+Sơn Trà
+Thanh Khê
+Quần đảo Hoàng Sa
+--- Province 30 ---
+Cam Lâm
+Cam Ranh
+Diên Khánh
+Khánh Sơn
+Khánh Vĩnh
+Nha Trang
+Ninh Hòa
+Vạn Ninh
+Quần đảo Trường Sa
