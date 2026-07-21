@@ -1,0 +1,2130 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_452",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.14028298112225,
+              20.064893995547976
+            ],
+            [
+              106.1417,
+              20.0667
+            ],
+            [
+              106.1437,
+              20.0737
+            ],
+            [
+              106.1034,
+              20.1471
+            ],
+            [
+              106.0966,
+              20.1442
+            ],
+            [
+              106.14028298112225,
+              20.064893995547976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ân Hòa",
+        "VARNAME_3": "An Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14638,
+        "ward_name": "Xã Ân Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.0953,
+              19.9705
+            ],
+            [
+              106.0974,
+              19.9789
+            ],
+            [
+              106.0919,
+              19.9798
+            ],
+            [
+              106.0929,
+              19.9859
+            ],
+            [
+              106.0824,
+              19.9781
+            ],
+            [
+              106.0726,
+              19.9775
+            ],
+            [
+              106.065,
+              19.9931
+            ],
+            [
+              106.0585,
+              19.9929
+            ],
+            [
+              106.0479,
+              19.9962
+            ],
+            [
+              106.0469,
+              20.0013
+            ],
+            [
+              106.04596210746685,
+              20.001288276343335
+            ],
+            [
+              106.03832607952116,
+              20.000446729371525
+            ],
+            [
+              106.0357,
+              19.997
+            ],
+            [
+              106.037,
+              19.9913
+            ],
+            [
+              106.05139760592245,
+              19.984496802071583
+            ],
+            [
+              106.06056823966824,
+              19.9748007674341
+            ],
+            [
+              106.0705,
+              19.9643
+            ],
+            [
+              106.0779,
+              19.9662
+            ],
+            [
+              106.0886,
+              19.9755
+            ],
+            [
+              106.09133460107482,
+              19.964926209177346
+            ],
+            [
+              106.095,
+              19.9645
+            ],
+            [
+              106.0953,
+              19.9705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Minh",
+        "VARNAME_3": "Binh Minh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Thị trấn",
+        "ENGTYPE_3": "Townlet",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14623,
+        "ward_name": "Thị trấn Bình Minh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1536,
+              20.1113
+            ],
+            [
+              106.1324,
+              20.1415
+            ],
+            [
+              106.1244,
+              20.1358
+            ],
+            [
+              106.146,
+              20.0943
+            ],
+            [
+              106.1536,
+              20.1113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Chất Bình",
+        "VARNAME_3": "Chat Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14653,
+        "ward_name": "Xã Chất Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1574,
+              20.1185
+            ],
+            [
+              106.1337,
+              20.1514
+            ],
+            [
+              106.1307,
+              20.1498
+            ],
+            [
+              106.1339,
+              20.1427
+            ],
+            [
+              106.1324,
+              20.1415
+            ],
+            [
+              106.1536,
+              20.1113
+            ],
+            [
+              106.1574,
+              20.1185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Chính Tâm",
+        "VARNAME_3": "Chinh Tam",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14632,
+        "ward_name": "Xã Chính Tâm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1046763861962,
+              20.000216647279306
+            ],
+            [
+              106.0982,
+              20.002
+            ],
+            [
+              106.0869,
+              20.0001
+            ],
+            [
+              106.0867,
+              20.002
+            ],
+            [
+              106.0762,
+              20.004
+            ],
+            [
+              106.0754,
+              19.9989
+            ],
+            [
+              106.0699,
+              19.9994
+            ],
+            [
+              106.0711,
+              19.9948
+            ],
+            [
+              106.065,
+              19.9931
+            ],
+            [
+              106.0726,
+              19.9775
+            ],
+            [
+              106.0824,
+              19.9781
+            ],
+            [
+              106.0929,
+              19.9859
+            ],
+            [
+              106.0919,
+              19.9798
+            ],
+            [
+              106.0974,
+              19.9789
+            ],
+            [
+              106.0994,
+              19.9861
+            ],
+            [
+              106.1046763861962,
+              20.000216647279306
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cồn Thoi",
+        "VARNAME_3": "Con Thoi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14689,
+        "ward_name": "Xã Cồn Thoi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.0759,
+              20.0628
+            ],
+            [
+              106.0735,
+              20.0513
+            ],
+            [
+              106.06842425828108,
+              20.04169724539665
+            ],
+            [
+              106.0957,
+              20.0386
+            ],
+            [
+              106.0963,
+              20.035
+            ],
+            [
+              106.1026,
+              20.0354
+            ],
+            [
+              106.09385345998707,
+              20.05283000401613
+            ],
+            [
+              106.0777,
+              20.073
+            ],
+            [
+              106.0734,
+              20.069
+            ],
+            [
+              106.0763,
+              20.0658
+            ],
+            [
+              106.0759,
+              20.0628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Định Hóa",
+        "VARNAME_3": "Dinh Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14677,
+        "ward_name": "Xã Định Hóa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.124,
+              20.0555
+            ],
+            [
+              106.1149,
+              20.0704
+            ],
+            [
+              106.1129,
+              20.0776
+            ],
+            [
+              106.0856151928321,
+              20.128671562134787
+            ],
+            [
+              106.08258913331566,
+              20.127712059369202
+            ],
+            [
+              106.0792,
+              20.1266
+            ],
+            [
+              106.115,
+              20.0562
+            ],
+            [
+              106.1186,
+              20.0555
+            ],
+            [
+              106.1203,
+              20.0533
+            ],
+            [
+              106.124,
+              20.0555
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đồng Hướng",
+        "VARNAME_3": "Dong Huong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14656,
+        "ward_name": "Xã Đồng Hướng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.146,
+              20.0943
+            ],
+            [
+              106.1244,
+              20.1358
+            ],
+            [
+              106.1151,
+              20.1524
+            ],
+            [
+              106.1137,
+              20.1517
+            ],
+            [
+              106.1085,
+              20.1493
+            ],
+            [
+              106.142,
+              20.0876
+            ],
+            [
+              106.1448,
+              20.0869
+            ],
+            [
+              106.1453,
+              20.0919
+            ],
+            [
+              106.146,
+              20.0943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hồi Ninh",
+        "VARNAME_3": "Hoi Ninh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14629,
+        "ward_name": "Xã Hồi Ninh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.14028298112225,
+              20.064893995547976
+            ],
+            [
+              106.0966,
+              20.1442
+            ],
+            [
+              106.0911,
+              20.1419
+            ],
+            [
+              106.0988,
+              20.1317
+            ],
+            [
+              106.1366,
+              20.0602
+            ],
+            [
+              106.14028298112225,
+              20.064893995547976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hùng Tiến",
+        "VARNAME_3": "Hung Tien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14641,
+        "ward_name": "Xã Hùng Tiến"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.0792,
+              20.1266
+            ],
+            [
+              106.0712,
+              20.1237
+            ],
+            [
+              106.08568934337998,
+              20.09579822389666
+            ],
+            [
+              106.0916,
+              20.0964
+            ],
+            [
+              106.0933,
+              20.093
+            ],
+            [
+              106.0892,
+              20.0889
+            ],
+            [
+              106.1016,
+              20.0649
+            ],
+            [
+              106.109,
+              20.0586
+            ],
+            [
+              106.1119,
+              20.0523
+            ],
+            [
+              106.1172,
+              20.0511
+            ],
+            [
+              106.1203,
+              20.0533
+            ],
+            [
+              106.1186,
+              20.0555
+            ],
+            [
+              106.115,
+              20.0562
+            ],
+            [
+              106.0792,
+              20.1266
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Chính",
+        "VARNAME_3": "Kim Chinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14659,
+        "ward_name": "Xã Kim Chính"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1437,
+              20.0737
+            ],
+            [
+              106.1448,
+              20.0869
+            ],
+            [
+              106.142,
+              20.0876
+            ],
+            [
+              106.1085,
+              20.1493
+            ],
+            [
+              106.1034,
+              20.1471
+            ],
+            [
+              106.1437,
+              20.0737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Định",
+        "VARNAME_3": "Kim Dinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14635,
+        "ward_name": "Xã Kim Định"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.09133460107482,
+                19.964926209177346
+              ],
+              [
+                106.0886,
+                19.9755
+              ],
+              [
+                106.0779,
+                19.9662
+              ],
+              [
+                106.0705,
+                19.9643
+              ],
+              [
+                106.0658,
+                19.9433
+              ],
+              [
+                106.0663,
+                19.9383
+              ],
+              [
+                106.0706,
+                19.9357
+              ],
+              [
+                106.0741,
+                19.9356
+              ],
+              [
+                106.0807,
+                19.9399
+              ],
+              [
+                106.0916,
+                19.9639
+              ],
+              [
+                106.09133460107482,
+                19.964926209177346
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                106.05139760592245,
+                19.984496802071583
+              ],
+              [
+                106.0377,
+                19.9662
+              ],
+              [
+                106.0437,
+                19.9603
+              ],
+              [
+                106.06056823966824,
+                19.9748007674341
+              ],
+              [
+                106.05139760592245,
+                19.984496802071583
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Đông",
+        "VARNAME_3": "Kim Dong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14698,
+        "ward_name": "Xã Kim Đông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.03832607952116,
+              20.000446729371525
+            ],
+            [
+              106.0342,
+              20.0001
+            ],
+            [
+              106.0293,
+              19.996
+            ],
+            [
+              106.0255,
+              19.9894
+            ],
+            [
+              106.024,
+              19.982
+            ],
+            [
+              106.02452883938079,
+              19.97550702760259
+            ],
+            [
+              106.0299,
+              19.9758
+            ],
+            [
+              106.0304,
+              19.973
+            ],
+            [
+              106.0377,
+              19.9662
+            ],
+            [
+              106.05139760592245,
+              19.984496802071583
+            ],
+            [
+              106.037,
+              19.9913
+            ],
+            [
+              106.0357,
+              19.997
+            ],
+            [
+              106.03832607952116,
+              20.000446729371525
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Hải",
+        "VARNAME_3": "Kim Hai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14692,
+        "ward_name": "Xã Kim Hải"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.065,
+              19.9931
+            ],
+            [
+              106.0711,
+              19.9948
+            ],
+            [
+              106.0699,
+              19.9994
+            ],
+            [
+              106.0754,
+              19.9989
+            ],
+            [
+              106.0762,
+              20.004
+            ],
+            [
+              106.0867,
+              20.002
+            ],
+            [
+              106.0838,
+              20.0243
+            ],
+            [
+              106.0635,
+              20.0176
+            ],
+            [
+              106.0613,
+              20.0182
+            ],
+            [
+              106.06032309950103,
+              20.01663460522454
+            ],
+            [
+              106.053,
+              20.0049
+            ],
+            [
+              106.0469,
+              20.0013
+            ],
+            [
+              106.0479,
+              19.9962
+            ],
+            [
+              106.0585,
+              19.9929
+            ],
+            [
+              106.065,
+              19.9931
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Mỹ",
+        "VARNAME_3": "Kim My",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14686,
+        "ward_name": "Xã Kim Mỹ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1127,
+              20.0283
+            ],
+            [
+              106.1132,
+              20.0348
+            ],
+            [
+              106.1098,
+              20.035
+            ],
+            [
+              106.1033,
+              20.0306
+            ],
+            [
+              106.0838,
+              20.0243
+            ],
+            [
+              106.0867,
+              20.002
+            ],
+            [
+              106.0869,
+              20.0001
+            ],
+            [
+              106.0982,
+              20.002
+            ],
+            [
+              106.1046763861962,
+              20.000216647279306
+            ],
+            [
+              106.1108,
+              20.0166
+            ],
+            [
+              106.1127,
+              20.0283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Tân",
+        "VARNAME_3": "Kim Tan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14683,
+        "ward_name": "Xã Kim Tân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.06056823966824,
+              19.9748007674341
+            ],
+            [
+              106.0437,
+              19.9603
+            ],
+            [
+              106.0663,
+              19.9383
+            ],
+            [
+              106.0658,
+              19.9433
+            ],
+            [
+              106.0705,
+              19.9643
+            ],
+            [
+              106.06056823966824,
+              19.9748007674341
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.16_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Trung",
+        "VARNAME_3": "Kim Trung",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14695,
+        "ward_name": "Xã Kim Trung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.0734,
+              20.069
+            ],
+            [
+              106.0659,
+              20.079
+            ],
+            [
+              106.0517,
+              20.0896
+            ],
+            [
+              106.04691158690173,
+              20.09147183421114
+            ],
+            [
+              106.0362,
+              20.0975
+            ],
+            [
+              106.0337,
+              20.0954
+            ],
+            [
+              106.041,
+              20.0933
+            ],
+            [
+              106.0399,
+              20.0898
+            ],
+            [
+              106.0425,
+              20.0884
+            ],
+            [
+              106.0409,
+              20.0816
+            ],
+            [
+              106.0291,
+              20.0862
+            ],
+            [
+              106.0285,
+              20.0811
+            ],
+            [
+              106.0317,
+              20.0802
+            ],
+            [
+              106.0309,
+              20.0741
+            ],
+            [
+              106.0287,
+              20.0714
+            ],
+            [
+              106.0325,
+              20.0608
+            ],
+            [
+              106.0355,
+              20.0598
+            ],
+            [
+              106.0396,
+              20.0618
+            ],
+            [
+              106.0718,
+              20.0667
+            ],
+            [
+              106.0759,
+              20.0628
+            ],
+            [
+              106.0763,
+              20.0658
+            ],
+            [
+              106.0734,
+              20.069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.17_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lai Thành",
+        "VARNAME_3": "Lai Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14674,
+        "ward_name": "Xã Lai Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.061,
+              20.1183
+            ],
+            [
+              106.09301106824532,
+              20.054508712559215
+            ],
+            [
+              106.09385345998707,
+              20.05283000401613
+            ],
+            [
+              106.1026,
+              20.0354
+            ],
+            [
+              106.1033,
+              20.0306
+            ],
+            [
+              106.1098,
+              20.035
+            ],
+            [
+              106.1103,
+              20.0366
+            ],
+            [
+              106.0833,
+              20.0877
+            ],
+            [
+              106.0804,
+              20.087
+            ],
+            [
+              106.0768,
+              20.094
+            ],
+            [
+              106.0797,
+              20.0948
+            ],
+            [
+              106.0662,
+              20.1211
+            ],
+            [
+              106.061,
+              20.1183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.18_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lưu Phương",
+        "VARNAME_3": "Luu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14665,
+        "ward_name": "Xã Lưu Phương"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1366,
+              20.0602
+            ],
+            [
+              106.0988,
+              20.1317
+            ],
+            [
+              106.0911,
+              20.1419
+            ],
+            [
+              106.0887,
+              20.1409
+            ],
+            [
+              106.0917,
+              20.1346
+            ],
+            [
+              106.0933,
+              20.1311
+            ],
+            [
+              106.13160533380199,
+              20.058260323806593
+            ],
+            [
+              106.1366,
+              20.0602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.19_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Như Hòa",
+        "VARNAME_3": "Nhu Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14650,
+        "ward_name": "Xã Như Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.08568934337998,
+              20.09579822389666
+            ],
+            [
+              106.0797,
+              20.0948
+            ],
+            [
+              106.0768,
+              20.094
+            ],
+            [
+              106.0804,
+              20.087
+            ],
+            [
+              106.0833,
+              20.0877
+            ],
+            [
+              106.0892,
+              20.0889
+            ],
+            [
+              106.0933,
+              20.093
+            ],
+            [
+              106.0916,
+              20.0964
+            ],
+            [
+              106.08568934337998,
+              20.09579822389666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.20_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phát Diệm",
+        "VARNAME_3": "Phat Diem",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Thị trấn",
+        "ENGTYPE_3": "Townlet",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14620,
+        "ward_name": "Thị trấn Phát Diệm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.13160533380199,
+              20.058260323806593
+            ],
+            [
+              106.0933,
+              20.1311
+            ],
+            [
+              106.0916,
+              20.1306
+            ],
+            [
+              106.0856151928321,
+              20.128671562134787
+            ],
+            [
+              106.1129,
+              20.0776
+            ],
+            [
+              106.1149,
+              20.0704
+            ],
+            [
+              106.124,
+              20.0555
+            ],
+            [
+              106.1263,
+              20.0562
+            ],
+            [
+              106.13160533380199,
+              20.058260323806593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.21_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Quang Thiện",
+        "VARNAME_3": "Quang Thien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14647,
+        "ward_name": "Xã Quang Thiện"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.061,
+              20.1183
+            ],
+            [
+              106.05360848649575,
+              20.111454168700764
+            ],
+            [
+              106.09301106824532,
+              20.054508712559215
+            ],
+            [
+              106.061,
+              20.1183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.22_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Thành",
+        "VARNAME_3": "Tan Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14668,
+        "ward_name": "Xã Tân Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.1172,
+                20.0511
+              ],
+              [
+                106.1119,
+                20.0523
+              ],
+              [
+                106.109,
+                20.0586
+              ],
+              [
+                106.1016,
+                20.0649
+              ],
+              [
+                106.0892,
+                20.0889
+              ],
+              [
+                106.0833,
+                20.0877
+              ],
+              [
+                106.1103,
+                20.0366
+              ],
+              [
+                106.1098,
+                20.035
+              ],
+              [
+                106.1132,
+                20.0348
+              ],
+              [
+                106.1147,
+                20.0467
+              ],
+              [
+                106.1172,
+                20.0511
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                106.0712,
+                20.1237
+              ],
+              [
+                106.0662,
+                20.1211
+              ],
+              [
+                106.0797,
+                20.0948
+              ],
+              [
+                106.08568934337998,
+                20.09579822389666
+              ],
+              [
+                106.0712,
+                20.1237
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.23_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thượng Kiệm",
+        "VARNAME_3": "Thuong Kiem",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14662,
+        "ward_name": "Xã Thượng Kiệm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.06842425828108,
+              20.04169724539665
+            ],
+            [
+              106.06576517079321,
+              20.032979086428245
+            ],
+            [
+              106.0659,
+              20.0321
+            ],
+            [
+              106.0613,
+              20.0182
+            ],
+            [
+              106.0635,
+              20.0176
+            ],
+            [
+              106.0838,
+              20.0243
+            ],
+            [
+              106.1033,
+              20.0306
+            ],
+            [
+              106.1026,
+              20.0354
+            ],
+            [
+              106.0963,
+              20.035
+            ],
+            [
+              106.0957,
+              20.0386
+            ],
+            [
+              106.06842425828108,
+              20.04169724539665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.24_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Văn Hải",
+        "VARNAME_3": "Van Hai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14680,
+        "ward_name": "Xã Văn Hải"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.1574,
+              20.1185
+            ],
+            [
+              106.1625,
+              20.1236
+            ],
+            [
+              106.1409,
+              20.1559
+            ],
+            [
+              106.1337,
+              20.1514
+            ],
+            [
+              106.1574,
+              20.1185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.25_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Xuân Thiện",
+        "VARNAME_3": "Xuan Thien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14626,
+        "ward_name": "Xã Xuân Thiện"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.09385345998707,
+              20.05283000401613
+            ],
+            [
+              106.09301106824532,
+              20.054508712559215
+            ],
+            [
+              106.05360848649575,
+              20.111454168700764
+            ],
+            [
+              106.0461,
+              20.1045
+            ],
+            [
+              106.0362,
+              20.0975
+            ],
+            [
+              106.04691158690173,
+              20.09147183421114
+            ],
+            [
+              106.0517,
+              20.0896
+            ],
+            [
+              106.0659,
+              20.079
+            ],
+            [
+              106.0734,
+              20.069
+            ],
+            [
+              106.0777,
+              20.073
+            ],
+            [
+              106.09385345998707,
+              20.05283000401613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.26_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Yên Lộc",
+        "VARNAME_3": "Yen Loc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14671,
+        "ward_name": "Xã Yên Lộc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.08258913331566,
+                20.127712059369202
+              ],
+              [
+                106.0744,
+                20.1368
+              ],
+              [
+                106.069,
+                20.1317
+              ],
+              [
+                106.0678,
+                20.1331
+              ],
+              [
+                106.06294283293194,
+                20.12883758808313
+              ],
+              [
+                106.0659,
+                20.1256
+              ],
+              [
+                106.0712,
+                20.1237
+              ],
+              [
+                106.0792,
+                20.1266
+              ],
+              [
+                106.08258913331566,
+                20.127712059369202
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                106.0933,
+                20.1311
+              ],
+              [
+                106.0917,
+                20.1346
+              ],
+              [
+                106.08521935846933,
+                20.144555768148564
+              ],
+              [
+                106.08468079270843,
+                20.145121431557822
+              ],
+              [
+                106.0804,
+                20.1423
+              ],
+              [
+                106.0916,
+                20.1306
+              ],
+              [
+                106.0933,
+                20.1311
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.3.27_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.3_1",
+        "NAME_2": "Kim Sơn",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Yên Mật",
+        "VARNAME_3": "Yen Mat",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 452,
+        "district_name": "Huyện Kim Sơn",
+        "ward_id": 14644,
+        "ward_name": "Xã Yên Mật"
+      }
+    }
+  ]
+}

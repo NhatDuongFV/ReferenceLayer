@@ -1,0 +1,1110 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_8",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.692,
+              10.7416
+            ],
+            [
+              106.693,
+              10.7452
+            ],
+            [
+              106.6905,
+              10.7522
+            ],
+            [
+              106.6878,
+              10.7518
+            ],
+            [
+              106.6894,
+              10.7457
+            ],
+            [
+              106.6867,
+              10.7425
+            ],
+            [
+              106.68756884512086,
+              10.74058854073411
+            ],
+            [
+              106.692,
+              10.7416
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 1",
+        "VARNAME_3": "Ward 1",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27394,
+        "ward_name": "Phường 01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.669,
+              10.7463
+            ],
+            [
+              106.6693,
+              10.7496
+            ],
+            [
+              106.6628,
+              10.7468
+            ],
+            [
+              106.6617,
+              10.743
+            ],
+            [
+              106.6649,
+              10.7435
+            ],
+            [
+              106.6647,
+              10.7454
+            ],
+            [
+              106.669,
+              10.7463
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 10",
+        "VARNAME_3": "Ward 10",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27406,
+        "ward_name": "Phường 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6605,
+              10.7487
+            ],
+            [
+              106.66,
+              10.7463
+            ],
+            [
+              106.6612,
+              10.7429
+            ],
+            [
+              106.6628,
+              10.7468
+            ],
+            [
+              106.6693,
+              10.7496
+            ],
+            [
+              106.66686096579477,
+              10.750049295774646
+            ],
+            [
+              106.6605,
+              10.7487
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 11",
+        "VARNAME_3": "Ward 11",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27400,
+        "ward_name": "Phường 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.66,
+              10.7463
+            ],
+            [
+              106.6519,
+              10.7423
+            ],
+            [
+              106.6531,
+              10.7402
+            ],
+            [
+              106.656,
+              10.7417
+            ],
+            [
+              106.6612,
+              10.7429
+            ],
+            [
+              106.66,
+              10.7463
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 12",
+        "VARNAME_3": "Ward 12",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27415,
+        "ward_name": "Phường 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.655,
+              10.7461
+            ],
+            [
+              106.65094104803492,
+              10.743738427947594
+            ],
+            [
+              106.6519,
+              10.7423
+            ],
+            [
+              106.66,
+              10.7463
+            ],
+            [
+              106.6605,
+              10.7487
+            ],
+            [
+              106.655,
+              10.7461
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 13",
+        "VARNAME_3": "Ward 13",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27412,
+        "ward_name": "Phường 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.64419186935372,
+              10.739728908964556
+            ],
+            [
+              106.6418,
+              10.7383
+            ],
+            [
+              106.644,
+              10.7346
+            ],
+            [
+              106.6531,
+              10.7402
+            ],
+            [
+              106.6519,
+              10.7423
+            ],
+            [
+              106.65094104803492,
+              10.743738427947594
+            ],
+            [
+              106.6495,
+              10.7429
+            ],
+            [
+              106.64419186935372,
+              10.739728908964556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 14",
+        "VARNAME_3": "Ward 14",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27421,
+        "ward_name": "Phường 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6344,
+              10.7335
+            ],
+            [
+              106.62423487107172,
+              10.711590692989525
+            ],
+            [
+              106.6312,
+              10.7165
+            ],
+            [
+              106.63985337078651,
+              10.731473033707859
+            ],
+            [
+              106.644,
+              10.7346
+            ],
+            [
+              106.6418,
+              10.7383
+            ],
+            [
+              106.6344,
+              10.7335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 15",
+        "VARNAME_3": "Ward 15",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27427,
+        "ward_name": "Phường 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6038,
+              10.7108
+            ],
+            [
+              106.6044,
+              10.7043
+            ],
+            [
+              106.62423487107172,
+              10.711590692989525
+            ],
+            [
+              106.6344,
+              10.7335
+            ],
+            [
+              106.6272,
+              10.7298
+            ],
+            [
+              106.6241,
+              10.7315
+            ],
+            [
+              106.62161185792964,
+              10.734348173541642
+            ],
+            [
+              106.6191,
+              10.7162
+            ],
+            [
+              106.6038,
+              10.7108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 16",
+        "VARNAME_3": "Ward 16",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27430,
+        "ward_name": "Phường 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.68756884512086,
+              10.74058854073411
+            ],
+            [
+              106.6867,
+              10.7425
+            ],
+            [
+              106.6894,
+              10.7457
+            ],
+            [
+              106.6878,
+              10.7518
+            ],
+            [
+              106.6865,
+              10.7518
+            ],
+            [
+              106.6839,
+              10.7506
+            ],
+            [
+              106.6855,
+              10.7476
+            ],
+            [
+              106.6828,
+              10.7463
+            ],
+            [
+              106.68593703084638,
+              10.740216061388846
+            ],
+            [
+              106.68756884512086,
+              10.74058854073411
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 2",
+        "VARNAME_3": "Ward 2",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27391,
+        "ward_name": "Phường 02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.68593703084638,
+              10.740216061388846
+            ],
+            [
+              106.6828,
+              10.7463
+            ],
+            [
+              106.6855,
+              10.7476
+            ],
+            [
+              106.6839,
+              10.7506
+            ],
+            [
+              106.68000827586208,
+              10.74843793103449
+            ],
+            [
+              106.6781,
+              10.7456
+            ],
+            [
+              106.6816,
+              10.7428
+            ],
+            [
+              106.6828,
+              10.7395
+            ],
+            [
+              106.68593703084638,
+              10.740216061388846
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 3",
+        "VARNAME_3": "Ward 3",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27397,
+        "ward_name": "Phường 03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6828,
+              10.7395
+            ],
+            [
+              106.6816,
+              10.7428
+            ],
+            [
+              106.6781,
+              10.7456
+            ],
+            [
+              106.68000827586208,
+              10.74843793103449
+            ],
+            [
+              106.67644917382684,
+              10.747124454725709
+            ],
+            [
+              106.67171408450704,
+              10.74529014084507
+            ],
+            [
+              106.6689,
+              10.7442
+            ],
+            [
+              106.669,
+              10.7401
+            ],
+            [
+              106.6717,
+              10.7362
+            ],
+            [
+              106.6736,
+              10.7374
+            ],
+            [
+              106.676,
+              10.7354
+            ],
+            [
+              106.6818,
+              10.7345
+            ],
+            [
+              106.6828,
+              10.7395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 4",
+        "VARNAME_3": "Ward 4",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27409,
+        "ward_name": "Phường 04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6717,
+              10.7362
+            ],
+            [
+              106.669,
+              10.7401
+            ],
+            [
+              106.6689,
+              10.7442
+            ],
+            [
+              106.67171408450704,
+              10.74529014084507
+            ],
+            [
+              106.6649,
+              10.7435
+            ],
+            [
+              106.6617,
+              10.743
+            ],
+            [
+              106.6628,
+              10.7468
+            ],
+            [
+              106.6612,
+              10.7429
+            ],
+            [
+              106.656,
+              10.7417
+            ],
+            [
+              106.6561,
+              10.7322
+            ],
+            [
+              106.6658,
+              10.7342
+            ],
+            [
+              106.6662,
+              10.7321
+            ],
+            [
+              106.6717,
+              10.7362
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 5",
+        "VARNAME_3": "Ward 5",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27418,
+        "ward_name": "Phường 05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6561,
+              10.7322
+            ],
+            [
+              106.656,
+              10.7417
+            ],
+            [
+              106.6531,
+              10.7402
+            ],
+            [
+              106.644,
+              10.7346
+            ],
+            [
+              106.63985337078651,
+              10.731473033707859
+            ],
+            [
+              106.6422,
+              10.7277
+            ],
+            [
+              106.64967230609058,
+              10.728645861530454
+            ],
+            [
+              106.6495,
+              10.7303
+            ],
+            [
+              106.6561,
+              10.7322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 6",
+        "VARNAME_3": "Ward 6",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27424,
+        "ward_name": "Phường 06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6237,
+              10.693
+            ],
+            [
+              106.62422465116279,
+              10.692628372093026
+            ],
+            [
+              106.6261,
+              10.6937
+            ],
+            [
+              106.6422,
+              10.7277
+            ],
+            [
+              106.63985337078651,
+              10.731473033707859
+            ],
+            [
+              106.6312,
+              10.7165
+            ],
+            [
+              106.62423487107172,
+              10.711590692989525
+            ],
+            [
+              106.6044,
+              10.7043
+            ],
+            [
+              106.5978,
+              10.7018
+            ],
+            [
+              106.6015,
+              10.6951
+            ],
+            [
+              106.6096,
+              10.6954
+            ],
+            [
+              106.6207,
+              10.6998
+            ],
+            [
+              106.6237,
+              10.693
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 7",
+        "VARNAME_3": "Ward 7",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27433,
+        "ward_name": "Phường 07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6773,
+              10.7518
+            ],
+            [
+              106.6756,
+              10.7489
+            ],
+            [
+              106.67644917382684,
+              10.747124454725709
+            ],
+            [
+              106.68000827586208,
+              10.74843793103449
+            ],
+            [
+              106.6839,
+              10.7506
+            ],
+            [
+              106.6773,
+              10.7518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 8",
+        "VARNAME_3": "Ward 8",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27388,
+        "ward_name": "Phường 08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6735,
+              10.7488
+            ],
+            [
+              106.6693,
+              10.7496
+            ],
+            [
+              106.669,
+              10.7463
+            ],
+            [
+              106.6647,
+              10.7454
+            ],
+            [
+              106.6649,
+              10.7435
+            ],
+            [
+              106.67171408450704,
+              10.74529014084507
+            ],
+            [
+              106.67644917382684,
+              10.747124454725709
+            ],
+            [
+              106.6756,
+              10.7489
+            ],
+            [
+              106.6735,
+              10.7488
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.20.16_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.20_1",
+        "NAME_2": "Quận 8",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 9",
+        "VARNAME_3": "Ward 9",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 8,
+        "district_name": "Quận 8",
+        "ward_id": 27403,
+        "ward_name": "Phường 09"
+      }
+    }
+  ]
+}

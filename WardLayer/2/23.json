@@ -1,0 +1,1322 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_23",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.87,
+              21.011
+            ],
+            [
+              105.86759139682161,
+              21.019853244115186
+            ],
+            [
+              105.86167899677324,
+              21.019355910824288
+            ],
+            [
+              105.8588,
+              21.0191
+            ],
+            [
+              105.860930241363,
+              21.01258017037388
+            ],
+            [
+              105.8621,
+              21.009
+            ],
+            [
+              105.8654,
+              21.0085
+            ],
+            [
+              105.87,
+              21.011
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bạch Đằng",
+        "VARNAME_3": "Bach Dang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 244,
+        "ward_name": "Phường Bạch Đằng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.84174522821576,
+              21.004938174273857
+            ],
+            [
+              105.8446,
+              21.0036
+            ],
+            [
+              105.8454,
+              21.0002
+            ],
+            [
+              105.8488,
+              21.0002
+            ],
+            [
+              105.85,
+              21.0033
+            ],
+            [
+              105.848,
+              21.0047
+            ],
+            [
+              105.849,
+              21.0085
+            ],
+            [
+              105.8414,
+              21.0077
+            ],
+            [
+              105.84174522821576,
+              21.004938174273857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bách Khoa",
+        "VARNAME_3": "Bach Khoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 277,
+        "ward_name": "Phường Bách Khoa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8488,
+              21.0002
+            ],
+            [
+              105.85228302618816,
+              20.997450242483026
+            ],
+            [
+              105.85280359183673,
+              20.99759314285714
+            ],
+            [
+              105.8555,
+              21.0028
+            ],
+            [
+              105.85090357142856,
+              21.003217857142857
+            ],
+            [
+              105.85,
+              21.0033
+            ],
+            [
+              105.8488,
+              21.0002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bạch Mai",
+        "VARNAME_3": "Bach Mai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 286,
+        "ward_name": "Phường Bạch Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8512,
+              21.0118
+            ],
+            [
+              105.8514,
+              21.0136
+            ],
+            [
+              105.8513,
+              21.0183
+            ],
+            [
+              105.85015393258426,
+              21.018538764044944
+            ],
+            [
+              105.8492,
+              21.0152
+            ],
+            [
+              105.8512,
+              21.0118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bùi Thị Xuân",
+        "VARNAME_3": "Bui Thi Xuan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 250,
+        "ward_name": "Phường Bùi Thị Xuân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.85,
+              21.0033
+            ],
+            [
+              105.85090357142856,
+              21.003217857142857
+            ],
+            [
+              105.852,
+              21.0087
+            ],
+            [
+              105.849,
+              21.0085
+            ],
+            [
+              105.848,
+              21.0047
+            ],
+            [
+              105.85,
+              21.0033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cầu Dền",
+        "VARNAME_3": "Cau Den",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 274,
+        "ward_name": "Phường Cầu Dền"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.860930241363,
+              21.01258017037388
+            ],
+            [
+              105.8568,
+              21.0143
+            ],
+            [
+              105.85760294117647,
+              21.010635294117648
+            ],
+            [
+              105.8621,
+              21.009
+            ],
+            [
+              105.860930241363,
+              21.01258017037388
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đống Mác",
+        "VARNAME_3": "Dong Mac",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 265,
+        "ward_name": "Phường Đống Mác"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8568,
+              21.0143
+            ],
+            [
+              105.85420322952712,
+              21.01387012687428
+            ],
+            [
+              105.8562,
+              21.0097
+            ],
+            [
+              105.85760294117647,
+              21.010635294117648
+            ],
+            [
+              105.8568,
+              21.0143
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đồng Nhân",
+        "VARNAME_3": "Dong Nhan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 259,
+        "ward_name": "Phường Đồng Nhân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8427,
+              20.9973
+            ],
+            [
+              105.8419940677966,
+              20.99204962923729
+            ],
+            [
+              105.8428,
+              20.9921
+            ],
+            [
+              105.8443,
+              20.994
+            ],
+            [
+              105.8459,
+              20.9976
+            ],
+            [
+              105.8488,
+              21.0002
+            ],
+            [
+              105.8454,
+              21.0002
+            ],
+            [
+              105.8446,
+              21.0036
+            ],
+            [
+              105.84174522821576,
+              21.004938174273857
+            ],
+            [
+              105.8427,
+              20.9973
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đồng Tâm",
+        "VARNAME_3": "Dong Tam",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 280,
+        "ward_name": "Phường Đồng Tâm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8414,
+              21.0077
+            ],
+            [
+              105.849,
+              21.0085
+            ],
+            [
+              105.852,
+              21.0087
+            ],
+            [
+              105.8581,
+              21.01
+            ],
+            [
+              105.8608,
+              21.0091
+            ],
+            [
+              105.8621,
+              21.009
+            ],
+            [
+              105.85760294117647,
+              21.010635294117648
+            ],
+            [
+              105.8562,
+              21.0097
+            ],
+            [
+              105.851,
+              21.0088
+            ],
+            [
+              105.8512,
+              21.0118
+            ],
+            [
+              105.8492,
+              21.0152
+            ],
+            [
+              105.8478,
+              21.017
+            ],
+            [
+              105.8429,
+              21.0174
+            ],
+            [
+              105.8414,
+              21.0163
+            ],
+            [
+              105.8414,
+              21.0137
+            ],
+            [
+              105.8414,
+              21.0077
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lê Đại Hành",
+        "VARNAME_3": "Le Dai Hanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 256,
+        "ward_name": "Phường Lê Đại Hành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8572,
+              20.9988
+            ],
+            [
+              105.85280359183673,
+              20.99759314285714
+            ],
+            [
+              105.85228302618816,
+              20.997450242483026
+            ],
+            [
+              105.852,
+              20.9942
+            ],
+            [
+              105.858,
+              20.9932
+            ],
+            [
+              105.8608,
+              20.9957
+            ],
+            [
+              105.8626,
+              20.9928
+            ],
+            [
+              105.8619,
+              20.999
+            ],
+            [
+              105.85893122594833,
+              20.99832963166575
+            ],
+            [
+              105.8572,
+              20.9988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Minh Khai",
+        "VARNAME_3": "Minh Khai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 295,
+        "ward_name": "Phường Minh Khai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8514,
+              21.0136
+            ],
+            [
+              105.85383396648045,
+              21.013860782122904
+            ],
+            [
+              105.8547,
+              21.0182
+            ],
+            [
+              105.8513,
+              21.0183
+            ],
+            [
+              105.8514,
+              21.0136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ngô Thì Nhậm",
+        "VARNAME_3": "Ngo Thi Nham",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 253,
+        "ward_name": "Phường Ngô Thì Nhậm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8492,
+              21.0152
+            ],
+            [
+              105.85015393258426,
+              21.018538764044944
+            ],
+            [
+              105.848925,
+              21.0188796875
+            ],
+            [
+              105.84284174397031,
+              21.020780705009276
+            ],
+            [
+              105.84149540106951,
+              21.02097465240642
+            ],
+            [
+              105.8414,
+              21.0163
+            ],
+            [
+              105.8429,
+              21.0174
+            ],
+            [
+              105.8478,
+              21.017
+            ],
+            [
+              105.8492,
+              21.0152
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nguyễn Du",
+        "VARNAME_3": "Nguyen Du",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 241,
+        "ward_name": "Phường Nguyễn Du"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8588,
+              21.0191
+            ],
+            [
+              105.8547,
+              21.0182
+            ],
+            [
+              105.85383396648045,
+              21.013860782122904
+            ],
+            [
+              105.85420322952712,
+              21.01387012687428
+            ],
+            [
+              105.8568,
+              21.0143
+            ],
+            [
+              105.860930241363,
+              21.01258017037388
+            ],
+            [
+              105.8588,
+              21.0191
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phạm Đình Hổ",
+        "VARNAME_3": "Pham Dinh Ho",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 247,
+        "ward_name": "Phường Phạm Đình Hổ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.85420322952712,
+              21.01387012687428
+            ],
+            [
+              105.85383396648045,
+              21.013860782122904
+            ],
+            [
+              105.8514,
+              21.0136
+            ],
+            [
+              105.8512,
+              21.0118
+            ],
+            [
+              105.851,
+              21.0088
+            ],
+            [
+              105.8562,
+              21.0097
+            ],
+            [
+              105.85420322952712,
+              21.01387012687428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phố Huế",
+        "VARNAME_3": "Pho Hue",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 262,
+        "ward_name": "Phường Phố Huế"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.85280359183673,
+              20.99759314285714
+            ],
+            [
+              105.8572,
+              20.9988
+            ],
+            [
+              105.85893122594833,
+              20.99832963166575
+            ],
+            [
+              105.8587,
+              21.0028
+            ],
+            [
+              105.8555,
+              21.0028
+            ],
+            [
+              105.85280359183673,
+              20.99759314285714
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Quỳnh Lôi",
+        "VARNAME_3": "Quynh Loi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 292,
+        "ward_name": "Phường Quỳnh Lôi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.85893122594833,
+              20.99832963166575
+            ],
+            [
+              105.8619,
+              20.999
+            ],
+            [
+              105.8615,
+              21.003
+            ],
+            [
+              105.8587,
+              21.0028
+            ],
+            [
+              105.85893122594833,
+              20.99832963166575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.16_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Quỳnh Mai",
+        "VARNAME_3": "Quynh Mai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 289,
+        "ward_name": "Phường Quỳnh Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8621,
+              21.009
+            ],
+            [
+              105.8608,
+              21.0091
+            ],
+            [
+              105.8615,
+              21.003
+            ],
+            [
+              105.8708,
+              21.0032
+            ],
+            [
+              105.8755871491876,
+              21.00129741506647
+            ],
+            [
+              105.8795,
+              21.0007
+            ],
+            [
+              105.8831,
+              21.0027
+            ],
+            [
+              105.875,
+              21.0053
+            ],
+            [
+              105.87,
+              21.011
+            ],
+            [
+              105.8654,
+              21.0085
+            ],
+            [
+              105.8621,
+              21.009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.17_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thanh Lương",
+        "VARNAME_3": "Thanh Luong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 268,
+        "ward_name": "Phường Thanh Lương"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.85090357142856,
+              21.003217857142857
+            ],
+            [
+              105.8555,
+              21.0028
+            ],
+            [
+              105.8587,
+              21.0028
+            ],
+            [
+              105.8615,
+              21.003
+            ],
+            [
+              105.8608,
+              21.0091
+            ],
+            [
+              105.8581,
+              21.01
+            ],
+            [
+              105.852,
+              21.0087
+            ],
+            [
+              105.85090357142856,
+              21.003217857142857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.18_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thanh Nhàn",
+        "VARNAME_3": "Thanh Nhan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 271,
+        "ward_name": "Phường Thanh Nhàn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.851275,
+              20.993329999999993
+            ],
+            [
+              105.852,
+              20.9942
+            ],
+            [
+              105.85228302618816,
+              20.997450242483026
+            ],
+            [
+              105.8488,
+              21.0002
+            ],
+            [
+              105.8459,
+              20.9976
+            ],
+            [
+              105.8443,
+              20.994
+            ],
+            [
+              105.84767509433964,
+              20.991017358490563
+            ],
+            [
+              105.85060294767871,
+              20.990014541881603
+            ],
+            [
+              105.851275,
+              20.993329999999993
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.19_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Trương Định",
+        "VARNAME_3": "Truong Dinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 298,
+        "ward_name": "Phường Trương Định"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.8615,
+              21.003
+            ],
+            [
+              105.8619,
+              20.999
+            ],
+            [
+              105.8626,
+              20.9928
+            ],
+            [
+              105.87127051282052,
+              20.991998717948718
+            ],
+            [
+              105.8759,
+              20.9943
+            ],
+            [
+              105.878,
+              20.9972
+            ],
+            [
+              105.87846666666667,
+              20.999833333333335
+            ],
+            [
+              105.8755871491876,
+              21.00129741506647
+            ],
+            [
+              105.8708,
+              21.0032
+            ],
+            [
+              105.8615,
+              21.003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.27.12.20_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.27_1",
+        "NAME_1": "Hà Nội",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.27.12_1",
+        "NAME_2": "Hai Bà Trưng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Tuy",
+        "VARNAME_3": "Vinh Tuy",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 2,
+        "province_name": "Hà Nội",
+        "district_id": 23,
+        "district_name": "Quận Hai Bà Trưng",
+        "ward_id": 283,
+        "ward_name": "Phường Vĩnh Tuy"
+      }
+    }
+  ]
+}

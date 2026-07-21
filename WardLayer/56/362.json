@@ -1,0 +1,938 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_362",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1296,
+              9.9713
+            ],
+            [
+              105.1279,
+              9.9733
+            ],
+            [
+              105.1142,
+              9.9777
+            ],
+            [
+              105.1068,
+              9.9841
+            ],
+            [
+              105.114,
+              9.9512
+            ],
+            [
+              105.12055331176055,
+              9.956701456163415
+            ],
+            [
+              105.1257,
+              9.9579
+            ],
+            [
+              105.128,
+              9.961
+            ],
+            [
+              105.1326,
+              9.9623
+            ],
+            [
+              105.1307,
+              9.9645
+            ],
+            [
+              105.1315,
+              9.9702
+            ],
+            [
+              105.1296,
+              9.9713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Bình",
+        "VARNAME_3": "An Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30751,
+        "ward_name": "Phường An Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1068,
+              9.9841
+            ],
+            [
+              105.10381943860517,
+              9.990203054284654
+            ],
+            [
+              105.0891,
+              9.9823
+            ],
+            [
+              105.1029,
+              9.9525
+            ],
+            [
+              105.1066,
+              9.9495
+            ],
+            [
+              105.114,
+              9.9512
+            ],
+            [
+              105.1068,
+              9.9841
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Hòa",
+        "VARNAME_3": "An Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30748,
+        "ward_name": "Phường An Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.12725942549372,
+              10.033450718132856
+            ],
+            [
+              105.14642206594635,
+              10.054640997578241
+            ],
+            [
+              105.1643,
+              10.0745
+            ],
+            [
+              105.1494,
+              10.0848
+            ],
+            [
+              105.127,
+              10.1011
+            ],
+            [
+              105.1074,
+              10.1104
+            ],
+            [
+              105.098,
+              10.1143
+            ],
+            [
+              105.0835,
+              10.079
+            ],
+            [
+              105.0782,
+              10.0727
+            ],
+            [
+              105.0796,
+              10.0676
+            ],
+            [
+              105.0775,
+              10.067
+            ],
+            [
+              105.0765,
+              10.0629
+            ],
+            [
+              105.08565580692647,
+              10.059615851863333
+            ],
+            [
+              105.0859,
+              10.0602
+            ],
+            [
+              105.1166,
+              10.0446
+            ],
+            [
+              105.1145,
+              10.04
+            ],
+            [
+              105.1253,
+              10.0359
+            ],
+            [
+              105.12725942549372,
+              10.033450718132856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phi Thông",
+        "VARNAME_3": "Phi Thong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30763,
+        "ward_name": "Xã Phi Thông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1278,
+              9.9453
+            ],
+            [
+              105.12055331176055,
+              9.956701456163415
+            ],
+            [
+              105.114,
+              9.9512
+            ],
+            [
+              105.1066,
+              9.9495
+            ],
+            [
+              105.105,
+              9.9363
+            ],
+            [
+              105.1183,
+              9.9384
+            ],
+            [
+              105.1299,
+              9.9422
+            ],
+            [
+              105.1278,
+              9.9453
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Rạch Sỏi",
+        "VARNAME_3": "Rach Soi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30754,
+        "ward_name": "Phường Rạch Sỏi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.0826,
+              9.9966
+            ],
+            [
+              105.0925,
+              10.0024
+            ],
+            [
+              105.0899,
+              10.0055
+            ],
+            [
+              105.0888,
+              10.0107
+            ],
+            [
+              105.0788,
+              10.0044
+            ],
+            [
+              105.0826,
+              9.9966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Bảo",
+        "VARNAME_3": "Vinh Bao",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30742,
+        "ward_name": "Phường Vĩnh Bảo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.111,
+              10.0154
+            ],
+            [
+              105.1103,
+              10.0208
+            ],
+            [
+              105.1064,
+              10.024
+            ],
+            [
+              105.1055,
+              10.0269
+            ],
+            [
+              105.0924,
+              10.0177
+            ],
+            [
+              105.08737317880795,
+              10.014062168874174
+            ],
+            [
+              105.0888,
+              10.0107
+            ],
+            [
+              105.0899,
+              10.0055
+            ],
+            [
+              105.0925,
+              10.0024
+            ],
+            [
+              105.10381943860517,
+              9.990203054284654
+            ],
+            [
+              105.1068,
+              9.9841
+            ],
+            [
+              105.1142,
+              9.9777
+            ],
+            [
+              105.1279,
+              9.9733
+            ],
+            [
+              105.1296,
+              9.9713
+            ],
+            [
+              105.1368,
+              9.9759
+            ],
+            [
+              105.1209,
+              9.9921
+            ],
+            [
+              105.113,
+              9.992
+            ],
+            [
+              105.1062,
+              10.0004
+            ],
+            [
+              105.1062,
+              10.0045
+            ],
+            [
+              105.1101,
+              10.0099
+            ],
+            [
+              105.1137,
+              10.0104
+            ],
+            [
+              105.111,
+              10.0154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Hiệp",
+        "VARNAME_3": "Vinh Hiep",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30739,
+        "ward_name": "Phường Vĩnh Hiệp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.10381943860517,
+              9.990203054284654
+            ],
+            [
+              105.0925,
+              10.0024
+            ],
+            [
+              105.0826,
+              9.9966
+            ],
+            [
+              105.0825,
+              9.9914
+            ],
+            [
+              105.0855,
+              9.9902
+            ],
+            [
+              105.0891,
+              9.9823
+            ],
+            [
+              105.10381943860517,
+              9.990203054284654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Lạc",
+        "VARNAME_3": "Vinh Lac",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30745,
+        "ward_name": "Phường Vĩnh Lạc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1358,
+              9.9633
+            ],
+            [
+              105.1326,
+              9.9623
+            ],
+            [
+              105.128,
+              9.961
+            ],
+            [
+              105.1257,
+              9.9579
+            ],
+            [
+              105.12055331176055,
+              9.956701456163415
+            ],
+            [
+              105.1278,
+              9.9453
+            ],
+            [
+              105.1326,
+              9.9472
+            ],
+            [
+              105.14308593055785,
+              9.949773819318741
+            ],
+            [
+              105.143,
+              9.9545
+            ],
+            [
+              105.1469,
+              9.9609
+            ],
+            [
+              105.1444,
+              9.9637
+            ],
+            [
+              105.1424,
+              9.9614
+            ],
+            [
+              105.1358,
+              9.9633
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Lợi",
+        "VARNAME_3": "Vinh Loi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30757,
+        "ward_name": "Phường Vĩnh Lợi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.052,
+              10.0371
+            ],
+            [
+              105.0637,
+              10.0218
+            ],
+            [
+              105.0734,
+              10.0134
+            ],
+            [
+              105.09131194643129,
+              10.021568634910972
+            ],
+            [
+              105.0888,
+              10.0305
+            ],
+            [
+              105.0766,
+              10.0463
+            ],
+            [
+              105.0745,
+              10.0487
+            ],
+            [
+              105.052,
+              10.0371
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Quang",
+        "VARNAME_3": "Vinh Quang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30736,
+        "ward_name": "Phường Vĩnh Quang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.0734,
+              10.0134
+            ],
+            [
+              105.07927972665148,
+              10.010491343963553
+            ],
+            [
+              105.0848,
+              10.0122
+            ],
+            [
+              105.08737317880795,
+              10.014062168874174
+            ],
+            [
+              105.0924,
+              10.0177
+            ],
+            [
+              105.09131194643129,
+              10.021568634910972
+            ],
+            [
+              105.0734,
+              10.0134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Thanh",
+        "VARNAME_3": "Vinh Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30733,
+        "ward_name": "Phường Vĩnh Thanh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.0888,
+              10.0107
+            ],
+            [
+              105.08737317880795,
+              10.014062168874174
+            ],
+            [
+              105.0848,
+              10.0122
+            ],
+            [
+              105.07927972665148,
+              10.010491343963553
+            ],
+            [
+              105.0762,
+              10.0083
+            ],
+            [
+              105.0788,
+              10.0044
+            ],
+            [
+              105.0888,
+              10.0107
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Thanh Vân",
+        "VARNAME_3": "Vinh Thanh Van",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30730,
+        "ward_name": "Phường Vĩnh Thanh Vân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.12725942549372,
+              10.033450718132856
+            ],
+            [
+              105.1253,
+              10.0359
+            ],
+            [
+              105.1145,
+              10.04
+            ],
+            [
+              105.1166,
+              10.0446
+            ],
+            [
+              105.0859,
+              10.0602
+            ],
+            [
+              105.08565580692647,
+              10.059615851863333
+            ],
+            [
+              105.0808,
+              10.048
+            ],
+            [
+              105.0766,
+              10.0463
+            ],
+            [
+              105.0888,
+              10.0305
+            ],
+            [
+              105.09131194643129,
+              10.021568634910972
+            ],
+            [
+              105.0924,
+              10.0177
+            ],
+            [
+              105.1055,
+              10.0269
+            ],
+            [
+              105.1064,
+              10.024
+            ],
+            [
+              105.1103,
+              10.0208
+            ],
+            [
+              105.111,
+              10.0154
+            ],
+            [
+              105.12725942549372,
+              10.033450718132856
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.33.12.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.33_1",
+        "NAME_1": "Kiên Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.33.12_1",
+        "NAME_2": "Rạch Giá",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Thông",
+        "VARNAME_3": "Vinh Thong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 56,
+        "province_name": "Kiên Giang",
+        "district_id": 362,
+        "district_name": "Thành phố Rạch Giá",
+        "ward_id": 30760,
+        "ward_name": "Phường Vĩnh Thông"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1158 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_436",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.99,
+              20.2574
+            ],
+            [
+              105.9863,
+              20.253
+            ],
+            [
+              105.9877,
+              20.2521
+            ],
+            [
+              105.9855,
+              20.247
+            ],
+            [
+              106.001,
+              20.2434
+            ],
+            [
+              106.0046,
+              20.2435
+            ],
+            [
+              106.006,
+              20.2475
+            ],
+            [
+              106.008,
+              20.2473
+            ],
+            [
+              106.0105,
+              20.2505
+            ],
+            [
+              105.9997,
+              20.253
+            ],
+            [
+              105.99,
+              20.2574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bích Đào",
+        "VARNAME_3": "Bich Dao",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14332,
+        "ward_name": "Phường Bích Đào"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.9812,
+              20.2672
+            ],
+            [
+              105.98274927136669,
+              20.271589602205594
+            ],
+            [
+              105.96678583260972,
+              20.268106018302053
+            ],
+            [
+              105.9717,
+              20.257
+            ],
+            [
+              105.9791,
+              20.2588
+            ],
+            [
+              105.9821,
+              20.263
+            ],
+            [
+              105.9812,
+              20.2672
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đông Thành",
+        "VARNAME_3": "Dong Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14320,
+        "ward_name": "Phường Đông Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.9699,
+              20.2393
+            ],
+            [
+              105.9816,
+              20.2355
+            ],
+            [
+              105.9855,
+              20.2386
+            ],
+            [
+              105.9867,
+              20.2408
+            ],
+            [
+              105.9848,
+              20.2445
+            ],
+            [
+              105.9855,
+              20.247
+            ],
+            [
+              105.9751,
+              20.2504
+            ],
+            [
+              105.97435186669095,
+              20.248803023128755
+            ],
+            [
+              105.9699,
+              20.2393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nam Bình",
+        "VARNAME_3": "Nam Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14338,
+        "ward_name": "Phường Nam Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.97435186669095,
+              20.248803023128755
+            ],
+            [
+              105.9598,
+              20.2491
+            ],
+            [
+              105.95960740529763,
+              20.249074451723153
+            ],
+            [
+              105.9656,
+              20.2284
+            ],
+            [
+              105.9679,
+              20.2282
+            ],
+            [
+              105.967,
+              20.2328
+            ],
+            [
+              105.9699,
+              20.2393
+            ],
+            [
+              105.97435186669095,
+              20.248803023128755
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nam Thành",
+        "VARNAME_3": "Nam Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14341,
+        "ward_name": "Phường Nam Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.98319527559056,
+              20.272853280839893
+            ],
+            [
+              105.9776,
+              20.2757
+            ],
+            [
+              105.9709,
+              20.2904
+            ],
+            [
+              105.9661,
+              20.2888
+            ],
+            [
+              105.9536,
+              20.2845
+            ],
+            [
+              105.9548,
+              20.2813
+            ],
+            [
+              105.9509,
+              20.2799
+            ],
+            [
+              105.95096437178493,
+              20.279682566415335
+            ],
+            [
+              105.9554,
+              20.2647
+            ],
+            [
+              105.96678583260972,
+              20.268106018302053
+            ],
+            [
+              105.98274927136669,
+              20.271589602205594
+            ],
+            [
+              105.98319527559056,
+              20.272853280839893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ninh Khánh",
+        "VARNAME_3": "Ninh Khanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14344,
+        "ward_name": "Phường Ninh Khánh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.92677865612647,
+              20.263134288537547
+            ],
+            [
+              105.9296,
+              20.2613
+            ],
+            [
+              105.9279,
+              20.2584
+            ],
+            [
+              105.9445,
+              20.2555
+            ],
+            [
+              105.9464,
+              20.2512
+            ],
+            [
+              105.95,
+              20.2478
+            ],
+            [
+              105.95960740529763,
+              20.249074451723153
+            ],
+            [
+              105.9598,
+              20.2491
+            ],
+            [
+              105.9586,
+              20.2536
+            ],
+            [
+              105.9554,
+              20.2647
+            ],
+            [
+              105.95096437178493,
+              20.279682566415335
+            ],
+            [
+              105.9509,
+              20.2799
+            ],
+            [
+              105.9446,
+              20.2755
+            ],
+            [
+              105.9422,
+              20.2821
+            ],
+            [
+              105.9379,
+              20.2827
+            ],
+            [
+              105.9332,
+              20.2692
+            ],
+            [
+              105.9308,
+              20.2667
+            ],
+            [
+              105.9275,
+              20.2662
+            ],
+            [
+              105.92677865612647,
+              20.263134288537547
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ninh Nhất",
+        "VARNAME_3": "Ninh Nhat",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14347,
+        "ward_name": "Xã Ninh Nhất"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.9777,
+              20.2135
+            ],
+            [
+              105.9746,
+              20.216
+            ],
+            [
+              105.9802,
+              20.2251
+            ],
+            [
+              105.982,
+              20.2241
+            ],
+            [
+              105.9856,
+              20.2301
+            ],
+            [
+              105.9839,
+              20.2307
+            ],
+            [
+              105.9886,
+              20.238
+            ],
+            [
+              105.9855,
+              20.2386
+            ],
+            [
+              105.9816,
+              20.2355
+            ],
+            [
+              105.9699,
+              20.2393
+            ],
+            [
+              105.967,
+              20.2328
+            ],
+            [
+              105.9679,
+              20.2282
+            ],
+            [
+              105.9656,
+              20.2284
+            ],
+            [
+              105.9638,
+              20.2283
+            ],
+            [
+              105.9659,
+              20.222
+            ],
+            [
+              105.9576,
+              20.2181
+            ],
+            [
+              105.96022621359224,
+              20.20961925566343
+            ],
+            [
+              105.9621,
+              20.2104
+            ],
+            [
+              105.9736,
+              20.2106
+            ],
+            [
+              105.9777,
+              20.2135
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ninh Phong",
+        "VARNAME_3": "Ninh Phong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14359,
+        "ward_name": "Phường Ninh Phong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.0105,
+              20.2505
+            ],
+            [
+              106.008,
+              20.2473
+            ],
+            [
+              106.006,
+              20.2475
+            ],
+            [
+              106.0046,
+              20.2435
+            ],
+            [
+              106.001,
+              20.2434
+            ],
+            [
+              105.9978,
+              20.2322
+            ],
+            [
+              105.9965,
+              20.2326
+            ],
+            [
+              105.9885,
+              20.2143
+            ],
+            [
+              105.9878,
+              20.2105
+            ],
+            [
+              105.98571698113207,
+              20.21041320754717
+            ],
+            [
+              105.9857,
+              20.2066
+            ],
+            [
+              105.9873,
+              20.2
+            ],
+            [
+              105.9901,
+              20.2026
+            ],
+            [
+              105.9934,
+              20.2025
+            ],
+            [
+              106.0037,
+              20.2162
+            ],
+            [
+              105.9979,
+              20.2179
+            ],
+            [
+              106.0021,
+              20.2282
+            ],
+            [
+              106.0102,
+              20.2352
+            ],
+            [
+              106.0145,
+              20.2427
+            ],
+            [
+              106.0182,
+              20.2399
+            ],
+            [
+              106.0233,
+              20.2455
+            ],
+            [
+              106.024,
+              20.25
+            ],
+            [
+              106.0197,
+              20.2498
+            ],
+            [
+              106.0105,
+              20.2505
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ninh Phúc",
+        "VARNAME_3": "Ninh Phuc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14353,
+        "ward_name": "Xã Ninh Phúc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.98571698113207,
+              20.21041320754717
+            ],
+            [
+              105.9878,
+              20.2105
+            ],
+            [
+              105.9885,
+              20.2143
+            ],
+            [
+              105.9965,
+              20.2326
+            ],
+            [
+              105.9978,
+              20.2322
+            ],
+            [
+              106.001,
+              20.2434
+            ],
+            [
+              105.9855,
+              20.247
+            ],
+            [
+              105.9848,
+              20.2445
+            ],
+            [
+              105.9867,
+              20.2408
+            ],
+            [
+              105.9855,
+              20.2386
+            ],
+            [
+              105.9886,
+              20.238
+            ],
+            [
+              105.9839,
+              20.2307
+            ],
+            [
+              105.9856,
+              20.2301
+            ],
+            [
+              105.982,
+              20.2241
+            ],
+            [
+              105.9802,
+              20.2251
+            ],
+            [
+              105.9746,
+              20.216
+            ],
+            [
+              105.9777,
+              20.2135
+            ],
+            [
+              105.9821,
+              20.214
+            ],
+            [
+              105.98571698113207,
+              20.21041320754717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ninh Sơn",
+        "VARNAME_3": "Ninh Son",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14356,
+        "ward_name": "Phường Ninh Sơn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.9638,
+              20.2283
+            ],
+            [
+              105.9656,
+              20.2284
+            ],
+            [
+              105.95960740529763,
+              20.249074451723153
+            ],
+            [
+              105.95,
+              20.2478
+            ],
+            [
+              105.9464,
+              20.2512
+            ],
+            [
+              105.9424,
+              20.2487
+            ],
+            [
+              105.9423,
+              20.2439
+            ],
+            [
+              105.9369,
+              20.2416
+            ],
+            [
+              105.9379,
+              20.2386
+            ],
+            [
+              105.9423,
+              20.2368
+            ],
+            [
+              105.9438,
+              20.232
+            ],
+            [
+              105.9492,
+              20.2295
+            ],
+            [
+              105.9547,
+              20.2232
+            ],
+            [
+              105.9587,
+              20.2247
+            ],
+            [
+              105.9585,
+              20.2275
+            ],
+            [
+              105.96216296296296,
+              20.22911851851852
+            ],
+            [
+              105.9638,
+              20.2283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Ninh Tiến",
+        "VARNAME_3": "Ninh Tien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14350,
+        "ward_name": "Xã Ninh Tiến"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.9751,
+              20.2504
+            ],
+            [
+              105.9717,
+              20.257
+            ],
+            [
+              105.9586,
+              20.2536
+            ],
+            [
+              105.9598,
+              20.2491
+            ],
+            [
+              105.97435186669095,
+              20.248803023128755
+            ],
+            [
+              105.9751,
+              20.2504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phúc Thành",
+        "VARNAME_3": "Phuc Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14335,
+        "ward_name": "Phường Phúc Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.96678583260972,
+              20.268106018302053
+            ],
+            [
+              105.9554,
+              20.2647
+            ],
+            [
+              105.9586,
+              20.2536
+            ],
+            [
+              105.9717,
+              20.257
+            ],
+            [
+              105.96678583260972,
+              20.268106018302053
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Thành",
+        "VARNAME_3": "Tan Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14323,
+        "ward_name": "Phường Tân Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.99,
+              20.2574
+            ],
+            [
+              105.9821,
+              20.263
+            ],
+            [
+              105.9791,
+              20.2588
+            ],
+            [
+              105.9751,
+              20.2504
+            ],
+            [
+              105.9855,
+              20.247
+            ],
+            [
+              105.9877,
+              20.2521
+            ],
+            [
+              105.9863,
+              20.253
+            ],
+            [
+              105.99,
+              20.2574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thanh Bình",
+        "VARNAME_3": "Thanh Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14326,
+        "ward_name": "Phường Thanh Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.9717,
+              20.257
+            ],
+            [
+              105.9751,
+              20.2504
+            ],
+            [
+              105.9791,
+              20.2588
+            ],
+            [
+              105.9717,
+              20.257
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.42.5.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.42_1",
+        "NAME_1": "Ninh Bình",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.42.5_1",
+        "NAME_2": "Ninh Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vân Giang",
+        "VARNAME_3": "Van Giang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 66,
+        "province_name": "Ninh Bình",
+        "district_id": 436,
+        "district_name": "Thành phố Ninh Bình",
+        "ward_id": 14329,
+        "ward_name": "Phường Vân Giang"
+      }
+    }
+  ]
+}

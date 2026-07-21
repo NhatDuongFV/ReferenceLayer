@@ -1,0 +1,710 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_43",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.1854,
+              16.0421
+            ],
+            [
+              108.191,
+              16.0253
+            ],
+            [
+              108.19255924739791,
+              16.023778783026433
+            ],
+            [
+              108.1913,
+              16.0254
+            ],
+            [
+              108.1891,
+              16.0327
+            ],
+            [
+              108.1964,
+              16.0356
+            ],
+            [
+              108.1877,
+              16.0553
+            ],
+            [
+              108.1833,
+              16.0652
+            ],
+            [
+              108.1788,
+              16.062
+            ],
+            [
+              108.1854,
+              16.0421
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Khê",
+        "VARNAME_3": "An Khe",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20224,
+        "ward_name": "Phường An Khê"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2065,
+              16.0567
+            ],
+            [
+              108.2024,
+              16.0659
+            ],
+            [
+              108.20773251028807,
+              16.067303292181073
+            ],
+            [
+              108.204586407767,
+              16.070152427184468
+            ],
+            [
+              108.202,
+              16.0695
+            ],
+            [
+              108.1919,
+              16.0683
+            ],
+            [
+              108.192,
+              16.0659
+            ],
+            [
+              108.19672817281729,
+              16.0653900990099
+            ],
+            [
+              108.2022,
+              16.0648
+            ],
+            [
+              108.2065,
+              16.0567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Chính Gián",
+        "VARNAME_3": "Chinh Gian",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20215,
+        "ward_name": "Phường Chính Gián"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.19672817281729,
+              16.0653900990099
+            ],
+            [
+              108.192,
+              16.0659
+            ],
+            [
+              108.1833,
+              16.0652
+            ],
+            [
+              108.1877,
+              16.0553
+            ],
+            [
+              108.1909,
+              16.0572
+            ],
+            [
+              108.193,
+              16.0644
+            ],
+            [
+              108.19672817281729,
+              16.0653900990099
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hòa Khê",
+        "VARNAME_3": "Hoa Khe",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20225,
+        "ward_name": "Phường Hoà Khê"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2128,
+              16.0733
+            ],
+            [
+              108.2052,
+              16.0789
+            ],
+            [
+              108.2029,
+              16.0757
+            ],
+            [
+              108.204,
+              16.0721
+            ],
+            [
+              108.202,
+              16.0695
+            ],
+            [
+              108.204586407767,
+              16.070152427184468
+            ],
+            [
+              108.21302980478416,
+              16.072282293098706
+            ],
+            [
+              108.2128,
+              16.0733
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tam Thuận",
+        "VARNAME_3": "Tam Thuan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20203,
+        "ward_name": "Phường Tam Thuận"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2135,
+              16.0702
+            ],
+            [
+              108.21302980478416,
+              16.072282293098706
+            ],
+            [
+              108.204586407767,
+              16.070152427184468
+            ],
+            [
+              108.20773251028807,
+              16.067303292181073
+            ],
+            [
+              108.21,
+              16.0679
+            ],
+            [
+              108.21362520674826,
+              16.068271816076745
+            ],
+            [
+              108.2135,
+              16.0702
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Chính",
+        "VARNAME_3": "Tan Chinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20212,
+        "ward_name": "Phường Tân Chính"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2085,
+              16.0564
+            ],
+            [
+              108.2115,
+              16.0571
+            ],
+            [
+              108.21,
+              16.0679
+            ],
+            [
+              108.20773251028807,
+              16.067303292181073
+            ],
+            [
+              108.2024,
+              16.0659
+            ],
+            [
+              108.2065,
+              16.0567
+            ],
+            [
+              108.2085,
+              16.0564
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thạc Gián",
+        "VARNAME_3": "Thac Gian",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20221,
+        "ward_name": "Phường Thạc Gián"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.1919,
+              16.0683
+            ],
+            [
+              108.1918,
+              16.0695
+            ],
+            [
+              108.1861,
+              16.0704
+            ],
+            [
+              108.1859,
+              16.0741
+            ],
+            [
+              108.1783,
+              16.0763
+            ],
+            [
+              108.1782,
+              16.0745
+            ],
+            [
+              108.1822,
+              16.0711
+            ],
+            [
+              108.1812,
+              16.069
+            ],
+            [
+              108.1833,
+              16.0652
+            ],
+            [
+              108.192,
+              16.0659
+            ],
+            [
+              108.1919,
+              16.0683
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thanh Khê Đông",
+        "VARNAME_3": "Thanh Khe Dong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20207,
+        "ward_name": "Phường Thanh Khê Đông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.1788,
+              16.062
+            ],
+            [
+              108.1833,
+              16.0652
+            ],
+            [
+              108.1812,
+              16.069
+            ],
+            [
+              108.1822,
+              16.0711
+            ],
+            [
+              108.1782,
+              16.0745
+            ],
+            [
+              108.1783,
+              16.0763
+            ],
+            [
+              108.1708,
+              16.0794
+            ],
+            [
+              108.1689,
+              16.0765
+            ],
+            [
+              108.1751,
+              16.073
+            ],
+            [
+              108.1744,
+              16.0692
+            ],
+            [
+              108.1788,
+              16.062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thanh Khê Tây",
+        "VARNAME_3": "Thanh Khe Tay",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20206,
+        "ward_name": "Phường Thanh Khê Tây"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2105,
+              16.0524
+            ],
+            [
+              108.2118,
+              16.0545
+            ],
+            [
+              108.2127,
+              16.0559
+            ],
+            [
+              108.2133,
+              16.0589
+            ],
+            [
+              108.214,
+              16.0625
+            ],
+            [
+              108.21362520674826,
+              16.068271816076745
+            ],
+            [
+              108.21,
+              16.0679
+            ],
+            [
+              108.2115,
+              16.0571
+            ],
+            [
+              108.2085,
+              16.0564
+            ],
+            [
+              108.2105,
+              16.0524
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Trung",
+        "VARNAME_3": "Vinh Trung",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20218,
+        "ward_name": "Phường Vĩnh Trung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.1919,
+              16.0683
+            ],
+            [
+              108.202,
+              16.0695
+            ],
+            [
+              108.204,
+              16.0721
+            ],
+            [
+              108.2029,
+              16.0757
+            ],
+            [
+              108.2012,
+              16.0736
+            ],
+            [
+              108.1966,
+              16.0731
+            ],
+            [
+              108.1859,
+              16.0741
+            ],
+            [
+              108.1861,
+              16.0704
+            ],
+            [
+              108.1918,
+              16.0695
+            ],
+            [
+              108.1919,
+              16.0683
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.7.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.7_1",
+        "NAME_2": "Thanh Khê",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Xuân Hà",
+        "VARNAME_3": "Xuan Ha",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 43,
+        "district_name": "Quận Thanh Khê",
+        "ward_id": 20209,
+        "ward_name": "Phường Xuân Hà"
+      }
+    }
+  ]
+}

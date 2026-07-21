@@ -1,0 +1,1166 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_17",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69349894631209,
+              10.82197787255394
+            ],
+            [
+              106.689,
+              10.8209
+            ],
+            [
+              106.68588584070797,
+              10.817419469026566
+            ],
+            [
+              106.6822,
+              10.8108
+            ],
+            [
+              106.684,
+              10.81
+            ],
+            [
+              106.6851,
+              10.8139
+            ],
+            [
+              106.6895,
+              10.8149
+            ],
+            [
+              106.6933,
+              10.8178
+            ],
+            [
+              106.69349894631209,
+              10.82197787255394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 1",
+        "VARNAME_3": "Ward 1",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26896,
+        "ward_name": "Phường 01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6636,
+              10.8307
+            ],
+            [
+              106.66892993073277,
+              10.827956653299308
+            ],
+            [
+              106.67773007742704,
+              10.826665515187612
+            ],
+            [
+              106.68,
+              10.8265
+            ],
+            [
+              106.67773781333334,
+              10.830972960000002
+            ],
+            [
+              106.67773520458589,
+              10.83097811820518
+            ],
+            [
+              106.6755,
+              10.8386
+            ],
+            [
+              106.6706,
+              10.8386
+            ],
+            [
+              106.6653,
+              10.8386
+            ],
+            [
+              106.6636,
+              10.8307
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 10",
+        "VARNAME_3": "Ward 10",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26884,
+        "ward_name": "Phường 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6653,
+              10.8386
+            ],
+            [
+              106.6648,
+              10.845
+            ],
+            [
+              106.6569,
+              10.8477
+            ],
+            [
+              106.6572,
+              10.8426
+            ],
+            [
+              106.6583,
+              10.8364
+            ],
+            [
+              106.6572,
+              10.8353
+            ],
+            [
+              106.6636,
+              10.8307
+            ],
+            [
+              106.6653,
+              10.8386
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 11",
+        "VARNAME_3": "Ward 11",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26899,
+        "ward_name": "Phường 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.634,
+              10.8324
+            ],
+            [
+              106.6425,
+              10.8282
+            ],
+            [
+              106.64634932126697,
+              10.837290950226246
+            ],
+            [
+              106.6472,
+              10.8393
+            ],
+            [
+              106.6402,
+              10.8443
+            ],
+            [
+              106.634,
+              10.8324
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 12",
+        "VARNAME_3": "Ward 12",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26881,
+        "ward_name": "Phường 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6561,
+              10.8515
+            ],
+            [
+              106.6606,
+              10.8525
+            ],
+            [
+              106.665,
+              10.8498
+            ],
+            [
+              106.6661,
+              10.8562
+            ],
+            [
+              106.6615,
+              10.8557
+            ],
+            [
+              106.65161349628055,
+              10.860217109458025
+            ],
+            [
+              106.6509,
+              10.8599
+            ],
+            [
+              106.6499,
+              10.8591
+            ],
+            [
+              106.6514,
+              10.856
+            ],
+            [
+              106.6558,
+              10.855
+            ],
+            [
+              106.6561,
+              10.8515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 13",
+        "VARNAME_3": "Ward 13",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26872,
+        "ward_name": "Phường 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.64437602682312,
+              10.84619103101425
+            ],
+            [
+              106.6561,
+              10.8515
+            ],
+            [
+              106.6558,
+              10.855
+            ],
+            [
+              106.6514,
+              10.856
+            ],
+            [
+              106.6499,
+              10.8591
+            ],
+            [
+              106.6469,
+              10.8579
+            ],
+            [
+              106.643,
+              10.8522
+            ],
+            [
+              106.6413,
+              10.8495
+            ],
+            [
+              106.6338,
+              10.8451
+            ],
+            [
+              106.6335,
+              10.8411
+            ],
+            [
+              106.6321,
+              10.8403
+            ],
+            [
+              106.6324,
+              10.833
+            ],
+            [
+              106.634,
+              10.8324
+            ],
+            [
+              106.6402,
+              10.8443
+            ],
+            [
+              106.64437602682312,
+              10.84619103101425
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 14",
+        "VARNAME_3": "Ward 14",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26882,
+        "ward_name": "Phường 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.665,
+              10.8498
+            ],
+            [
+              106.6734,
+              10.8444
+            ],
+            [
+              106.6769,
+              10.8487
+            ],
+            [
+              106.67618070849339,
+              10.852031455399061
+            ],
+            [
+              106.6758,
+              10.8533
+            ],
+            [
+              106.6728,
+              10.8606
+            ],
+            [
+              106.6661,
+              10.8562
+            ],
+            [
+              106.665,
+              10.8498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 15",
+        "VARNAME_3": "Ward 15",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26869,
+        "ward_name": "Phường 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67327060606061,
+              10.844131969696976
+            ],
+            [
+              106.6734,
+              10.8444
+            ],
+            [
+              106.665,
+              10.8498
+            ],
+            [
+              106.6606,
+              10.8525
+            ],
+            [
+              106.6561,
+              10.8515
+            ],
+            [
+              106.6569,
+              10.8477
+            ],
+            [
+              106.6648,
+              10.845
+            ],
+            [
+              106.6653,
+              10.8386
+            ],
+            [
+              106.6706,
+              10.8386
+            ],
+            [
+              106.67327060606061,
+              10.844131969696976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 16",
+        "VARNAME_3": "Ward 16",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26878,
+        "ward_name": "Phường 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67773520458589,
+              10.83097811820518
+            ],
+            [
+              106.6821,
+              10.8335
+            ],
+            [
+              106.6804,
+              10.8381
+            ],
+            [
+              106.6766,
+              10.842
+            ],
+            [
+              106.6789,
+              10.851
+            ],
+            [
+              106.67618070849339,
+              10.852031455399061
+            ],
+            [
+              106.6769,
+              10.8487
+            ],
+            [
+              106.6734,
+              10.8444
+            ],
+            [
+              106.67327060606061,
+              10.844131969696976
+            ],
+            [
+              106.6706,
+              10.8386
+            ],
+            [
+              106.6755,
+              10.8386
+            ],
+            [
+              106.67773520458589,
+              10.83097811820518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 17",
+        "VARNAME_3": "Ward 17",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26875,
+        "ward_name": "Phường 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67773007742704,
+              10.826665515187612
+            ],
+            [
+              106.6733,
+              10.8224
+            ],
+            [
+              106.67478813643105,
+              10.81826628769155
+            ],
+            [
+              106.676,
+              10.8149
+            ],
+            [
+              106.6728,
+              10.8141
+            ],
+            [
+              106.6786,
+              10.8113
+            ],
+            [
+              106.6819,
+              10.8104
+            ],
+            [
+              106.6801,
+              10.8071
+            ],
+            [
+              106.6822,
+              10.8108
+            ],
+            [
+              106.68588584070797,
+              10.817419469026566
+            ],
+            [
+              106.682,
+              10.823
+            ],
+            [
+              106.68,
+              10.8265
+            ],
+            [
+              106.67773007742704,
+              10.826665515187612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 3",
+        "VARNAME_3": "Ward 3",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26902,
+        "ward_name": "Phường 03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.689,
+              10.8209
+            ],
+            [
+              106.6865,
+              10.8242
+            ],
+            [
+              106.682,
+              10.823
+            ],
+            [
+              106.68588584070797,
+              10.817419469026566
+            ],
+            [
+              106.689,
+              10.8209
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 4",
+        "VARNAME_3": "Ward 4",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26893,
+        "ward_name": "Phường 04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69349894631209,
+              10.82197787255394
+            ],
+            [
+              106.69814958601656,
+              10.823092088316468
+            ],
+            [
+              106.70077668393782,
+              10.82797098445595
+            ],
+            [
+              106.6998,
+              10.8303
+            ],
+            [
+              106.69427994428969,
+              10.83059052924791
+            ],
+            [
+              106.6935,
+              10.83
+            ],
+            [
+              106.6889,
+              10.8388
+            ],
+            [
+              106.6844,
+              10.8345
+            ],
+            [
+              106.6906,
+              10.8276
+            ],
+            [
+              106.6865,
+              10.8242
+            ],
+            [
+              106.689,
+              10.8209
+            ],
+            [
+              106.69349894631209,
+              10.82197787255394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 5",
+        "VARNAME_3": "Ward 5",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26887,
+        "ward_name": "Phường 05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67773520458589,
+              10.83097811820518
+            ],
+            [
+              106.67773781333334,
+              10.830972960000002
+            ],
+            [
+              106.6844,
+              10.8345
+            ],
+            [
+              106.6889,
+              10.8388
+            ],
+            [
+              106.68821278852153,
+              10.845242607610722
+            ],
+            [
+              106.6833,
+              10.8472
+            ],
+            [
+              106.6836,
+              10.8516
+            ],
+            [
+              106.6805,
+              10.8511
+            ],
+            [
+              106.6789,
+              10.851
+            ],
+            [
+              106.6766,
+              10.842
+            ],
+            [
+              106.6804,
+              10.8381
+            ],
+            [
+              106.6821,
+              10.8335
+            ],
+            [
+              106.67773520458589,
+              10.83097811820518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 6",
+        "VARNAME_3": "Ward 6",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26876,
+        "ward_name": "Phường 06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.68,
+              10.8265
+            ],
+            [
+              106.682,
+              10.823
+            ],
+            [
+              106.6865,
+              10.8242
+            ],
+            [
+              106.6906,
+              10.8276
+            ],
+            [
+              106.6844,
+              10.8345
+            ],
+            [
+              106.67773781333334,
+              10.830972960000002
+            ],
+            [
+              106.68,
+              10.8265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 7",
+        "VARNAME_3": "Ward 7",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26890,
+        "ward_name": "Phường 07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6572,
+              10.8426
+            ],
+            [
+              106.6484,
+              10.8437
+            ],
+            [
+              106.64437602682312,
+              10.84619103101425
+            ],
+            [
+              106.6402,
+              10.8443
+            ],
+            [
+              106.6472,
+              10.8393
+            ],
+            [
+              106.64634932126697,
+              10.837290950226246
+            ],
+            [
+              106.6572,
+              10.8353
+            ],
+            [
+              106.6583,
+              10.8364
+            ],
+            [
+              106.6572,
+              10.8426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 8",
+        "VARNAME_3": "Ward 8",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26898,
+        "ward_name": "Phường 08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.64437602682312,
+              10.84619103101425
+            ],
+            [
+              106.6484,
+              10.8437
+            ],
+            [
+              106.6572,
+              10.8426
+            ],
+            [
+              106.6569,
+              10.8477
+            ],
+            [
+              106.6561,
+              10.8515
+            ],
+            [
+              106.64437602682312,
+              10.84619103101425
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.6.16_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.6_1",
+        "NAME_2": "Gò Vấp",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 9",
+        "VARNAME_3": "Ward 9",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 17,
+        "district_name": "Quận Gò Vấp",
+        "ward_id": 26897,
+        "ward_name": "Phường 09"
+      }
+    }
+  ]
+}

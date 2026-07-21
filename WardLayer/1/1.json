@@ -1,0 +1,690 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_1",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7064,
+              10.7917
+            ],
+            [
+              106.6981,
+              10.7829
+            ],
+            [
+              106.695,
+              10.7796
+            ],
+            [
+              106.6991,
+              10.7758
+            ],
+            [
+              106.7011,
+              10.771
+            ],
+            [
+              106.7082,
+              10.7706
+            ],
+            [
+              106.70908160657234,
+              10.775128251939753
+            ],
+            [
+              106.7104,
+              10.7819
+            ],
+            [
+              106.7144,
+              10.7849
+            ],
+            [
+              106.7124,
+              10.7878
+            ],
+            [
+              106.7088,
+              10.7877
+            ],
+            [
+              106.7064,
+              10.7917
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bến Nghé",
+        "VARNAME_3": "Ben Nghe",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26740,
+        "ward_name": "Phường Bến Nghé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.695,
+              10.7796
+            ],
+            [
+              106.68937454545456,
+              10.773613939393941
+            ],
+            [
+              106.6893744,
+              10.773613784615387
+            ],
+            [
+              106.6872,
+              10.7713
+            ],
+            [
+              106.6899,
+              10.7684
+            ],
+            [
+              106.6982,
+              10.7711
+            ],
+            [
+              106.7011,
+              10.771
+            ],
+            [
+              106.6991,
+              10.7758
+            ],
+            [
+              106.695,
+              10.7796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bến Thành",
+        "VARNAME_3": "Ben Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26743,
+        "ward_name": "Phường Bến Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6898,
+              10.7616
+            ],
+            [
+              106.6852,
+              10.7564
+            ],
+            [
+              106.6873,
+              10.7536
+            ],
+            [
+              106.6927,
+              10.7583
+            ],
+            [
+              106.6898,
+              10.7616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cầukho",
+        "VARNAME_3": "Caukho",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26761,
+        "ward_name": "Phường Cầu Kho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6971,
+              10.7619
+            ],
+            [
+              106.6972052631579,
+              10.761992105263152
+            ],
+            [
+              106.69991818181818,
+              10.764365909090909
+            ],
+            [
+              106.70029,
+              10.7647
+            ],
+            [
+              106.6989,
+              10.7647
+            ],
+            [
+              106.6965,
+              10.7692
+            ],
+            [
+              106.6943,
+              10.7668
+            ],
+            [
+              106.6971,
+              10.7619
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cầu Ông Lãnh",
+        "VARNAME_3": "Cau Ong Lanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26752,
+        "ward_name": "Phường Cầu Ông Lãnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6927,
+              10.7583
+            ],
+            [
+              106.6948,
+              10.7595
+            ],
+            [
+              106.6971,
+              10.7619
+            ],
+            [
+              106.6943,
+              10.7668
+            ],
+            [
+              106.69263506686478,
+              10.764876077265974
+            ],
+            [
+              106.6898,
+              10.7616
+            ],
+            [
+              106.6927,
+              10.7583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cô Giang",
+        "VARNAME_3": "Co Giang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26755,
+        "ward_name": "Phường Cô Giang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7064,
+              10.7917
+            ],
+            [
+              106.7005,
+              10.7933
+            ],
+            [
+              106.6978,
+              10.7936
+            ],
+            [
+              106.6994,
+              10.7977
+            ],
+            [
+              106.6975,
+              10.7937
+            ],
+            [
+              106.696,
+              10.7936
+            ],
+            [
+              106.692,
+              10.7879
+            ],
+            [
+              106.6981,
+              10.7829
+            ],
+            [
+              106.7064,
+              10.7917
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đa Kao",
+        "VARNAME_3": "Da Kao",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26737,
+        "ward_name": "Phường Đa Kao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69263506686478,
+              10.764876077265974
+            ],
+            [
+              106.6908,
+              10.7642
+            ],
+            [
+              106.6845,
+              10.7684
+            ],
+            [
+              106.68527142857143,
+              10.769228571428572
+            ],
+            [
+              106.6843,
+              10.7682
+            ],
+            [
+              106.6817,
+              10.7654
+            ],
+            [
+              106.68334246056783,
+              10.761176529968452
+            ],
+            [
+              106.68399519650654,
+              10.759498066126014
+            ],
+            [
+              106.6852,
+              10.7564
+            ],
+            [
+              106.6898,
+              10.7616
+            ],
+            [
+              106.69263506686478,
+              10.764876077265974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nguyễn Cư Trinh",
+        "VARNAME_3": "Nguyen Cu Trinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26758,
+        "ward_name": "Phường Nguyễn Cư Trinh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7011,
+              10.771
+            ],
+            [
+              106.6982,
+              10.7711
+            ],
+            [
+              106.6965,
+              10.7692
+            ],
+            [
+              106.6989,
+              10.7647
+            ],
+            [
+              106.70029,
+              10.7647
+            ],
+            [
+              106.7012,
+              10.7654
+            ],
+            [
+              106.7083,
+              10.7697
+            ],
+            [
+              106.7082,
+              10.7706
+            ],
+            [
+              106.7011,
+              10.771
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nguyễn Thái Bình",
+        "VARNAME_3": "Nguyen Thai Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26746,
+        "ward_name": "Phường Nguyễn Thái Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6872,
+              10.7713
+            ],
+            [
+              106.68527142857143,
+              10.769228571428572
+            ],
+            [
+              106.6845,
+              10.7684
+            ],
+            [
+              106.6908,
+              10.7642
+            ],
+            [
+              106.69263506686478,
+              10.764876077265974
+            ],
+            [
+              106.6943,
+              10.7668
+            ],
+            [
+              106.6965,
+              10.7692
+            ],
+            [
+              106.6982,
+              10.7711
+            ],
+            [
+              106.6899,
+              10.7684
+            ],
+            [
+              106.6872,
+              10.7713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phạm Ngũ Lão",
+        "VARNAME_3": "Pham Ngu Lao",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26749,
+        "ward_name": "Phường Phạm Ngũ Lão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.696,
+              10.7936
+            ],
+            [
+              106.6916,
+              10.7955
+            ],
+            [
+              106.685,
+              10.7947
+            ],
+            [
+              106.6861,
+              10.7925
+            ],
+            [
+              106.692,
+              10.7879
+            ],
+            [
+              106.696,
+              10.7936
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.13.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.13_1",
+        "NAME_2": "Quận 1",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Định",
+        "VARNAME_3": "Tan Dinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 1,
+        "district_name": "Quận 1",
+        "ward_id": 26734,
+        "ward_name": "Phường Tân Định"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_653",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3381,
+              10.3928
+            ],
+            [
+              106.3417,
+              10.3886
+            ],
+            [
+              106.3424,
+              10.381
+            ],
+            [
+              106.3479,
+              10.3787
+            ],
+            [
+              106.351,
+              10.3716
+            ],
+            [
+              106.3531,
+              10.3704
+            ],
+            [
+              106.35903172690763,
+              10.370993172690763
+            ],
+            [
+              106.361,
+              10.3695
+            ],
+            [
+              106.359,
+              10.365
+            ],
+            [
+              106.3621,
+              10.3641
+            ],
+            [
+              106.3654,
+              10.3659
+            ],
+            [
+              106.3657,
+              10.3752
+            ],
+            [
+              106.3725,
+              10.3756
+            ],
+            [
+              106.3724,
+              10.3871
+            ],
+            [
+              106.376,
+              10.3879
+            ],
+            [
+              106.3766,
+              10.3994
+            ],
+            [
+              106.3825,
+              10.4029
+            ],
+            [
+              106.3816,
+              10.4057
+            ],
+            [
+              106.3645,
+              10.401
+            ],
+            [
+              106.3658,
+              10.3971
+            ],
+            [
+              106.3564,
+              10.3957
+            ],
+            [
+              106.3543,
+              10.398
+            ],
+            [
+              106.352,
+              10.3975
+            ],
+            [
+              106.3491,
+              10.4018
+            ],
+            [
+              106.34587242757243,
+              10.402351048951049
+            ],
+            [
+              106.3443,
+              10.3977
+            ],
+            [
+              106.3381,
+              10.3928
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đạo Thạnh",
+        "VARNAME_3": "Dao Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28282,
+        "ward_name": "Xã Đạo Thạnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3825,
+              10.4029
+            ],
+            [
+              106.3766,
+              10.3994
+            ],
+            [
+              106.376,
+              10.3879
+            ],
+            [
+              106.3724,
+              10.3871
+            ],
+            [
+              106.3725,
+              10.3756
+            ],
+            [
+              106.3657,
+              10.3752
+            ],
+            [
+              106.3654,
+              10.3659
+            ],
+            [
+              106.3733,
+              10.3612
+            ],
+            [
+              106.3779,
+              10.3591
+            ],
+            [
+              106.3826,
+              10.3632
+            ],
+            [
+              106.3911,
+              10.3689
+            ],
+            [
+              106.3873,
+              10.3674
+            ],
+            [
+              106.3892,
+              10.3741
+            ],
+            [
+              106.3934,
+              10.3766
+            ],
+            [
+              106.3928,
+              10.3786
+            ],
+            [
+              106.4003,
+              10.385
+            ],
+            [
+              106.4052,
+              10.3785
+            ],
+            [
+              106.4101,
+              10.3871
+            ],
+            [
+              106.4042,
+              10.3901
+            ],
+            [
+              106.4029,
+              10.3982
+            ],
+            [
+              106.4016,
+              10.3987
+            ],
+            [
+              106.3973,
+              10.3952
+            ],
+            [
+              106.3877,
+              10.3982
+            ],
+            [
+              106.3848,
+              10.4034
+            ],
+            [
+              106.3825,
+              10.4029
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Mỹ Phong",
+        "VARNAME_3": "My Phong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28288,
+        "ward_name": "Xã Mỹ Phong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3335,
+              10.3963
+            ],
+            [
+              106.32598712300027,
+              10.39795982166273
+            ],
+            [
+              106.3187,
+              10.4032
+            ],
+            [
+              106.3162,
+              10.3956
+            ],
+            [
+              106.3113,
+              10.3971
+            ],
+            [
+              106.31,
+              10.3908
+            ],
+            [
+              106.3052,
+              10.3919
+            ],
+            [
+              106.3067,
+              10.3535
+            ],
+            [
+              106.3104,
+              10.3519
+            ],
+            [
+              106.3162,
+              10.3563
+            ],
+            [
+              106.3186,
+              10.3542
+            ],
+            [
+              106.3212,
+              10.3591
+            ],
+            [
+              106.3192,
+              10.3593
+            ],
+            [
+              106.3183,
+              10.363
+            ],
+            [
+              106.3213,
+              10.3655
+            ],
+            [
+              106.3265,
+              10.3868
+            ],
+            [
+              106.33522403169015,
+              10.38457052523474
+            ],
+            [
+              106.3366,
+              10.3867
+            ],
+            [
+              106.3396,
+              10.3862
+            ],
+            [
+              106.3375,
+              10.3928
+            ],
+            [
+              106.3335,
+              10.3963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phước Thạnh",
+        "VARNAME_3": "Phuoc Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28567,
+        "ward_name": "Xã Phước Thạnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3686,
+              10.3559
+            ],
+            [
+              106.3691,
+              10.3598
+            ],
+            [
+              106.362,
+              10.3602
+            ],
+            [
+              106.3611,
+              10.3506
+            ],
+            [
+              106.3685,
+              10.3508
+            ],
+            [
+              106.3686,
+              10.3559
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 1",
+        "VARNAME_3": "Ward 1",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28261,
+        "ward_name": "Phường 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3381,
+              10.3928
+            ],
+            [
+              106.3335,
+              10.3963
+            ],
+            [
+              106.3375,
+              10.3928
+            ],
+            [
+              106.3396,
+              10.3862
+            ],
+            [
+              106.3366,
+              10.3867
+            ],
+            [
+              106.33522403169015,
+              10.38457052523474
+            ],
+            [
+              106.3324,
+              10.3802
+            ],
+            [
+              106.3378,
+              10.3755
+            ],
+            [
+              106.3339,
+              10.3678
+            ],
+            [
+              106.3308,
+              10.3656
+            ],
+            [
+              106.3406,
+              10.3637
+            ],
+            [
+              106.3413,
+              10.3687
+            ],
+            [
+              106.3476,
+              10.3734
+            ],
+            [
+              106.351,
+              10.3716
+            ],
+            [
+              106.3479,
+              10.3787
+            ],
+            [
+              106.3424,
+              10.381
+            ],
+            [
+              106.3417,
+              10.3886
+            ],
+            [
+              106.3381,
+              10.3928
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 10",
+        "VARNAME_3": "Ward 10",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28276,
+        "ward_name": "Phường 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3685,
+              10.3508
+            ],
+            [
+              106.3811,
+              10.3481
+            ],
+            [
+              106.38148490566037,
+              10.35197471698113
+            ],
+            [
+              106.3722,
+              10.3552
+            ],
+            [
+              106.3686,
+              10.3559
+            ],
+            [
+              106.3685,
+              10.3508
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 2",
+        "VARNAME_3": "Ward 2",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28264,
+        "ward_name": "Phường 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3654,
+              10.3659
+            ],
+            [
+              106.3694,
+              10.3618
+            ],
+            [
+              106.3691,
+              10.3598
+            ],
+            [
+              106.3686,
+              10.3559
+            ],
+            [
+              106.3722,
+              10.3552
+            ],
+            [
+              106.3754,
+              10.3566
+            ],
+            [
+              106.3733,
+              10.3612
+            ],
+            [
+              106.3654,
+              10.3659
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 3",
+        "VARNAME_3": "Ward 3",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28258,
+        "ward_name": "Phường 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.361,
+              10.3695
+            ],
+            [
+              106.3588,
+              10.3669
+            ],
+            [
+              106.3572,
+              10.3571
+            ],
+            [
+              106.3568,
+              10.3477
+            ],
+            [
+              106.3611,
+              10.3506
+            ],
+            [
+              106.362,
+              10.3602
+            ],
+            [
+              106.3621,
+              10.3641
+            ],
+            [
+              106.359,
+              10.365
+            ],
+            [
+              106.361,
+              10.3695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 4",
+        "VARNAME_3": "Ward 4",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28252,
+        "ward_name": "Phường 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.351,
+              10.3716
+            ],
+            [
+              106.3476,
+              10.3734
+            ],
+            [
+              106.3413,
+              10.3687
+            ],
+            [
+              106.3406,
+              10.3637
+            ],
+            [
+              106.3405,
+              10.3596
+            ],
+            [
+              106.3362,
+              10.3597
+            ],
+            [
+              106.3488,
+              10.3585
+            ],
+            [
+              106.3526,
+              10.3615
+            ],
+            [
+              106.3572,
+              10.3571
+            ],
+            [
+              106.3588,
+              10.3669
+            ],
+            [
+              106.361,
+              10.3695
+            ],
+            [
+              106.35903172690763,
+              10.370993172690763
+            ],
+            [
+              106.3531,
+              10.3704
+            ],
+            [
+              106.351,
+              10.3716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 5",
+        "VARNAME_3": "Ward 5",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28249,
+        "ward_name": "Phường 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3362,
+              10.3597
+            ],
+            [
+              106.3361,
+              10.3544
+            ],
+            [
+              106.3375,
+              10.3541
+            ],
+            [
+              106.3406,
+              10.343
+            ],
+            [
+              106.3568,
+              10.3477
+            ],
+            [
+              106.3572,
+              10.3571
+            ],
+            [
+              106.3526,
+              10.3615
+            ],
+            [
+              106.3488,
+              10.3585
+            ],
+            [
+              106.3362,
+              10.3597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 6",
+        "VARNAME_3": "Ward 6",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28270,
+        "ward_name": "Phường 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3621,
+              10.3641
+            ],
+            [
+              106.362,
+              10.3602
+            ],
+            [
+              106.3691,
+              10.3598
+            ],
+            [
+              106.3694,
+              10.3618
+            ],
+            [
+              106.3654,
+              10.3659
+            ],
+            [
+              106.3621,
+              10.3641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 7",
+        "VARNAME_3": "Ward 7",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28255,
+        "ward_name": "Phường 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3733,
+              10.3612
+            ],
+            [
+              106.3754,
+              10.3566
+            ],
+            [
+              106.3722,
+              10.3552
+            ],
+            [
+              106.38148490566037,
+              10.35197471698113
+            ],
+            [
+              106.3826,
+              10.3632
+            ],
+            [
+              106.3779,
+              10.3591
+            ],
+            [
+              106.3733,
+              10.3612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 8",
+        "VARNAME_3": "Ward 8",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28267,
+        "ward_name": "Phường 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.38148490566037,
+              10.35197471698113
+            ],
+            [
+              106.3811,
+              10.3481
+            ],
+            [
+              106.3896,
+              10.3446
+            ],
+            [
+              106.3927,
+              10.3639
+            ],
+            [
+              106.3911,
+              10.3689
+            ],
+            [
+              106.3826,
+              10.3632
+            ],
+            [
+              106.38148490566037,
+              10.35197471698113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 9",
+        "VARNAME_3": "Ward 9",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28273,
+        "ward_name": "Phường 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3983,
+              10.3362
+            ],
+            [
+              106.3999,
+              10.3384
+            ],
+            [
+              106.3896,
+              10.3446
+            ],
+            [
+              106.3811,
+              10.3481
+            ],
+            [
+              106.3685,
+              10.3508
+            ],
+            [
+              106.3611,
+              10.3506
+            ],
+            [
+              106.3568,
+              10.3477
+            ],
+            [
+              106.3651,
+              10.3457
+            ],
+            [
+              106.3741,
+              10.3404
+            ],
+            [
+              106.3875,
+              10.3397
+            ],
+            [
+              106.3983,
+              10.3362
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Long",
+        "VARNAME_3": "Tan Long",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28279,
+        "ward_name": "Phường Tân Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.4052,
+              10.3785
+            ],
+            [
+              106.4003,
+              10.385
+            ],
+            [
+              106.3928,
+              10.3786
+            ],
+            [
+              106.3934,
+              10.3766
+            ],
+            [
+              106.3892,
+              10.3741
+            ],
+            [
+              106.3873,
+              10.3674
+            ],
+            [
+              106.3911,
+              10.3689
+            ],
+            [
+              106.3927,
+              10.3639
+            ],
+            [
+              106.3896,
+              10.3446
+            ],
+            [
+              106.3999,
+              10.3384
+            ],
+            [
+              106.4108,
+              10.3433
+            ],
+            [
+              106.4102,
+              10.3499
+            ],
+            [
+              106.4137,
+              10.3498
+            ],
+            [
+              106.4114,
+              10.3651
+            ],
+            [
+              106.4052,
+              10.3785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Mỹ Chánh",
+        "VARNAME_3": "Tan My Chanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28291,
+        "ward_name": "Xã Tân Mỹ Chánh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.3118,
+              10.3211
+            ],
+            [
+              106.3335,
+              10.3286
+            ],
+            [
+              106.36283779264214,
+              10.33798127090301
+            ],
+            [
+              106.3741,
+              10.3404
+            ],
+            [
+              106.3651,
+              10.3457
+            ],
+            [
+              106.3568,
+              10.3477
+            ],
+            [
+              106.3406,
+              10.343
+            ],
+            [
+              106.31360965853658,
+              10.337706494773519
+            ],
+            [
+              106.2993,
+              10.3349
+            ],
+            [
+              106.288,
+              10.3306
+            ],
+            [
+              106.3001,
+              10.3196
+            ],
+            [
+              106.3118,
+              10.3211
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.16_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thới Sơn",
+        "VARNAME_3": "Thoi Son",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28591,
+        "ward_name": "Xã Thới Sơn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.31360965853658,
+              10.337706494773519
+            ],
+            [
+              106.3406,
+              10.343
+            ],
+            [
+              106.3375,
+              10.3541
+            ],
+            [
+              106.3361,
+              10.3544
+            ],
+            [
+              106.3362,
+              10.3597
+            ],
+            [
+              106.3405,
+              10.3596
+            ],
+            [
+              106.3406,
+              10.3637
+            ],
+            [
+              106.3308,
+              10.3656
+            ],
+            [
+              106.3339,
+              10.3678
+            ],
+            [
+              106.3378,
+              10.3755
+            ],
+            [
+              106.3324,
+              10.3802
+            ],
+            [
+              106.33522403169015,
+              10.38457052523474
+            ],
+            [
+              106.3265,
+              10.3868
+            ],
+            [
+              106.3213,
+              10.3655
+            ],
+            [
+              106.3183,
+              10.363
+            ],
+            [
+              106.3192,
+              10.3593
+            ],
+            [
+              106.3212,
+              10.3591
+            ],
+            [
+              106.3186,
+              10.3542
+            ],
+            [
+              106.3162,
+              10.3563
+            ],
+            [
+              106.3104,
+              10.3519
+            ],
+            [
+              106.3067,
+              10.3535
+            ],
+            [
+              106.31360965853658,
+              10.337706494773519
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.58.9.17_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.58_1",
+        "NAME_1": "Tiền Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.58.9_1",
+        "NAME_2": "Mỹ Tho",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Trung An",
+        "VARNAME_3": "Trung An",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 53,
+        "province_name": "Tiền Giang",
+        "district_id": 653,
+        "district_name": "Thành phố Mỹ Tho",
+        "ward_id": 28285,
+        "ward_name": "Xã Trung An"
+      }
+    }
+  ]
+}

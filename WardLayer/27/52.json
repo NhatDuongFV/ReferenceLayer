@@ -1,0 +1,772 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_52",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67,
+              20.8563
+            ],
+            [
+              106.6737,
+              20.8577
+            ],
+            [
+              106.6779,
+              20.8584
+            ],
+            [
+              106.6788,
+              20.8617
+            ],
+            [
+              106.6757,
+              20.8685
+            ],
+            [
+              106.6739,
+              20.87
+            ],
+            [
+              106.6699,
+              20.8673
+            ],
+            [
+              106.67,
+              20.8563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hạ Lý",
+        "VARNAME_3": "Ha Ly",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11308,
+        "ward_name": "Phường Hạ Lý"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6814,
+              20.8611
+            ],
+            [
+              106.6816,
+              20.8561
+            ],
+            [
+              106.6841,
+              20.8569
+            ],
+            [
+              106.6889,
+              20.8612
+            ],
+            [
+              106.6814,
+              20.8611
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hoàng Văn Thụ",
+        "VARNAME_3": "Hoang Van Thu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11320,
+        "ward_name": "Phường Hoàng Văn Thụ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6464,
+              20.8625
+            ],
+            [
+              106.6482,
+              20.8675
+            ],
+            [
+              106.6475,
+              20.8701
+            ],
+            [
+              106.65,
+              20.8711
+            ],
+            [
+              106.6482,
+              20.8759
+            ],
+            [
+              106.6522,
+              20.8808
+            ],
+            [
+              106.6507,
+              20.881
+            ],
+            [
+              106.63776033970277,
+              20.881252811646952
+            ],
+            [
+              106.6376,
+              20.8806
+            ],
+            [
+              106.6235,
+              20.8817
+            ],
+            [
+              106.6226,
+              20.8799
+            ],
+            [
+              106.6234,
+              20.8722
+            ],
+            [
+              106.6279,
+              20.8706
+            ],
+            [
+              106.6335,
+              20.8638
+            ],
+            [
+              106.6427,
+              20.8647
+            ],
+            [
+              106.6464,
+              20.8625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hùng Vương",
+        "VARNAME_3": "Hung Vuong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11299,
+        "ward_name": "Phường Hùng Vương"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6788,
+              20.8617
+            ],
+            [
+              106.6814,
+              20.8611
+            ],
+            [
+              106.6889,
+              20.8612
+            ],
+            [
+              106.6887,
+              20.8695
+            ],
+            [
+              106.6844,
+              20.8677
+            ],
+            [
+              106.6757,
+              20.8685
+            ],
+            [
+              106.6788,
+              20.8617
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Minh Khai",
+        "VARNAME_3": "Minh Khai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11311,
+        "ward_name": "Phường Minh Khai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67,
+              20.8563
+            ],
+            [
+              106.669,
+              20.8552
+            ],
+            [
+              106.6703,
+              20.8539
+            ],
+            [
+              106.6746,
+              20.8546
+            ],
+            [
+              106.6737,
+              20.8577
+            ],
+            [
+              106.67,
+              20.8563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phạm Hồng Thái",
+        "VARNAME_3": "Pham Hong Thai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11326,
+        "ward_name": "Phường Phạm Hồng Thái"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6746,
+              20.8546
+            ],
+            [
+              106.67956162528216,
+              20.855663205417606
+            ],
+            [
+              106.6779,
+              20.8584
+            ],
+            [
+              106.6737,
+              20.8577
+            ],
+            [
+              106.6746,
+              20.8546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phan Bội Châu",
+        "VARNAME_3": "Phan Boi Chau",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11323,
+        "ward_name": "Phường Phan Bội Châu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6048,
+              20.8993
+            ],
+            [
+              106.6031,
+              20.8958
+            ],
+            [
+              106.5997,
+              20.8952
+            ],
+            [
+              106.5996,
+              20.8907
+            ],
+            [
+              106.5994,
+              20.89
+            ],
+            [
+              106.6037,
+              20.8885
+            ],
+            [
+              106.6043,
+              20.8864
+            ],
+            [
+              106.6094,
+              20.8832
+            ],
+            [
+              106.6226,
+              20.8799
+            ],
+            [
+              106.6235,
+              20.8817
+            ],
+            [
+              106.6204,
+              20.8847
+            ],
+            [
+              106.6202,
+              20.8915
+            ],
+            [
+              106.6149,
+              20.8934
+            ],
+            [
+              106.6087,
+              20.8942
+            ],
+            [
+              106.6068,
+              20.8984
+            ],
+            [
+              106.6048,
+              20.8993
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Quán Toan",
+        "VARNAME_3": "Quan Toan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11296,
+        "ward_name": "Phường Quán Toan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6779,
+              20.8584
+            ],
+            [
+              106.67956162528216,
+              20.855663205417606
+            ],
+            [
+              106.6816,
+              20.8561
+            ],
+            [
+              106.6814,
+              20.8611
+            ],
+            [
+              106.6788,
+              20.8617
+            ],
+            [
+              106.6779,
+              20.8584
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Quang Trung",
+        "VARNAME_3": "Quang Trung",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11317,
+        "ward_name": "Phường Quang Trung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.659,
+              20.8621
+            ],
+            [
+              106.6606,
+              20.8635
+            ],
+            [
+              106.66748669950739,
+              20.875207389162565
+            ],
+            [
+              106.6603,
+              20.8792
+            ],
+            [
+              106.6522,
+              20.8808
+            ],
+            [
+              106.6482,
+              20.8759
+            ],
+            [
+              106.65,
+              20.8711
+            ],
+            [
+              106.6475,
+              20.8701
+            ],
+            [
+              106.6482,
+              20.8675
+            ],
+            [
+              106.6464,
+              20.8625
+            ],
+            [
+              106.649,
+              20.8596
+            ],
+            [
+              106.659,
+              20.8621
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Sở Dầu",
+        "VARNAME_3": "So Dau",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11302,
+        "ward_name": "Phường Sở Dầu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6739,
+              20.87
+            ],
+            [
+              106.66844736842103,
+              20.874673684210542
+            ],
+            [
+              106.66748669950739,
+              20.875207389162565
+            ],
+            [
+              106.6606,
+              20.8635
+            ],
+            [
+              106.6665,
+              20.8536
+            ],
+            [
+              106.669,
+              20.8552
+            ],
+            [
+              106.67,
+              20.8563
+            ],
+            [
+              106.6699,
+              20.8673
+            ],
+            [
+              106.6739,
+              20.87
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thượng Lý",
+        "VARNAME_3": "Thuong Ly",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11305,
+        "ward_name": "Phường Thượng Lý"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.664,
+              20.8529
+            ],
+            [
+              106.6661,
+              20.8534
+            ],
+            [
+              106.6665,
+              20.8536
+            ],
+            [
+              106.6606,
+              20.8635
+            ],
+            [
+              106.659,
+              20.8621
+            ],
+            [
+              106.661,
+              20.8604
+            ],
+            [
+              106.6598,
+              20.8556
+            ],
+            [
+              106.664,
+              20.8529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.8.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.8_1",
+        "NAME_2": "Hồng Bàng",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Trại Chuối",
+        "VARNAME_3": "Trai Chuoi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 52,
+        "district_name": "Quận Hồng Bàng",
+        "ward_id": 11314,
+        "ward_name": "Phường Trại Chuối"
+      }
+    }
+  ]
+}

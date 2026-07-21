@@ -1,0 +1,928 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_13",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6819,
+              10.7959
+            ],
+            [
+              106.6827,
+              10.7953
+            ],
+            [
+              106.6846,
+              10.7999
+            ],
+            [
+              106.683,
+              10.8018
+            ],
+            [
+              106.6803,
+              10.7992
+            ],
+            [
+              106.6819,
+              10.7959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 1",
+        "VARNAME_3": "Ward 1",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27058,
+        "ward_name": "Phường 01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6745,
+              10.7962
+            ],
+            [
+              106.6699,
+              10.7989
+            ],
+            [
+              106.6685,
+              10.7982
+            ],
+            [
+              106.6685,
+              10.7942
+            ],
+            [
+              106.6716,
+              10.7918
+            ],
+            [
+              106.672,
+              10.7915
+            ],
+            [
+              106.6745,
+              10.7962
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 10",
+        "VARNAME_3": "Ward 10",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27070,
+        "ward_name": "Phường 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.672,
+              10.7915
+            ],
+            [
+              106.67200858283434,
+              10.791498003992015
+            ],
+            [
+              106.6763,
+              10.7905
+            ],
+            [
+              106.67709496221661,
+              10.79467355163728
+            ],
+            [
+              106.6745,
+              10.7962
+            ],
+            [
+              106.672,
+              10.7915
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 11",
+        "VARNAME_3": "Ward 11",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27073,
+        "ward_name": "Phường 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6763,
+              10.7905
+            ],
+            [
+              106.6817,
+              10.7913
+            ],
+            [
+              106.682,
+              10.7916
+            ],
+            [
+              106.6801,
+              10.7929
+            ],
+            [
+              106.6779,
+              10.7942
+            ],
+            [
+              106.67709496221661,
+              10.79467355163728
+            ],
+            [
+              106.6763,
+              10.7905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 12",
+        "VARNAME_3": "Ward 12",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27082,
+        "ward_name": "Phường 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6716,
+              10.7918
+            ],
+            [
+              106.6681,
+              10.7889
+            ],
+            [
+              106.6708,
+              10.7879
+            ],
+            [
+              106.6739,
+              10.7901
+            ],
+            [
+              106.67200858283434,
+              10.791498003992015
+            ],
+            [
+              106.672,
+              10.7915
+            ],
+            [
+              106.6716,
+              10.7918
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 13",
+        "VARNAME_3": "Ward 13",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27085,
+        "ward_name": "Phường 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6716,
+              10.7918
+            ],
+            [
+              106.6685,
+              10.7942
+            ],
+            [
+              106.6659,
+              10.791
+            ],
+            [
+              106.6681,
+              10.7889
+            ],
+            [
+              106.6716,
+              10.7918
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 14",
+        "VARNAME_3": "Ward 14",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27079,
+        "ward_name": "Phường 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6803,
+              10.7992
+            ],
+            [
+              106.6776,
+              10.7994
+            ],
+            [
+              106.6779,
+              10.7942
+            ],
+            [
+              106.6801,
+              10.7929
+            ],
+            [
+              106.6819,
+              10.7959
+            ],
+            [
+              106.6803,
+              10.7992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 15",
+        "VARNAME_3": "Ward 15",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27067,
+        "ward_name": "Phường 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6801,
+              10.7929
+            ],
+            [
+              106.682,
+              10.7916
+            ],
+            [
+              106.6861,
+              10.7925
+            ],
+            [
+              106.6827,
+              10.7953
+            ],
+            [
+              106.6819,
+              10.7959
+            ],
+            [
+              106.6801,
+              10.7929
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 17",
+        "VARNAME_3": "Ward 17",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27076,
+        "ward_name": "Phường 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69187294117647,
+              10.797342352941175
+            ],
+            [
+              106.6863,
+              10.7992
+            ],
+            [
+              106.6845,
+              10.8033
+            ],
+            [
+              106.683,
+              10.8018
+            ],
+            [
+              106.6846,
+              10.7999
+            ],
+            [
+              106.6827,
+              10.7953
+            ],
+            [
+              106.6861,
+              10.7925
+            ],
+            [
+              106.685,
+              10.7947
+            ],
+            [
+              106.6916,
+              10.7955
+            ],
+            [
+              106.69187294117647,
+              10.797342352941175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 2",
+        "VARNAME_3": "Ward 2",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27061,
+        "ward_name": "Phường 02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.683,
+              10.8018
+            ],
+            [
+              106.6845,
+              10.8033
+            ],
+            [
+              106.6832866909754,
+              10.804347857793983
+            ],
+            [
+              106.67969992897727,
+              10.80347109375
+            ],
+            [
+              106.6803,
+              10.7992
+            ],
+            [
+              106.683,
+              10.8018
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 3",
+        "VARNAME_3": "Ward 3",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27055,
+        "ward_name": "Phường 03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6786,
+              10.8113
+            ],
+            [
+              106.67969992897727,
+              10.80347109375
+            ],
+            [
+              106.6832866909754,
+              10.804347857793983
+            ],
+            [
+              106.6801,
+              10.8071
+            ],
+            [
+              106.6819,
+              10.8104
+            ],
+            [
+              106.6786,
+              10.8113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 4",
+        "VARNAME_3": "Ward 4",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27043,
+        "ward_name": "Phường 04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.684,
+              10.81
+            ],
+            [
+              106.6822,
+              10.8108
+            ],
+            [
+              106.6801,
+              10.8071
+            ],
+            [
+              106.6832866909754,
+              10.804347857793983
+            ],
+            [
+              106.6845,
+              10.8033
+            ],
+            [
+              106.6879,
+              10.8037
+            ],
+            [
+              106.6885,
+              10.8056
+            ],
+            [
+              106.6839,
+              10.807
+            ],
+            [
+              106.684,
+              10.81
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 5",
+        "VARNAME_3": "Ward 5",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27046,
+        "ward_name": "Phường 05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6925,
+              10.8031
+            ],
+            [
+              106.6879,
+              10.8037
+            ],
+            [
+              106.6845,
+              10.8033
+            ],
+            [
+              106.6863,
+              10.7992
+            ],
+            [
+              106.69187294117647,
+              10.797342352941175
+            ],
+            [
+              106.6925,
+              10.8031
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 7",
+        "VARNAME_3": "Ward 7",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27052,
+        "ward_name": "Phường 07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67709496221661,
+              10.79467355163728
+            ],
+            [
+              106.6779,
+              10.7942
+            ],
+            [
+              106.6776,
+              10.7994
+            ],
+            [
+              106.66788439383791,
+              10.80014775619558
+            ],
+            [
+              106.6699,
+              10.7989
+            ],
+            [
+              106.6745,
+              10.7962
+            ],
+            [
+              106.67709496221661,
+              10.79467355163728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 8",
+        "VARNAME_3": "Ward 8",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27064,
+        "ward_name": "Phường 08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6728,
+              10.8141
+            ],
+            [
+              106.669,
+              10.8033
+            ],
+            [
+              106.6672,
+              10.8002
+            ],
+            [
+              106.66788439383791,
+              10.80014775619558
+            ],
+            [
+              106.6776,
+              10.7994
+            ],
+            [
+              106.6803,
+              10.7992
+            ],
+            [
+              106.67969992897727,
+              10.80347109375
+            ],
+            [
+              106.6786,
+              10.8113
+            ],
+            [
+              106.6728,
+              10.8141
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.9.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.9_1",
+        "NAME_2": "Phú Nhuận",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 9",
+        "VARNAME_3": "Ward 9",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 13,
+        "district_name": "Quận Phú Nhuận",
+        "ward_id": 27049,
+        "ward_name": "Phường 09"
+      }
+    }
+  ]
+}

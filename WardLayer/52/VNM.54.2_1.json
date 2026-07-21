@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_VNM.54.2_1",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5755,
+              16.4609
+            ],
+            [
+              107.581,
+              16.4626
+            ],
+            [
+              107.5830311166876,
+              16.464173400250946
+            ],
+            [
+              107.5705,
+              16.4596
+            ],
+            [
+              107.5578,
+              16.4547
+            ],
+            [
+              107.5469,
+              16.4509
+            ],
+            [
+              107.5535,
+              16.4527
+            ],
+            [
+              107.5558,
+              16.4486
+            ],
+            [
+              107.5574,
+              16.4487
+            ],
+            [
+              107.5644,
+              16.4533
+            ],
+            [
+              107.5673,
+              16.4529
+            ],
+            [
+              107.5744,
+              16.4558
+            ],
+            [
+              107.5773,
+              16.4493
+            ],
+            [
+              107.5804,
+              16.4568
+            ],
+            [
+              107.5768,
+              16.4584
+            ],
+            [
+              107.5755,
+              16.4609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đúc",
+        "VARNAME_3": "Duc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Thừa Thiên Huế",
+        "district_id": null,
+        "district_name": "Huế",
+        "ward_id": null,
+        "ward_name": null
+      }
+    }
+  ]
+}

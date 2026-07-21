@@ -1,0 +1,2298 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_644",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6015,
+              16.4569
+            ],
+            [
+              107.5941,
+              16.4562
+            ],
+            [
+              107.5905,
+              16.4484
+            ],
+            [
+              107.5907,
+              16.4436
+            ],
+            [
+              107.592,
+              16.4407
+            ],
+            [
+              107.6077,
+              16.4401
+            ],
+            [
+              107.6085,
+              16.4413
+            ],
+            [
+              107.6051,
+              16.447
+            ],
+            [
+              107.6078,
+              16.4488
+            ],
+            [
+              107.6021,
+              16.4523
+            ],
+            [
+              107.6036,
+              16.456
+            ],
+            [
+              107.6015,
+              16.4569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Cựu",
+        "VARNAME_3": "An Cuu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19801,
+        "ward_name": "Phường An Cựu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6078,
+              16.4488
+            ],
+            [
+              107.6106,
+              16.447
+            ],
+            [
+              107.6134,
+              16.4502
+            ],
+            [
+              107.6166,
+              16.4484
+            ],
+            [
+              107.6177,
+              16.4519
+            ],
+            [
+              107.621,
+              16.4538
+            ],
+            [
+              107.6196,
+              16.4615
+            ],
+            [
+              107.6271,
+              16.4597
+            ],
+            [
+              107.6265,
+              16.4616
+            ],
+            [
+              107.6306,
+              16.4628
+            ],
+            [
+              107.6271,
+              16.4673
+            ],
+            [
+              107.6269,
+              16.4702
+            ],
+            [
+              107.6238,
+              16.4723
+            ],
+            [
+              107.6159,
+              16.4726
+            ],
+            [
+              107.6128,
+              16.4713
+            ],
+            [
+              107.6118,
+              16.4662
+            ],
+            [
+              107.6136,
+              16.4632
+            ],
+            [
+              107.6102,
+              16.4618
+            ],
+            [
+              107.6056,
+              16.4626
+            ],
+            [
+              107.6013,
+              16.4592
+            ],
+            [
+              107.6015,
+              16.4569
+            ],
+            [
+              107.6036,
+              16.456
+            ],
+            [
+              107.6021,
+              16.4523
+            ],
+            [
+              107.6078,
+              16.4488
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Đông",
+        "VARNAME_3": "An Dong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19815,
+        "ward_name": "Phường An Đông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5513,
+              16.4741
+            ],
+            [
+              107.5549,
+              16.4742
+            ],
+            [
+              107.558,
+              16.4761
+            ],
+            [
+              107.5563,
+              16.479
+            ],
+            [
+              107.5621,
+              16.4831
+            ],
+            [
+              107.5615,
+              16.4863
+            ],
+            [
+              107.5589,
+              16.4867
+            ],
+            [
+              107.5525,
+              16.5049
+            ],
+            [
+              107.5509,
+              16.5069
+            ],
+            [
+              107.54827651547265,
+              16.503374692666373
+            ],
+            [
+              107.5487,
+              16.4977
+            ],
+            [
+              107.5478,
+              16.4945
+            ],
+            [
+              107.5458,
+              16.4939
+            ],
+            [
+              107.54,
+              16.5027
+            ],
+            [
+              107.5382,
+              16.499
+            ],
+            [
+              107.53496870948733,
+              16.49776623453152
+            ],
+            [
+              107.5344,
+              16.4917
+            ],
+            [
+              107.533,
+              16.4887
+            ],
+            [
+              107.5413,
+              16.4891
+            ],
+            [
+              107.5437,
+              16.4874
+            ],
+            [
+              107.5438,
+              16.4834
+            ],
+            [
+              107.5422,
+              16.4818
+            ],
+            [
+              107.5451,
+              16.4813
+            ],
+            [
+              107.5494,
+              16.4741
+            ],
+            [
+              107.5513,
+              16.4741
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Hòa",
+        "VARNAME_3": "An Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19803,
+        "ward_name": "Phường An Hoà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5907,
+              16.4436
+            ],
+            [
+              107.5884,
+              16.4418
+            ],
+            [
+              107.584,
+              16.4369
+            ],
+            [
+              107.5892,
+              16.4234
+            ],
+            [
+              107.587,
+              16.4226
+            ],
+            [
+              107.58755534417158,
+              16.417431027326185
+            ],
+            [
+              107.5883,
+              16.4105
+            ],
+            [
+              107.5979,
+              16.4063
+            ],
+            [
+              107.6086,
+              16.4057
+            ],
+            [
+              107.6094,
+              16.3991
+            ],
+            [
+              107.6112,
+              16.3986
+            ],
+            [
+              107.6138,
+              16.4047
+            ],
+            [
+              107.6162,
+              16.4061
+            ],
+            [
+              107.6117,
+              16.4109
+            ],
+            [
+              107.6098,
+              16.4184
+            ],
+            [
+              107.6106,
+              16.4211
+            ],
+            [
+              107.6088,
+              16.4238
+            ],
+            [
+              107.6083,
+              16.4293
+            ],
+            [
+              107.6122,
+              16.4351
+            ],
+            [
+              107.6094,
+              16.4459
+            ],
+            [
+              107.6106,
+              16.447
+            ],
+            [
+              107.6078,
+              16.4488
+            ],
+            [
+              107.6051,
+              16.447
+            ],
+            [
+              107.6085,
+              16.4413
+            ],
+            [
+              107.6077,
+              16.4401
+            ],
+            [
+              107.592,
+              16.4407
+            ],
+            [
+              107.5907,
+              16.4436
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Tây",
+        "VARNAME_3": "An Tay",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19816,
+        "ward_name": "Phường An Tây"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5422,
+              16.4818
+            ],
+            [
+              107.5397,
+              16.4805
+            ],
+            [
+              107.5393,
+              16.478
+            ],
+            [
+              107.5349,
+              16.4774
+            ],
+            [
+              107.5306,
+              16.4723
+            ],
+            [
+              107.526,
+              16.4713
+            ],
+            [
+              107.5248,
+              16.4686
+            ],
+            [
+              107.5256,
+              16.4629
+            ],
+            [
+              107.5299,
+              16.4593
+            ],
+            [
+              107.5357,
+              16.4594
+            ],
+            [
+              107.5376,
+              16.4572
+            ],
+            [
+              107.5365,
+              16.4551
+            ],
+            [
+              107.5324,
+              16.4538
+            ],
+            [
+              107.5336,
+              16.4519
+            ],
+            [
+              107.5435,
+              16.4548
+            ],
+            [
+              107.5432,
+              16.4516
+            ],
+            [
+              107.5469,
+              16.4509
+            ],
+            [
+              107.5578,
+              16.4547
+            ],
+            [
+              107.5549,
+              16.459
+            ],
+            [
+              107.5572,
+              16.4599
+            ],
+            [
+              107.5528,
+              16.4666
+            ],
+            [
+              107.5536,
+              16.4709
+            ],
+            [
+              107.5513,
+              16.4741
+            ],
+            [
+              107.5494,
+              16.4741
+            ],
+            [
+              107.5451,
+              16.4813
+            ],
+            [
+              107.5422,
+              16.4818
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hương Long",
+        "VARNAME_3": "Huong Long",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19810,
+        "ward_name": "Phường Hương Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5621,
+              16.4831
+            ],
+            [
+              107.5639,
+              16.4863
+            ],
+            [
+              107.573,
+              16.4929
+            ],
+            [
+              107.5678,
+              16.4925
+            ],
+            [
+              107.5694,
+              16.4957
+            ],
+            [
+              107.5706,
+              16.5022
+            ],
+            [
+              107.563,
+              16.504
+            ],
+            [
+              107.5641,
+              16.5075
+            ],
+            [
+              107.5537,
+              16.5075
+            ],
+            [
+              107.5525,
+              16.5049
+            ],
+            [
+              107.5589,
+              16.4867
+            ],
+            [
+              107.5615,
+              16.4863
+            ],
+            [
+              107.5621,
+              16.4831
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hương Sơ",
+        "VARNAME_3": "Huong So",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19804,
+        "ward_name": "Phường Hương Sơ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5513,
+              16.4741
+            ],
+            [
+              107.5536,
+              16.4709
+            ],
+            [
+              107.5528,
+              16.4666
+            ],
+            [
+              107.5572,
+              16.4599
+            ],
+            [
+              107.5549,
+              16.459
+            ],
+            [
+              107.5578,
+              16.4547
+            ],
+            [
+              107.5705,
+              16.4596
+            ],
+            [
+              107.558,
+              16.4761
+            ],
+            [
+              107.5549,
+              16.4742
+            ],
+            [
+              107.5513,
+              16.4741
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kim Long",
+        "VARNAME_3": "Kim Long",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19774,
+        "ward_name": "Phường Kim Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5813,
+              16.4893
+            ],
+            [
+              107.5802,
+              16.4913
+            ],
+            [
+              107.5786,
+              16.4949
+            ],
+            [
+              107.56856539269214,
+              16.486853380932377
+            ],
+            [
+              107.5748,
+              16.4904
+            ],
+            [
+              107.5813,
+              16.4824
+            ],
+            [
+              107.582,
+              16.4832
+            ],
+            [
+              107.5789,
+              16.4875
+            ],
+            [
+              107.5813,
+              16.4893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Bình",
+        "VARNAME_3": "Phu Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19747,
+        "ward_name": "Phường Phú Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5852,
+              16.4791
+            ],
+            [
+              107.5908,
+              16.4711
+            ],
+            [
+              107.5914,
+              16.4819
+            ],
+            [
+              107.5865,
+              16.483
+            ],
+            [
+              107.5852,
+              16.4791
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Cát",
+        "VARNAME_3": "Phu Cat",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19771,
+        "ward_name": "Phường Phú Cát"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5804,
+              16.491166666666672
+            ],
+            [
+              107.5826,
+              16.4897
+            ],
+            [
+              107.5929,
+              16.4894
+            ],
+            [
+              107.5918,
+              16.495
+            ],
+            [
+              107.5876,
+              16.4994
+            ],
+            [
+              107.5837,
+              16.4959
+            ],
+            [
+              107.5786,
+              16.4949
+            ],
+            [
+              107.5802,
+              16.4913
+            ],
+            [
+              107.5804,
+              16.491166666666672
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Hậu",
+        "VARNAME_3": "Phu Hau",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19759,
+        "ward_name": "Phường Phú Hậu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5804,
+              16.491166666666672
+            ],
+            [
+              107.5802,
+              16.4913
+            ],
+            [
+              107.5813,
+              16.4893
+            ],
+            [
+              107.5789,
+              16.4875
+            ],
+            [
+              107.582,
+              16.4832
+            ],
+            [
+              107.5852,
+              16.4791
+            ],
+            [
+              107.5865,
+              16.483
+            ],
+            [
+              107.5914,
+              16.4819
+            ],
+            [
+              107.5922,
+              16.4884
+            ],
+            [
+              107.5826,
+              16.4897
+            ],
+            [
+              107.5804,
+              16.491166666666672
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Hiệp",
+        "VARNAME_3": "Phu Hiep",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19756,
+        "ward_name": "Phường Phú Hiệp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5813,
+              16.4824
+            ],
+            [
+              107.5874,
+              16.4738
+            ],
+            [
+              107.5861,
+              16.4702
+            ],
+            [
+              107.5816,
+              16.4674
+            ],
+            [
+              107.58394136922176,
+              16.46487852545348
+            ],
+            [
+              107.5881,
+              16.4681
+            ],
+            [
+              107.5894337236534,
+              16.46649953161591
+            ],
+            [
+              107.5888,
+              16.4689
+            ],
+            [
+              107.5908,
+              16.4711
+            ],
+            [
+              107.5852,
+              16.4791
+            ],
+            [
+              107.582,
+              16.4832
+            ],
+            [
+              107.5813,
+              16.4824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Hòa",
+        "VARNAME_3": "Phu Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19768,
+        "ward_name": "Phường Phú Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5908,
+              16.4711
+            ],
+            [
+              107.5888,
+              16.4689
+            ],
+            [
+              107.5994,
+              16.4594
+            ],
+            [
+              107.59989682320443,
+              16.471323756906077
+            ],
+            [
+              107.5957,
+              16.4736
+            ],
+            [
+              107.5908,
+              16.4711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Hội",
+        "VARNAME_3": "Phu Hoi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19786,
+        "ward_name": "Phường Phú Hội"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6015,
+              16.4569
+            ],
+            [
+              107.5994,
+              16.4594
+            ],
+            [
+              107.5888,
+              16.4689
+            ],
+            [
+              107.5894337236534,
+              16.46649953161591
+            ],
+            [
+              107.5906,
+              16.4651
+            ],
+            [
+              107.5921,
+              16.4564
+            ],
+            [
+              107.5941,
+              16.4562
+            ],
+            [
+              107.6015,
+              16.4569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Nhuận",
+        "VARNAME_3": "Phu Nhuan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19789,
+        "ward_name": "Phường Phú Nhuận"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.558,
+              16.4761
+            ],
+            [
+              107.5705,
+              16.4596
+            ],
+            [
+              107.5830311166876,
+              16.464173400250946
+            ],
+            [
+              107.58394136922176,
+              16.46487852545348
+            ],
+            [
+              107.5816,
+              16.4674
+            ],
+            [
+              107.5707,
+              16.4616
+            ],
+            [
+              107.5654,
+              16.4691
+            ],
+            [
+              107.5578,
+              16.4784
+            ],
+            [
+              107.5663,
+              16.4845
+            ],
+            [
+              107.5748,
+              16.4904
+            ],
+            [
+              107.56856539269214,
+              16.486853380932377
+            ],
+            [
+              107.5563,
+              16.479
+            ],
+            [
+              107.558,
+              16.4761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.16_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Thuận",
+        "VARNAME_3": "Phu Thuan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19744,
+        "ward_name": "Phường Phú Thuận"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5941,
+              16.4562
+            ],
+            [
+              107.5921,
+              16.4564
+            ],
+            [
+              107.585,
+              16.4545
+            ],
+            [
+              107.5835,
+              16.4549
+            ],
+            [
+              107.5823,
+              16.452
+            ],
+            [
+              107.5867,
+              16.4502
+            ],
+            [
+              107.5863,
+              16.4437
+            ],
+            [
+              107.5884,
+              16.4418
+            ],
+            [
+              107.5907,
+              16.4436
+            ],
+            [
+              107.5905,
+              16.4484
+            ],
+            [
+              107.5941,
+              16.4562
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.17_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phước Vĩnh",
+        "VARNAME_3": "Phuoc Vinh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19798,
+        "ward_name": "Phường Phước Vĩnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5731943008177,
+              16.47470809449079
+            ],
+            [
+              107.5758,
+              16.4723
+            ],
+            [
+              107.5703,
+              16.4793
+            ],
+            [
+              107.5663,
+              16.4845
+            ],
+            [
+              107.5578,
+              16.4784
+            ],
+            [
+              107.5654,
+              16.4691
+            ],
+            [
+              107.5731943008177,
+              16.47470809449079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.18_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tây Lộc",
+        "VARNAME_3": "Tay Loc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19750,
+        "ward_name": "Phường Tây Lộc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5816,
+              16.4674
+            ],
+            [
+              107.5765,
+              16.4656
+            ],
+            [
+              107.573,
+              16.4701
+            ],
+            [
+              107.5758,
+              16.4723
+            ],
+            [
+              107.5731943008177,
+              16.47470809449079
+            ],
+            [
+              107.5654,
+              16.4691
+            ],
+            [
+              107.5707,
+              16.4616
+            ],
+            [
+              107.5816,
+              16.4674
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.19_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thuận Hòa",
+        "VARNAME_3": "Thuan Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19762,
+        "ward_name": "Phường Thuận Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5841,
+              16.4778
+            ],
+            [
+              107.5874,
+              16.4738
+            ],
+            [
+              107.5813,
+              16.4824
+            ],
+            [
+              107.5748,
+              16.4904
+            ],
+            [
+              107.5663,
+              16.4845
+            ],
+            [
+              107.5703,
+              16.4793
+            ],
+            [
+              107.5721,
+              16.4806
+            ],
+            [
+              107.5754,
+              16.4781
+            ],
+            [
+              107.577,
+              16.4792
+            ],
+            [
+              107.5802,
+              16.475
+            ],
+            [
+              107.5841,
+              16.4778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.20_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thuận Lộc",
+        "VARNAME_3": "Thuan Loc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19753,
+        "ward_name": "Phường Thuận Lộc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5874,
+              16.4738
+            ],
+            [
+              107.5841,
+              16.4778
+            ],
+            [
+              107.5802,
+              16.475
+            ],
+            [
+              107.577,
+              16.4792
+            ],
+            [
+              107.5754,
+              16.4781
+            ],
+            [
+              107.5721,
+              16.4806
+            ],
+            [
+              107.5703,
+              16.4793
+            ],
+            [
+              107.5758,
+              16.4723
+            ],
+            [
+              107.573,
+              16.4701
+            ],
+            [
+              107.5765,
+              16.4656
+            ],
+            [
+              107.5816,
+              16.4674
+            ],
+            [
+              107.5861,
+              16.4702
+            ],
+            [
+              107.5874,
+              16.4738
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.21_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thuận Thành",
+        "VARNAME_3": "Thuan Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19765,
+        "ward_name": "Phường Thuận Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5469,
+              16.4509
+            ],
+            [
+              107.5432,
+              16.4516
+            ],
+            [
+              107.5284251497006,
+              16.446864471057882
+            ],
+            [
+              107.5282,
+              16.4418
+            ],
+            [
+              107.5348,
+              16.4358
+            ],
+            [
+              107.562,
+              16.4279
+            ],
+            [
+              107.56247567567567,
+              16.427316216216216
+            ],
+            [
+              107.5661,
+              16.4249
+            ],
+            [
+              107.567,
+              16.4264
+            ],
+            [
+              107.5628,
+              16.4313
+            ],
+            [
+              107.5612,
+              16.4402
+            ],
+            [
+              107.559,
+              16.4425
+            ],
+            [
+              107.5574,
+              16.4487
+            ],
+            [
+              107.5558,
+              16.4486
+            ],
+            [
+              107.5535,
+              16.4527
+            ],
+            [
+              107.5469,
+              16.4509
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.22_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thuỷ Biều",
+        "VARNAME_3": "Thuy Bieu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19807,
+        "ward_name": "Phường Thủy Biều"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.584,
+              16.4369
+            ],
+            [
+              107.5794,
+              16.4357
+            ],
+            [
+              107.5806,
+              16.4407
+            ],
+            [
+              107.5773,
+              16.4493
+            ],
+            [
+              107.5744,
+              16.4558
+            ],
+            [
+              107.5673,
+              16.4529
+            ],
+            [
+              107.5644,
+              16.4533
+            ],
+            [
+              107.5574,
+              16.4487
+            ],
+            [
+              107.559,
+              16.4425
+            ],
+            [
+              107.5612,
+              16.4402
+            ],
+            [
+              107.5628,
+              16.4313
+            ],
+            [
+              107.567,
+              16.4264
+            ],
+            [
+              107.5661,
+              16.4249
+            ],
+            [
+              107.5713,
+              16.4237
+            ],
+            [
+              107.5717,
+              16.4205
+            ],
+            [
+              107.5798,
+              16.4245
+            ],
+            [
+              107.5835,
+              16.4176
+            ],
+            [
+              107.58755534417158,
+              16.417431027326185
+            ],
+            [
+              107.587,
+              16.4226
+            ],
+            [
+              107.5892,
+              16.4234
+            ],
+            [
+              107.584,
+              16.4369
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.23_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thuỷ Xuân",
+        "VARNAME_3": "Thuy Xuan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19813,
+        "ward_name": "Phường Thủy Xuân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5773,
+              16.4493
+            ],
+            [
+              107.5806,
+              16.4407
+            ],
+            [
+              107.5794,
+              16.4357
+            ],
+            [
+              107.584,
+              16.4369
+            ],
+            [
+              107.5884,
+              16.4418
+            ],
+            [
+              107.5863,
+              16.4437
+            ],
+            [
+              107.5867,
+              16.4502
+            ],
+            [
+              107.5823,
+              16.452
+            ],
+            [
+              107.5835,
+              16.4549
+            ],
+            [
+              107.5804,
+              16.4568
+            ],
+            [
+              107.5773,
+              16.4493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.24_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Trường An",
+        "VARNAME_3": "Truong An",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19795,
+        "ward_name": "Phường Trường An"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5929,
+              16.4894
+            ],
+            [
+              107.5826,
+              16.4897
+            ],
+            [
+              107.5922,
+              16.4884
+            ],
+            [
+              107.5914,
+              16.4819
+            ],
+            [
+              107.5908,
+              16.4711
+            ],
+            [
+              107.5957,
+              16.4736
+            ],
+            [
+              107.59989682320443,
+              16.471323756906077
+            ],
+            [
+              107.6016,
+              16.4704
+            ],
+            [
+              107.606,
+              16.4723
+            ],
+            [
+              107.6072,
+              16.4739
+            ],
+            [
+              107.6039,
+              16.4767
+            ],
+            [
+              107.6034,
+              16.4819
+            ],
+            [
+              107.60519764705883,
+              16.48396588235294
+            ],
+            [
+              107.6038,
+              16.4835
+            ],
+            [
+              107.5969,
+              16.4862
+            ],
+            [
+              107.5963,
+              16.4891
+            ],
+            [
+              107.5929,
+              16.4894
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.25_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩ Dạ",
+        "VARNAME_3": "Vi Da",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19777,
+        "ward_name": "Phường Vĩ Dạ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5804,
+              16.4568
+            ],
+            [
+              107.5835,
+              16.4549
+            ],
+            [
+              107.585,
+              16.4545
+            ],
+            [
+              107.5921,
+              16.4564
+            ],
+            [
+              107.5906,
+              16.4651
+            ],
+            [
+              107.5894337236534,
+              16.46649953161591
+            ],
+            [
+              107.5881,
+              16.4681
+            ],
+            [
+              107.58394136922176,
+              16.46487852545348
+            ],
+            [
+              107.5830311166876,
+              16.464173400250946
+            ],
+            [
+              107.581,
+              16.4626
+            ],
+            [
+              107.5755,
+              16.4609
+            ],
+            [
+              107.5768,
+              16.4584
+            ],
+            [
+              107.5804,
+              16.4568
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.26_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Ninh",
+        "VARNAME_3": "Vinh Ninh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19783,
+        "ward_name": "Phường Vĩnh Ninh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6159,
+              16.4726
+            ],
+            [
+              107.6072,
+              16.4739
+            ],
+            [
+              107.606,
+              16.4723
+            ],
+            [
+              107.6016,
+              16.4704
+            ],
+            [
+              107.59989682320443,
+              16.471323756906077
+            ],
+            [
+              107.5994,
+              16.4594
+            ],
+            [
+              107.6015,
+              16.4569
+            ],
+            [
+              107.6013,
+              16.4592
+            ],
+            [
+              107.6056,
+              16.4626
+            ],
+            [
+              107.6102,
+              16.4618
+            ],
+            [
+              107.6136,
+              16.4632
+            ],
+            [
+              107.6118,
+              16.4662
+            ],
+            [
+              107.6128,
+              16.4713
+            ],
+            [
+              107.6159,
+              16.4726
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.54.2.27_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.54_1",
+        "NAME_1": "Thừa Thiên Huế",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.54.2_1",
+        "NAME_2": "Huế",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Xuân Phú",
+        "VARNAME_3": "Xuan Phu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 52,
+        "province_name": "Huế",
+        "district_id": 644,
+        "district_name": "Thành phố Huế",
+        "ward_id": 19792,
+        "ward_name": "Phường Xuân Phú"
+      }
+    }
+  ]
+}

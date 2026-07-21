@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_570",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.3316,
+              17.1605
+            ],
+            [
+              107.3315,
+              17.1584
+            ],
+            [
+              107.3372,
+              17.151
+            ],
+            [
+              107.339,
+              17.152
+            ],
+            [
+              107.343,
+              17.1505
+            ],
+            [
+              107.3438,
+              17.1531
+            ],
+            [
+              107.3484,
+              17.1568
+            ],
+            [
+              107.3459,
+              17.1617
+            ],
+            [
+              107.3412,
+              17.1662
+            ],
+            [
+              107.3341,
+              17.1656
+            ],
+            [
+              107.3316,
+              17.1625
+            ],
+            [
+              107.3316,
+              17.1605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.50.1.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.50_1",
+        "NAME_1": "Quảng Trị",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.50.1_1",
+        "NAME_2": "Cồn Cỏ",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cồn Cỏ",
+        "VARNAME_3": "Con Co",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Đảo",
+        "ENGTYPE_3": "Island",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 46,
+        "province_name": "Quảng Trị",
+        "district_id": 570,
+        "district_name": "Huyện Cồn Cỏ",
+        "ward_id": 50003,
+        "ward_name": "Thị Trấn Cồn Cỏ"
+      }
+    }
+  ]
+}

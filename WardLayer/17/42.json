@@ -1,0 +1,1004 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_42",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2271,
+              16.0563
+            ],
+            [
+              108.2270732249434,
+              16.059566556904713
+            ],
+            [
+              108.2232,
+              16.0616
+            ],
+            [
+              108.2208,
+              16.0613
+            ],
+            [
+              108.2192,
+              16.0589
+            ],
+            [
+              108.2133,
+              16.0589
+            ],
+            [
+              108.2127,
+              16.0559
+            ],
+            [
+              108.2203,
+              16.0574
+            ],
+            [
+              108.2271,
+              16.0563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Hiên",
+        "VARNAME_3": "Binh Hien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20251,
+        "ward_name": "Phường Bình Hiên"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2127,
+              16.0559
+            ],
+            [
+              108.2118,
+              16.0545
+            ],
+            [
+              108.2154,
+              16.0538
+            ],
+            [
+              108.2162,
+              16.0512
+            ],
+            [
+              108.2201,
+              16.0548
+            ],
+            [
+              108.2272,
+              16.0548
+            ],
+            [
+              108.2271,
+              16.0563
+            ],
+            [
+              108.2203,
+              16.0574
+            ],
+            [
+              108.2127,
+              16.0559
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Thuận",
+        "VARNAME_3": "Binh Thuan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20254,
+        "ward_name": "Phường Bình Thuận"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2184,
+              16.0659
+            ],
+            [
+              108.22702212381043,
+              16.065800895128614
+            ],
+            [
+              108.227,
+              16.0685
+            ],
+            [
+              108.2265534820825,
+              16.0760908045977
+            ],
+            [
+              108.218,
+              16.0744
+            ],
+            [
+              108.21692849162011,
+              16.070805027932963
+            ],
+            [
+              108.2184,
+              16.0659
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hải Châu I",
+        "VARNAME_3": "Hai Chau I",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20236,
+        "ward_name": "Phường Hải Châu I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.21692849162011,
+              16.070805027932963
+            ],
+            [
+              108.2135,
+              16.0702
+            ],
+            [
+              108.21362520674826,
+              16.068271816076745
+            ],
+            [
+              108.214,
+              16.0625
+            ],
+            [
+              108.2176,
+              16.0622
+            ],
+            [
+              108.2184,
+              16.0659
+            ],
+            [
+              108.21692849162011,
+              16.070805027932963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hải Châu II",
+        "VARNAME_3": "Hai Chau II",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20239,
+        "ward_name": "Phường Hải Châu II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.20875263157895,
+              16.0376
+            ],
+            [
+              108.20812040816327,
+              16.0376
+            ],
+            [
+              108.2143,
+              16.0359
+            ],
+            [
+              108.2237,
+              16.0378
+            ],
+            [
+              108.2243,
+              16.033
+            ],
+            [
+              108.236,
+              16.0354
+            ],
+            [
+              108.234,
+              16.0439
+            ],
+            [
+              108.2291,
+              16.0511
+            ],
+            [
+              108.2208,
+              16.0493
+            ],
+            [
+              108.2211,
+              16.0464
+            ],
+            [
+              108.21318897455667,
+              16.0445433307633
+            ],
+            [
+              108.2113,
+              16.0441
+            ],
+            [
+              108.20875263157895,
+              16.0376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hòa Cường Bắc",
+        "VARNAME_3": "Hoa Cuong Bac",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20257,
+        "ward_name": "Phường Hoà Cường Bắc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2333,
+              16.0284
+            ],
+            [
+              108.236,
+              16.0354
+            ],
+            [
+              108.2243,
+              16.033
+            ],
+            [
+              108.2237,
+              16.0378
+            ],
+            [
+              108.2143,
+              16.0359
+            ],
+            [
+              108.2179,
+              16.0248
+            ],
+            [
+              108.2211557137834,
+              16.022753551336148
+            ],
+            [
+              108.2255,
+              16.0265
+            ],
+            [
+              108.2333,
+              16.0284
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hòa Cường Nam",
+        "VARNAME_3": "Hoa Cuong Nam",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20258,
+        "ward_name": "Phường Hoà Cường Nam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2118,
+              16.0545
+            ],
+            [
+              108.2105,
+              16.0524
+            ],
+            [
+              108.2146,
+              16.0498
+            ],
+            [
+              108.2129,
+              16.0483
+            ],
+            [
+              108.21318897455667,
+              16.0445433307633
+            ],
+            [
+              108.2211,
+              16.0464
+            ],
+            [
+              108.2208,
+              16.0493
+            ],
+            [
+              108.2291,
+              16.0511
+            ],
+            [
+              108.2272,
+              16.0548
+            ],
+            [
+              108.2201,
+              16.0548
+            ],
+            [
+              108.2162,
+              16.0512
+            ],
+            [
+              108.2154,
+              16.0538
+            ],
+            [
+              108.2118,
+              16.0545
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hòa Thuận Đông",
+        "VARNAME_3": "Hoa Thuan Dong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20246,
+        "ward_name": "Phường Hoà Thuận Đông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2017405618964,
+              16.023585689201056
+            ],
+            [
+              108.2084,
+              16.0253
+            ],
+            [
+              108.2074,
+              16.0376
+            ],
+            [
+              108.20812040816327,
+              16.0376
+            ],
+            [
+              108.20875263157895,
+              16.0376
+            ],
+            [
+              108.2113,
+              16.0441
+            ],
+            [
+              108.21318897455667,
+              16.0445433307633
+            ],
+            [
+              108.2129,
+              16.0483
+            ],
+            [
+              108.2146,
+              16.0498
+            ],
+            [
+              108.2105,
+              16.0524
+            ],
+            [
+              108.2085,
+              16.0564
+            ],
+            [
+              108.2065,
+              16.0567
+            ],
+            [
+              108.2022,
+              16.0648
+            ],
+            [
+              108.19672817281729,
+              16.0653900990099
+            ],
+            [
+              108.193,
+              16.0644
+            ],
+            [
+              108.1909,
+              16.0572
+            ],
+            [
+              108.1877,
+              16.0553
+            ],
+            [
+              108.1964,
+              16.0356
+            ],
+            [
+              108.1891,
+              16.0327
+            ],
+            [
+              108.1913,
+              16.0254
+            ],
+            [
+              108.19255924739791,
+              16.023778783026433
+            ],
+            [
+              108.1951,
+              16.0213
+            ],
+            [
+              108.1983,
+              16.0227
+            ],
+            [
+              108.2017405618964,
+              16.023585689201056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hòa Thuận Tây",
+        "VARNAME_3": "Hoa Thuan Tay",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20245,
+        "ward_name": "Phường Hoà Thuận Tây"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2192,
+              16.0589
+            ],
+            [
+              108.2176,
+              16.0622
+            ],
+            [
+              108.214,
+              16.0625
+            ],
+            [
+              108.2133,
+              16.0589
+            ],
+            [
+              108.2192,
+              16.0589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nam Dương",
+        "VARNAME_3": "Nam Duong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20248,
+        "ward_name": "Phường Nam Dương"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2270732249434,
+              16.059566556904713
+            ],
+            [
+              108.22702212381043,
+              16.065800895128614
+            ],
+            [
+              108.2184,
+              16.0659
+            ],
+            [
+              108.2176,
+              16.0622
+            ],
+            [
+              108.2192,
+              16.0589
+            ],
+            [
+              108.2208,
+              16.0613
+            ],
+            [
+              108.2232,
+              16.0616
+            ],
+            [
+              108.2270732249434,
+              16.059566556904713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phước Ninh",
+        "VARNAME_3": "Phuoc Ninh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20242,
+        "ward_name": "Phường Phước Ninh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.2128,
+              16.0733
+            ],
+            [
+              108.21302980478416,
+              16.072282293098706
+            ],
+            [
+              108.2135,
+              16.0702
+            ],
+            [
+              108.21692849162011,
+              16.070805027932963
+            ],
+            [
+              108.218,
+              16.0744
+            ],
+            [
+              108.2265534820825,
+              16.0760908045977
+            ],
+            [
+              108.2264,
+              16.0787
+            ],
+            [
+              108.22556053537883,
+              16.082091437069504
+            ],
+            [
+              108.2198,
+              16.082
+            ],
+            [
+              108.2161,
+              16.0769
+            ],
+            [
+              108.2128,
+              16.0733
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thạch Thang",
+        "VARNAME_3": "Thach Thang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20233,
+        "ward_name": "Phường Thạch Thang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.21584191176471,
+              16.077080661764704
+            ],
+            [
+              108.2176,
+              16.0813
+            ],
+            [
+              108.2155,
+              16.0847
+            ],
+            [
+              108.2164,
+              16.0862
+            ],
+            [
+              108.2129,
+              16.09
+            ],
+            [
+              108.207,
+              16.0889
+            ],
+            [
+              108.207,
+              16.0834
+            ],
+            [
+              108.2052,
+              16.0789
+            ],
+            [
+              108.2128,
+              16.0733
+            ],
+            [
+              108.2161,
+              16.0769
+            ],
+            [
+              108.21584191176471,
+              16.077080661764704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thanh Bình",
+        "VARNAME_3": "Thanh Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20227,
+        "ward_name": "Phường Thanh Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.21584191176471,
+              16.077080661764704
+            ],
+            [
+              108.2161,
+              16.0769
+            ],
+            [
+              108.2198,
+              16.082
+            ],
+            [
+              108.22556053537883,
+              16.082091437069504
+            ],
+            [
+              108.22496668824861,
+              16.084490579475574
+            ],
+            [
+              108.2197,
+              16.0956
+            ],
+            [
+              108.2172,
+              16.0941
+            ],
+            [
+              108.2149,
+              16.096
+            ],
+            [
+              108.2129,
+              16.09
+            ],
+            [
+              108.2164,
+              16.0862
+            ],
+            [
+              108.2155,
+              16.0847
+            ],
+            [
+              108.2176,
+              16.0813
+            ],
+            [
+              108.21584191176471,
+              16.077080661764704
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.19.2.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.19_1",
+        "NAME_1": "Đà Nẵng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.19.2_1",
+        "NAME_2": "Hải Châu",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thuận Phước",
+        "VARNAME_3": "Thuan Phuoc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 17,
+        "province_name": "Đà Nẵng",
+        "district_id": 42,
+        "district_name": "Quận Hải Châu",
+        "ward_id": 20230,
+        "ward_name": "Phường Thuận Phước"
+      }
+    }
+  ]
+}

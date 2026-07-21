@@ -1,0 +1,854 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_19",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6038,
+              10.7108
+            ],
+            [
+              106.6191,
+              10.7162
+            ],
+            [
+              106.62161185792964,
+              10.734348173541642
+            ],
+            [
+              106.62286124062574,
+              10.743374963520989
+            ],
+            [
+              106.6231,
+              10.7451
+            ],
+            [
+              106.61306903225807,
+              10.735723225806456
+            ],
+            [
+              106.6047,
+              10.7279
+            ],
+            [
+              106.6019,
+              10.7283
+            ],
+            [
+              106.6009,
+              10.7223
+            ],
+            [
+              106.6001,
+              10.7179
+            ],
+            [
+              106.6039,
+              10.7173
+            ],
+            [
+              106.6028,
+              10.715
+            ],
+            [
+              106.6038,
+              10.7108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Lạc",
+        "VARNAME_3": "An Lac",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27460,
+        "ward_name": "Phường An Lạc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6231,
+              10.7451
+            ],
+            [
+              106.6245,
+              10.756
+            ],
+            [
+              106.61937053269448,
+              10.756636992671929
+            ],
+            [
+              106.6203,
+              10.7479
+            ],
+            [
+              106.616,
+              10.7473
+            ],
+            [
+              106.6159,
+              10.7433
+            ],
+            [
+              106.6123,
+              10.7363
+            ],
+            [
+              106.61306903225807,
+              10.735723225806456
+            ],
+            [
+              106.6231,
+              10.7451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Lạc A",
+        "VARNAME_3": "An Lac A",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27463,
+        "ward_name": "Phường An Lạc A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6137,
+              10.7967
+            ],
+            [
+              106.6084,
+              10.8059
+            ],
+            [
+              106.6068,
+              10.8061
+            ],
+            [
+              106.6077,
+              10.813
+            ],
+            [
+              106.6162,
+              10.8194
+            ],
+            [
+              106.6033,
+              10.8263
+            ],
+            [
+              106.5956,
+              10.7899
+            ],
+            [
+              106.5985,
+              10.7876
+            ],
+            [
+              106.6137,
+              10.7967
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Hưng Hòa",
+        "VARNAME_3": "Binh Hung Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27436,
+        "ward_name": "Phường Bình Hưng Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5956,
+              10.7899
+            ],
+            [
+              106.59310979053895,
+              10.778498653800895
+            ],
+            [
+              106.6091,
+              10.7763
+            ],
+            [
+              106.6091023858149,
+              10.775861010058597
+            ],
+            [
+              106.6216,
+              10.7738
+            ],
+            [
+              106.6188,
+              10.7845
+            ],
+            [
+              106.6174,
+              10.7881
+            ],
+            [
+              106.6137,
+              10.7967
+            ],
+            [
+              106.5985,
+              10.7876
+            ],
+            [
+              106.5956,
+              10.7899
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Hưng Hoà A",
+        "VARNAME_3": "Binh Hung Hoa A",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27439,
+        "ward_name": "Phường Binh Hưng Hoà A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5882,
+              10.778
+            ],
+            [
+              106.5923,
+              10.7747
+            ],
+            [
+              106.59310979053895,
+              10.778498653800895
+            ],
+            [
+              106.5956,
+              10.7899
+            ],
+            [
+              106.6033,
+              10.8263
+            ],
+            [
+              106.5937,
+              10.8278
+            ],
+            [
+              106.582,
+              10.8157
+            ],
+            [
+              106.586,
+              10.8131
+            ],
+            [
+              106.5835,
+              10.8064
+            ],
+            [
+              106.5829,
+              10.7973
+            ],
+            [
+              106.5855,
+              10.7957
+            ],
+            [
+              106.5845,
+              10.7908
+            ],
+            [
+              106.589,
+              10.7874
+            ],
+            [
+              106.5888,
+              10.7791
+            ],
+            [
+              106.5882,
+              10.778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Hưng Hoà B",
+        "VARNAME_3": "Binh Hung Hoa B",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27442,
+        "ward_name": "Phường Binh Hưng Hoà B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6193,
+              10.7573
+            ],
+            [
+              106.61937053269448,
+              10.756636992671929
+            ],
+            [
+              106.6245,
+              10.756
+            ],
+            [
+              106.62496480491716,
+              10.758976670229824
+            ],
+            [
+              106.62429550781249,
+              10.761925195312498
+            ],
+            [
+              106.62305289564617,
+              10.767399405666897
+            ],
+            [
+              106.6216,
+              10.7738
+            ],
+            [
+              106.6091023858149,
+              10.775861010058597
+            ],
+            [
+              106.60919969059407,
+              10.75795693069307
+            ],
+            [
+              106.6193,
+              10.7573
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Trị Đông",
+        "VARNAME_3": "Binh Tri Dong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27445,
+        "ward_name": "Phường Bình Trị Đông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57740083194675,
+              10.77097870216306
+            ],
+            [
+              106.5963,
+              10.7618
+            ],
+            [
+              106.5988,
+              10.7629
+            ],
+            [
+              106.6033,
+              10.7619
+            ],
+            [
+              106.6031,
+              10.7588
+            ],
+            [
+              106.6059,
+              10.7571
+            ],
+            [
+              106.60919969059407,
+              10.75795693069307
+            ],
+            [
+              106.6091023858149,
+              10.775861010058597
+            ],
+            [
+              106.6091,
+              10.7763
+            ],
+            [
+              106.59310979053895,
+              10.778498653800895
+            ],
+            [
+              106.5923,
+              10.7747
+            ],
+            [
+              106.5882,
+              10.778
+            ],
+            [
+              106.5852,
+              10.775
+            ],
+            [
+              106.5812,
+              10.7752
+            ],
+            [
+              106.57740083194675,
+              10.77097870216306
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Trị Đông A",
+        "VARNAME_3": "Binh Tri Dong A",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27448,
+        "ward_name": "Phường Bình Trị Đông A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6193,
+              10.7573
+            ],
+            [
+              106.60919969059407,
+              10.75795693069307
+            ],
+            [
+              106.6059,
+              10.7571
+            ],
+            [
+              106.6042,
+              10.7453
+            ],
+            [
+              106.5977,
+              10.7434
+            ],
+            [
+              106.6026,
+              10.7354
+            ],
+            [
+              106.6019,
+              10.7283
+            ],
+            [
+              106.6047,
+              10.7279
+            ],
+            [
+              106.61306903225807,
+              10.735723225806456
+            ],
+            [
+              106.6123,
+              10.7363
+            ],
+            [
+              106.6159,
+              10.7433
+            ],
+            [
+              106.616,
+              10.7473
+            ],
+            [
+              106.6203,
+              10.7479
+            ],
+            [
+              106.61937053269448,
+              10.756636992671929
+            ],
+            [
+              106.6193,
+              10.7573
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Trị Đông B",
+        "VARNAME_3": "Binh Tri Dong B",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27451,
+        "ward_name": "Phường Bình Trị Đông B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5734,
+              10.7604
+            ],
+            [
+              106.5919,
+              10.7564
+            ],
+            [
+              106.5932,
+              10.7506
+            ],
+            [
+              106.5977,
+              10.7434
+            ],
+            [
+              106.6042,
+              10.7453
+            ],
+            [
+              106.6059,
+              10.7571
+            ],
+            [
+              106.6031,
+              10.7588
+            ],
+            [
+              106.6033,
+              10.7619
+            ],
+            [
+              106.5988,
+              10.7629
+            ],
+            [
+              106.5963,
+              10.7618
+            ],
+            [
+              106.57740083194675,
+              10.77097870216306
+            ],
+            [
+              106.5758,
+              10.7692
+            ],
+            [
+              106.5696,
+              10.7686
+            ],
+            [
+              106.568,
+              10.7643
+            ],
+            [
+              106.56783562106212,
+              10.763149347434744
+            ],
+            [
+              106.5734,
+              10.7604
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Tạo",
+        "VARNAME_3": "Tan Tao",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27454,
+        "ward_name": "Phường Tân Tạo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55888195840689,
+              10.7364806614995
+            ],
+            [
+              106.5676527013872,
+              10.734301289851546
+            ],
+            [
+              106.5741,
+              10.7327
+            ],
+            [
+              106.5743,
+              10.7276
+            ],
+            [
+              106.5817,
+              10.7333
+            ],
+            [
+              106.5819,
+              10.7294
+            ],
+            [
+              106.6009,
+              10.7223
+            ],
+            [
+              106.6019,
+              10.7283
+            ],
+            [
+              106.6026,
+              10.7354
+            ],
+            [
+              106.5977,
+              10.7434
+            ],
+            [
+              106.5932,
+              10.7506
+            ],
+            [
+              106.5919,
+              10.7564
+            ],
+            [
+              106.5734,
+              10.7604
+            ],
+            [
+              106.5594,
+              10.749
+            ],
+            [
+              106.55888195840689,
+              10.7364806614995
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.2.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.2_1",
+        "NAME_2": "Bình Tân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Tạo A",
+        "VARNAME_3": "Tan Tao A",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 19,
+        "district_name": "Quận Bình Tân",
+        "ward_id": 27457,
+        "ward_name": "Phường Tân Tạo A"
+      }
+    }
+  ]
+}

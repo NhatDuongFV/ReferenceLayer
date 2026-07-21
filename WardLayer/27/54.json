@@ -1,0 +1,960 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_54",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.684,
+              20.8527
+            ],
+            [
+              106.6856,
+              20.8502
+            ],
+            [
+              106.6863,
+              20.8521
+            ],
+            [
+              106.6859,
+              20.8536
+            ],
+            [
+              106.6841,
+              20.8569
+            ],
+            [
+              106.6816,
+              20.8561
+            ],
+            [
+              106.684,
+              20.8527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cầu Đất",
+        "VARNAME_3": "Cau Dat",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11353,
+        "ward_name": "Phường Cầu Đất"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7073,
+              20.8582
+            ],
+            [
+              106.7076,
+              20.8656
+            ],
+            [
+              106.7054,
+              20.8632
+            ],
+            [
+              106.7015,
+              20.8639
+            ],
+            [
+              106.7023,
+              20.8582
+            ],
+            [
+              106.7064,
+              20.8563
+            ],
+            [
+              106.7073,
+              20.8582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cầu Tre",
+        "VARNAME_3": "Cau Tre",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11338,
+        "ward_name": "Phường Cầu Tre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69870164203613,
+              20.82785911330049
+            ],
+            [
+              106.6991,
+              20.8302
+            ],
+            [
+              106.7065,
+              20.841
+            ],
+            [
+              106.7054,
+              20.8451
+            ],
+            [
+              106.7117,
+              20.8468
+            ],
+            [
+              106.70807407407409,
+              20.846514814814817
+            ],
+            [
+              106.70174195369847,
+              20.84697190852626
+            ],
+            [
+              106.6937,
+              20.8542
+            ],
+            [
+              106.6897,
+              20.8566
+            ],
+            [
+              106.692,
+              20.855
+            ],
+            [
+              106.692,
+              20.8516
+            ],
+            [
+              106.6935,
+              20.8474
+            ],
+            [
+              106.6966,
+              20.8451
+            ],
+            [
+              106.69858991596638,
+              20.840933613445376
+            ],
+            [
+              106.6998,
+              20.8384
+            ],
+            [
+              106.6959,
+              20.8367
+            ],
+            [
+              106.6941,
+              20.8309
+            ],
+            [
+              106.6947,
+              20.8291
+            ],
+            [
+              106.6961,
+              20.8274
+            ],
+            [
+              106.69870164203613,
+              20.82785911330049
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đằng Giang",
+        "VARNAME_3": "Dang Giang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11359,
+        "ward_name": "Phường Đằng Giang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7106,
+              20.8552
+            ],
+            [
+              106.7103,
+              20.8576
+            ],
+            [
+              106.7073,
+              20.8582
+            ],
+            [
+              106.7064,
+              20.8563
+            ],
+            [
+              106.7023,
+              20.8582
+            ],
+            [
+              106.6967,
+              20.8591
+            ],
+            [
+              106.69676601941748,
+              20.85855533980583
+            ],
+            [
+              106.6971,
+              20.8558
+            ],
+            [
+              106.6937,
+              20.8542
+            ],
+            [
+              106.70174195369847,
+              20.84697190852626
+            ],
+            [
+              106.70807407407409,
+              20.846514814814817
+            ],
+            [
+              106.7107,
+              20.8488
+            ],
+            [
+              106.7088,
+              20.8541
+            ],
+            [
+              106.7106,
+              20.8552
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đông Khê",
+        "VARNAME_3": "Dong Khe",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11350,
+        "ward_name": "Phường Đông Khê"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6959,
+              20.8367
+            ],
+            [
+              106.6998,
+              20.8384
+            ],
+            [
+              106.69858991596638,
+              20.840933613445376
+            ],
+            [
+              106.6926,
+              20.8393
+            ],
+            [
+              106.6959,
+              20.8367
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đổng Quốc Bình",
+        "VARNAME_3": "Dong Quoc Binh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11365,
+        "ward_name": "Phường Đổng Quốc Bình"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69676601941748,
+              20.85855533980583
+            ],
+            [
+              106.69269668246446,
+              20.858336018957345
+            ],
+            [
+              106.6897,
+              20.8566
+            ],
+            [
+              106.6937,
+              20.8542
+            ],
+            [
+              106.6971,
+              20.8558
+            ],
+            [
+              106.69676601941748,
+              20.85855533980583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Gia Viên",
+        "VARNAME_3": "Gia Vien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11347,
+        "ward_name": "Phường Gia Viên"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7015,
+              20.8639
+            ],
+            [
+              106.6979,
+              20.8635
+            ],
+            [
+              106.6952,
+              20.861
+            ],
+            [
+              106.6967,
+              20.8591
+            ],
+            [
+              106.7023,
+              20.8582
+            ],
+            [
+              106.7015,
+              20.8639
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lạc Viên",
+        "VARNAME_3": "Lac Vien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11341,
+        "ward_name": "Phường Lạc Viên"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6908,
+              20.8381
+            ],
+            [
+              106.6926,
+              20.8393
+            ],
+            [
+              106.69858991596638,
+              20.840933613445376
+            ],
+            [
+              106.6966,
+              20.8451
+            ],
+            [
+              106.6935,
+              20.8474
+            ],
+            [
+              106.692,
+              20.8516
+            ],
+            [
+              106.6884,
+              20.853
+            ],
+            [
+              106.6863,
+              20.8521
+            ],
+            [
+              106.6856,
+              20.8502
+            ],
+            [
+              106.6891,
+              20.8493
+            ],
+            [
+              106.6891,
+              20.847
+            ],
+            [
+              106.6926,
+              20.8431
+            ],
+            [
+              106.6908,
+              20.8381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lạch Tray",
+        "VARNAME_3": "Lach Tray",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11362,
+        "ward_name": "Phường Lạch Tray"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.692,
+              20.8516
+            ],
+            [
+              106.692,
+              20.855
+            ],
+            [
+              106.6897,
+              20.8566
+            ],
+            [
+              106.6859,
+              20.8536
+            ],
+            [
+              106.6863,
+              20.8521
+            ],
+            [
+              106.6884,
+              20.853
+            ],
+            [
+              106.692,
+              20.8516
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lê Lợi",
+        "VARNAME_3": "Le Loi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11356,
+        "ward_name": "Phường Lê Lợi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6859,
+              20.8536
+            ],
+            [
+              106.6897,
+              20.8566
+            ],
+            [
+              106.69269668246446,
+              20.858336018957345
+            ],
+            [
+              106.6918,
+              20.8607
+            ],
+            [
+              106.6889,
+              20.8612
+            ],
+            [
+              106.6841,
+              20.8569
+            ],
+            [
+              106.6859,
+              20.8536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lương Khánh Thiện",
+        "VARNAME_3": "Luong Khanh Thien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11344,
+        "ward_name": "Phường Lương Khánh Thiện"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7076,
+              20.8656
+            ],
+            [
+              106.7112,
+              20.8647
+            ],
+            [
+              106.71802096133752,
+              20.870493145245558
+            ],
+            [
+              106.7111,
+              20.8761
+            ],
+            [
+              106.7064,
+              20.8775
+            ],
+            [
+              106.69614347909844,
+              20.872864284338277
+            ],
+            [
+              106.6988,
+              20.8685
+            ],
+            [
+              106.6967,
+              20.8655
+            ],
+            [
+              106.6979,
+              20.8635
+            ],
+            [
+              106.7015,
+              20.8639
+            ],
+            [
+              106.7054,
+              20.8632
+            ],
+            [
+              106.7076,
+              20.8656
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Máy Chai",
+        "VARNAME_3": "May Chai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11329,
+        "ward_name": "Phường Máy Chai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6889,
+              20.8612
+            ],
+            [
+              106.6918,
+              20.8607
+            ],
+            [
+              106.69269668246446,
+              20.858336018957345
+            ],
+            [
+              106.69676601941748,
+              20.85855533980583
+            ],
+            [
+              106.6967,
+              20.8591
+            ],
+            [
+              106.6952,
+              20.861
+            ],
+            [
+              106.6979,
+              20.8635
+            ],
+            [
+              106.6967,
+              20.8655
+            ],
+            [
+              106.6988,
+              20.8685
+            ],
+            [
+              106.69614347909844,
+              20.872864284338277
+            ],
+            [
+              106.6887,
+              20.8695
+            ],
+            [
+              106.6889,
+              20.8612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Máy Tơ",
+        "VARNAME_3": "May To",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11332,
+        "ward_name": "Phường Máy Tơ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.72244560797071,
+              20.866908621390813
+            ],
+            [
+              106.71802096133752,
+              20.870493145245558
+            ],
+            [
+              106.7112,
+              20.8647
+            ],
+            [
+              106.7076,
+              20.8656
+            ],
+            [
+              106.7073,
+              20.8582
+            ],
+            [
+              106.7103,
+              20.8576
+            ],
+            [
+              106.7106,
+              20.8552
+            ],
+            [
+              106.7128,
+              20.8565
+            ],
+            [
+              106.7163,
+              20.8563
+            ],
+            [
+              106.7128,
+              20.8648
+            ],
+            [
+              106.72,
+              20.8628
+            ],
+            [
+              106.72244560797071,
+              20.866908621390813
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.12.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.12_1",
+        "NAME_2": "Ngô Quyền",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vạn Mỹ",
+        "VARNAME_3": "Van My",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 54,
+        "district_name": "Quận Ngô Quyền",
+        "ward_id": 11335,
+        "ward_name": "Phường Vạn Mỹ"
+      }
+    }
+  ]
+}

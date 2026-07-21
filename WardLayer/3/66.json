@@ -1,0 +1,504 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_66",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1147,
+              10.7197
+            ],
+            [
+              105.084,
+              10.7005
+            ],
+            [
+              105.0914,
+              10.6889
+            ],
+            [
+              105.1216,
+              10.7116
+            ],
+            [
+              105.1147,
+              10.7197
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Châu Phú A",
+        "VARNAME_3": "Chau Phu A",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30319,
+        "ward_name": "Phường Châu Phú A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1216,
+              10.7116
+            ],
+            [
+              105.0914,
+              10.6889
+            ],
+            [
+              105.1054,
+              10.6668
+            ],
+            [
+              105.12676510367145,
+              10.684432167342239
+            ],
+            [
+              105.1323,
+              10.689
+            ],
+            [
+              105.1248,
+              10.6967
+            ],
+            [
+              105.1326,
+              10.7029
+            ],
+            [
+              105.1344,
+              10.7069
+            ],
+            [
+              105.13082562674094,
+              10.70821246518106
+            ],
+            [
+              105.1246,
+              10.7098
+            ],
+            [
+              105.1216,
+              10.7116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Châu Phú B",
+        "VARNAME_3": "Chau Phu B",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30316,
+        "ward_name": "Phường Châu Phú B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1054,
+              10.6668
+            ],
+            [
+              105.0914,
+              10.6889
+            ],
+            [
+              105.084,
+              10.7005
+            ],
+            [
+              105.0602,
+              10.6858
+            ],
+            [
+              105.0691,
+              10.6749
+            ],
+            [
+              105.0862,
+              10.6479
+            ],
+            [
+              105.1054,
+              10.6668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Núi Sam",
+        "VARNAME_3": "Nui Sam",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30325,
+        "ward_name": "Phường Núi Sam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.12676510367145,
+              10.684432167342239
+            ],
+            [
+              105.1054,
+              10.6668
+            ],
+            [
+              105.0862,
+              10.6479
+            ],
+            [
+              105.0561,
+              10.6237
+            ],
+            [
+              105.0654,
+              10.6109
+            ],
+            [
+              105.0815,
+              10.6146
+            ],
+            [
+              105.105,
+              10.6383
+            ],
+            [
+              105.13867445714627,
+              10.672325965049666
+            ],
+            [
+              105.12676510367145,
+              10.684432167342239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Châu",
+        "VARNAME_3": "Vinh Chau",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30334,
+        "ward_name": "Xã Vĩnh Châu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.12676510367145,
+              10.684432167342239
+            ],
+            [
+              105.13867445714627,
+              10.672325965049666
+            ],
+            [
+              105.1529,
+              10.6867
+            ],
+            [
+              105.1552,
+              10.6907
+            ],
+            [
+              105.1555,
+              10.7019
+            ],
+            [
+              105.1446,
+              10.7047
+            ],
+            [
+              105.13082562674094,
+              10.70821246518106
+            ],
+            [
+              105.1344,
+              10.7069
+            ],
+            [
+              105.1326,
+              10.7029
+            ],
+            [
+              105.1248,
+              10.6967
+            ],
+            [
+              105.1323,
+              10.689
+            ],
+            [
+              105.12676510367145,
+              10.684432167342239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Mỹ",
+        "VARNAME_3": "Vinh My",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30322,
+        "ward_name": "Phường Vĩnh Mỹ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.0979,
+              10.7653
+            ],
+            [
+              105.0888,
+              10.7607
+            ],
+            [
+              105.0926,
+              10.7548
+            ],
+            [
+              105.0983,
+              10.721
+            ],
+            [
+              105.07862503100088,
+              10.709657354591082
+            ],
+            [
+              105.084,
+              10.7005
+            ],
+            [
+              105.1147,
+              10.7197
+            ],
+            [
+              105.1012,
+              10.7441
+            ],
+            [
+              105.0979,
+              10.7653
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Ngươn",
+        "VARNAME_3": "Vinh Nguon",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30328,
+        "ward_name": "Phường Vĩnh Ngươn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.084,
+              10.7005
+            ],
+            [
+              105.07862503100088,
+              10.709657354591082
+            ],
+            [
+              105.0235,
+              10.6783
+            ],
+            [
+              105.0257,
+              10.6688
+            ],
+            [
+              105.0278,
+              10.6666
+            ],
+            [
+              105.0245,
+              10.6645
+            ],
+            [
+              105.0369,
+              10.6484
+            ],
+            [
+              105.0561,
+              10.6237
+            ],
+            [
+              105.0862,
+              10.6479
+            ],
+            [
+              105.0691,
+              10.6749
+            ],
+            [
+              105.0602,
+              10.6858
+            ],
+            [
+              105.084,
+              10.7005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.3.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.3_1",
+        "NAME_2": "Châu Đốc",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Tế",
+        "VARNAME_3": "Vinh Te",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 66,
+        "district_name": "Thành phố Châu Đốc",
+        "ward_id": 30331,
+        "ward_name": "Xã Vĩnh Tế"
+      }
+    }
+  ]
+}

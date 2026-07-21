@@ -1,0 +1,1028 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_53",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6816,
+              20.8561
+            ],
+            [
+              106.67956162528216,
+              20.855663205417606
+            ],
+            [
+              106.6746,
+              20.8546
+            ],
+            [
+              106.6756,
+              20.8516
+            ],
+            [
+              106.6777,
+              20.8518
+            ],
+            [
+              106.684,
+              20.8527
+            ],
+            [
+              106.6816,
+              20.8561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Biên",
+        "VARNAME_3": "An Bien",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11371,
+        "ward_name": "Phường An Biên"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.665887054409,
+              20.84546707317073
+            ],
+            [
+              106.66679536112743,
+              20.845329770992365
+            ],
+            [
+              106.6705,
+              20.8464
+            ],
+            [
+              106.6675,
+              20.8515
+            ],
+            [
+              106.6652,
+              20.8477
+            ],
+            [
+              106.665887054409,
+              20.84546707317073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "An Dương",
+        "VARNAME_3": "An Duong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11377,
+        "ward_name": "Phường An Dương"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.669,
+              20.8552
+            ],
+            [
+              106.6665,
+              20.8536
+            ],
+            [
+              106.6661,
+              20.8534
+            ],
+            [
+              106.6675,
+              20.8515
+            ],
+            [
+              106.6725,
+              20.8513
+            ],
+            [
+              106.6756,
+              20.8516
+            ],
+            [
+              106.6746,
+              20.8546
+            ],
+            [
+              106.6703,
+              20.8539
+            ],
+            [
+              106.669,
+              20.8552
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cát Dài",
+        "VARNAME_3": "Cat Dai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11368,
+        "ward_name": "Phường Cát Dài"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6908,
+              20.8381
+            ],
+            [
+              106.6926,
+              20.8431
+            ],
+            [
+              106.6891,
+              20.847
+            ],
+            [
+              106.68354420289855,
+              20.843621376811594
+            ],
+            [
+              106.6852,
+              20.8418
+            ],
+            [
+              106.6891,
+              20.8427
+            ],
+            [
+              106.6908,
+              20.8381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đông Hải",
+        "VARNAME_3": "Dong Hai",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11395,
+        "ward_name": "Phường Đông Hải"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6762,
+              20.8447
+            ],
+            [
+              106.68149384215091,
+              20.843940156114485
+            ],
+            [
+              106.6814,
+              20.8476
+            ],
+            [
+              106.6774,
+              20.8499
+            ],
+            [
+              106.6762,
+              20.8447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Dư Hàng",
+        "VARNAME_3": "Du Hang",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11389,
+        "ward_name": "Phường Dư Hàng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.68354420289855,
+              20.843621376811594
+            ],
+            [
+              106.68149384215091,
+              20.843940156114485
+            ],
+            [
+              106.6762,
+              20.8447
+            ],
+            [
+              106.67542916030534,
+              20.84364885496183
+            ],
+            [
+              106.67540877192982,
+              20.843621052631576
+            ],
+            [
+              106.6746132264529,
+              20.839166733466932
+            ],
+            [
+              106.6744,
+              20.8374
+            ],
+            [
+              106.67837631578948,
+              20.83276096491228
+            ],
+            [
+              106.6853,
+              20.8337
+            ],
+            [
+              106.6908,
+              20.8381
+            ],
+            [
+              106.6891,
+              20.8427
+            ],
+            [
+              106.6852,
+              20.8418
+            ],
+            [
+              106.68354420289855,
+              20.843621376811594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Dư Hàng Kênh",
+        "VARNAME_3": "Du Hang Kenh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11404,
+        "ward_name": "Phường Dư Hàng Kênh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6891,
+              20.847
+            ],
+            [
+              106.6891,
+              20.8493
+            ],
+            [
+              106.6856,
+              20.8502
+            ],
+            [
+              106.684,
+              20.8478
+            ],
+            [
+              106.6814,
+              20.8476
+            ],
+            [
+              106.68149384215091,
+              20.843940156114485
+            ],
+            [
+              106.68354420289855,
+              20.843621376811594
+            ],
+            [
+              106.6891,
+              20.847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hàng Kênh",
+        "VARNAME_3": "Hang Kenh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11392,
+        "ward_name": "Phường Hàng Kênh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6762,
+              20.8447
+            ],
+            [
+              106.6774,
+              20.8499
+            ],
+            [
+              106.6777,
+              20.8518
+            ],
+            [
+              106.6756,
+              20.8516
+            ],
+            [
+              106.6725,
+              20.8513
+            ],
+            [
+              106.6726,
+              20.8456
+            ],
+            [
+              106.67542916030534,
+              20.84364885496183
+            ],
+            [
+              106.6762,
+              20.8447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hồ Nam",
+        "VARNAME_3": "Ho Nam",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11383,
+        "ward_name": "Phường Hồ Nam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67837631578948,
+              20.83276096491228
+            ],
+            [
+              106.6875,
+              20.8277
+            ],
+            [
+              106.6947,
+              20.8291
+            ],
+            [
+              106.6941,
+              20.8309
+            ],
+            [
+              106.6959,
+              20.8367
+            ],
+            [
+              106.6926,
+              20.8393
+            ],
+            [
+              106.6908,
+              20.8381
+            ],
+            [
+              106.6853,
+              20.8337
+            ],
+            [
+              106.67837631578948,
+              20.83276096491228
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Kênh Dương",
+        "VARNAME_3": "Kenh Duong",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11405,
+        "ward_name": "Phường Kênh Dương"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6576,
+              20.8435
+            ],
+            [
+              106.6591,
+              20.8427
+            ],
+            [
+              106.6617,
+              20.8461
+            ],
+            [
+              106.665887054409,
+              20.84546707317073
+            ],
+            [
+              106.6652,
+              20.8477
+            ],
+            [
+              106.6675,
+              20.8515
+            ],
+            [
+              106.6661,
+              20.8534
+            ],
+            [
+              106.664,
+              20.8529
+            ],
+            [
+              106.6576,
+              20.8435
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Lam Sơn",
+        "VARNAME_3": "Lam Son",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11374,
+        "ward_name": "Phường Lam Sơn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67540877192982,
+              20.843621052631576
+            ],
+            [
+              106.6703,
+              20.8448
+            ],
+            [
+              106.6643,
+              20.838
+            ],
+            [
+              106.6665,
+              20.8358
+            ],
+            [
+              106.6692,
+              20.8395
+            ],
+            [
+              106.6712,
+              20.8381
+            ],
+            [
+              106.6746132264529,
+              20.839166733466932
+            ],
+            [
+              106.67540877192982,
+              20.843621052631576
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Nghĩa Xá",
+        "VARNAME_3": "Nghia",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11401,
+        "ward_name": "Phường Nghĩa Xá"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.66679536112743,
+              20.845329770992365
+            ],
+            [
+              106.665887054409,
+              20.84546707317073
+            ],
+            [
+              106.6617,
+              20.8461
+            ],
+            [
+              106.6591,
+              20.8427
+            ],
+            [
+              106.6643,
+              20.838
+            ],
+            [
+              106.6703,
+              20.8448
+            ],
+            [
+              106.66679536112743,
+              20.845329770992365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Niệm Nghĩa",
+        "VARNAME_3": "Niem Nghia",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11398,
+        "ward_name": "Phường Niệm Nghĩa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6774,
+              20.8499
+            ],
+            [
+              106.6814,
+              20.8476
+            ],
+            [
+              106.684,
+              20.8478
+            ],
+            [
+              106.6856,
+              20.8502
+            ],
+            [
+              106.684,
+              20.8527
+            ],
+            [
+              106.6777,
+              20.8518
+            ],
+            [
+              106.6774,
+              20.8499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Trại Cau",
+        "VARNAME_3": "Trai Cau",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11386,
+        "ward_name": "Phường Trại Cau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.66679536112743,
+              20.845329770992365
+            ],
+            [
+              106.6703,
+              20.8448
+            ],
+            [
+              106.67540877192982,
+              20.843621052631576
+            ],
+            [
+              106.67542916030534,
+              20.84364885496183
+            ],
+            [
+              106.6726,
+              20.8456
+            ],
+            [
+              106.6725,
+              20.8513
+            ],
+            [
+              106.6675,
+              20.8515
+            ],
+            [
+              106.6705,
+              20.8464
+            ],
+            [
+              106.66679536112743,
+              20.845329770992365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Trần Nguyên Hãn",
+        "VARNAME_3": "Tran Nguyen Han",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11380,
+        "ward_name": "Phường Trần Nguyên Hãn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6961,
+              20.8274
+            ],
+            [
+              106.6947,
+              20.8291
+            ],
+            [
+              106.6875,
+              20.8277
+            ],
+            [
+              106.67837631578948,
+              20.83276096491228
+            ],
+            [
+              106.6744,
+              20.8374
+            ],
+            [
+              106.6746132264529,
+              20.839166733466932
+            ],
+            [
+              106.6712,
+              20.8381
+            ],
+            [
+              106.6692,
+              20.8395
+            ],
+            [
+              106.6665,
+              20.8358
+            ],
+            [
+              106.66738385093167,
+              20.83403229813665
+            ],
+            [
+              106.6701,
+              20.8286
+            ],
+            [
+              106.6698,
+              20.8206
+            ],
+            [
+              106.6769,
+              20.8167
+            ],
+            [
+              106.6864,
+              20.8151
+            ],
+            [
+              106.6931,
+              20.8168
+            ],
+            [
+              106.6961,
+              20.8274
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.23.11.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.23_1",
+        "NAME_1": "Hải Phòng",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.23.11_1",
+        "NAME_2": "Lê Chân",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Niệm",
+        "VARNAME_3": "Vinh Niem",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 27,
+        "province_name": "Hải Phòng",
+        "district_id": 53,
+        "district_name": "Quận Lê Chân",
+        "ward_id": 11407,
+        "ward_name": "Phường Vĩnh Niệm"
+      }
+    }
+  ]
+}

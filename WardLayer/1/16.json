@@ -1,0 +1,788 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_16",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.62305289564617,
+              10.767399405666897
+            ],
+            [
+              106.6319,
+              10.7673
+            ],
+            [
+              106.63246295558086,
+              10.770181007972665
+            ],
+            [
+              106.6336,
+              10.776
+            ],
+            [
+              106.6286,
+              10.7776
+            ],
+            [
+              106.6216,
+              10.7738
+            ],
+            [
+              106.62305289564617,
+              10.767399405666897
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hiệp Tân",
+        "VARNAME_3": "Hiep Tan",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27037,
+        "ward_name": "Phường Hiệp Tân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.63246295558086,
+              10.770181007972665
+            ],
+            [
+              106.63560339256865,
+              10.76961733979537
+            ],
+            [
+              106.6365,
+              10.7742
+            ],
+            [
+              106.6412,
+              10.7805
+            ],
+            [
+              106.6411351758794,
+              10.78459849246231
+            ],
+            [
+              106.6416,
+              10.7859
+            ],
+            [
+              106.63662636706474,
+              10.786516593337526
+            ],
+            [
+              106.636,
+              10.7817
+            ],
+            [
+              106.6336,
+              10.776
+            ],
+            [
+              106.63246295558086,
+              10.770181007972665
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Hoà Thạnh",
+        "VARNAME_3": "Hoa Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27034,
+        "ward_name": "Phường Hoà Thạnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6336,
+              10.776
+            ],
+            [
+              106.636,
+              10.7817
+            ],
+            [
+              106.6343,
+              10.7807
+            ],
+            [
+              106.6188,
+              10.7845
+            ],
+            [
+              106.6216,
+              10.7738
+            ],
+            [
+              106.6286,
+              10.7776
+            ],
+            [
+              106.6336,
+              10.776
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Thạnh",
+        "VARNAME_3": "Phu Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27028,
+        "ward_name": "Phường Phú Thạnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.636,
+              10.7817
+            ],
+            [
+              106.63662636706474,
+              10.786516593337526
+            ],
+            [
+              106.6273321670429,
+              10.788611060948082
+            ],
+            [
+              106.6225,
+              10.7897
+            ],
+            [
+              106.6174,
+              10.7881
+            ],
+            [
+              106.6188,
+              10.7845
+            ],
+            [
+              106.6343,
+              10.7807
+            ],
+            [
+              106.636,
+              10.7817
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Thọ Hòa",
+        "VARNAME_3": "Phu Tho Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27025,
+        "ward_name": "Phường Phú Thọ Hoà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6357,
+              10.7696
+            ],
+            [
+              106.6357,
+              10.76957
+            ],
+            [
+              106.63595443037975,
+              10.769493670886074
+            ],
+            [
+              106.6376,
+              10.769
+            ],
+            [
+              106.6443,
+              10.775
+            ],
+            [
+              106.6477,
+              10.7752
+            ],
+            [
+              106.6421,
+              10.7849
+            ],
+            [
+              106.6411351758794,
+              10.78459849246231
+            ],
+            [
+              106.6412,
+              10.7805
+            ],
+            [
+              106.6365,
+              10.7742
+            ],
+            [
+              106.63560339256865,
+              10.76961733979537
+            ],
+            [
+              106.6357,
+              10.7696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phú Trung",
+        "VARNAME_3": "Phu Trung",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27031,
+        "ward_name": "Phường Phú Trung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.62427010198604,
+              10.800463177670425
+            ],
+            [
+              106.6328,
+              10.8035
+            ],
+            [
+              106.6311,
+              10.8054
+            ],
+            [
+              106.6149,
+              10.8093
+            ],
+            [
+              106.6077,
+              10.813
+            ],
+            [
+              106.6068,
+              10.8061
+            ],
+            [
+              106.6084,
+              10.8059
+            ],
+            [
+              106.6137,
+              10.7967
+            ],
+            [
+              106.62427010198604,
+              10.800463177670425
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Sơn Kỳ",
+        "VARNAME_3": "Son Ky",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27016,
+        "ward_name": "Phường Sơn Kỳ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6273321670429,
+              10.788611060948082
+            ],
+            [
+              106.6293,
+              10.7904
+            ],
+            [
+              106.6294,
+              10.7949
+            ],
+            [
+              106.6274,
+              10.7985
+            ],
+            [
+              106.62427010198604,
+              10.800463177670425
+            ],
+            [
+              106.6137,
+              10.7967
+            ],
+            [
+              106.6174,
+              10.7881
+            ],
+            [
+              106.6225,
+              10.7897
+            ],
+            [
+              106.6273321670429,
+              10.788611060948082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Quý",
+        "VARNAME_3": "Tan Quy",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27019,
+        "ward_name": "Phường Tân Quý"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.62427010198604,
+              10.800463177670425
+            ],
+            [
+              106.6274,
+              10.7985
+            ],
+            [
+              106.6294,
+              10.7949
+            ],
+            [
+              106.6343,
+              10.7937
+            ],
+            [
+              106.6381,
+              10.7951
+            ],
+            [
+              106.6358,
+              10.8038
+            ],
+            [
+              106.6328,
+              10.8035
+            ],
+            [
+              106.62427010198604,
+              10.800463177670425
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Sơn Nhì",
+        "VARNAME_3": "Tan Son Nhi",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27010,
+        "ward_name": "Phường Tân Sơn Nhì"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.63662636706474,
+              10.786516593337526
+            ],
+            [
+              106.6416,
+              10.7859
+            ],
+            [
+              106.6367,
+              10.8018
+            ],
+            [
+              106.6358,
+              10.8038
+            ],
+            [
+              106.6381,
+              10.7951
+            ],
+            [
+              106.6343,
+              10.7937
+            ],
+            [
+              106.6294,
+              10.7949
+            ],
+            [
+              106.6293,
+              10.7904
+            ],
+            [
+              106.6273321670429,
+              10.788611060948082
+            ],
+            [
+              106.63662636706474,
+              10.786516593337526
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Thành",
+        "VARNAME_3": "Tan Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27022,
+        "ward_name": "Phường Tân Thành"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.62429550781249,
+              10.761925195312498
+            ],
+            [
+              106.6248,
+              10.7607
+            ],
+            [
+              106.6336,
+              10.7583
+            ],
+            [
+              106.6342,
+              10.759
+            ],
+            [
+              106.6357,
+              10.7625
+            ],
+            [
+              106.6357,
+              10.76957
+            ],
+            [
+              106.6357,
+              10.7696
+            ],
+            [
+              106.63560339256865,
+              10.76961733979537
+            ],
+            [
+              106.63246295558086,
+              10.770181007972665
+            ],
+            [
+              106.6319,
+              10.7673
+            ],
+            [
+              106.62305289564617,
+              10.767399405666897
+            ],
+            [
+              106.62429550781249,
+              10.761925195312498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tân Thới Hoà",
+        "VARNAME_3": "Tan Thoi Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27040,
+        "ward_name": "Phường Tân Thới Hoà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6077,
+              10.813
+            ],
+            [
+              106.6149,
+              10.8093
+            ],
+            [
+              106.6311,
+              10.8054
+            ],
+            [
+              106.6328,
+              10.8035
+            ],
+            [
+              106.6358,
+              10.8038
+            ],
+            [
+              106.6301,
+              10.8223
+            ],
+            [
+              106.6279,
+              10.8247
+            ],
+            [
+              106.6234,
+              10.8195
+            ],
+            [
+              106.6162,
+              10.8194
+            ],
+            [
+              106.6077,
+              10.813
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.23.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.23_1",
+        "NAME_2": "Tân Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Tây Thạnh",
+        "VARNAME_3": "Tay Thanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 16,
+        "district_name": "Quận Tân Phú",
+        "ward_id": 27013,
+        "ward_name": "Phường Tây Thạnh"
+      }
+    }
+  ]
+}

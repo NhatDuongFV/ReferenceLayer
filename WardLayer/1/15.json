@@ -1,0 +1,1176 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_15",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6699,
+              10.7989
+            ],
+            [
+              106.66788439383791,
+              10.80014775619558
+            ],
+            [
+              106.6672,
+              10.8002
+            ],
+            [
+              106.6655,
+              10.8004
+            ],
+            [
+              106.664,
+              10.7956
+            ],
+            [
+              106.6659,
+              10.791
+            ],
+            [
+              106.6685,
+              10.7942
+            ],
+            [
+              106.6685,
+              10.7982
+            ],
+            [
+              106.6699,
+              10.7989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 1",
+        "VARNAME_3": "Ward 1",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26977,
+        "ward_name": "Phường 01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6465,
+              10.788
+            ],
+            [
+              106.6434,
+              10.7867
+            ],
+            [
+              106.6416,
+              10.7859
+            ],
+            [
+              106.6411351758794,
+              10.78459849246231
+            ],
+            [
+              106.6421,
+              10.7849
+            ],
+            [
+              106.6477,
+              10.7752
+            ],
+            [
+              106.6491,
+              10.7732
+            ],
+            [
+              106.652,
+              10.769
+            ],
+            [
+              106.6541,
+              10.7665
+            ],
+            [
+              106.6571,
+              10.7622
+            ],
+            [
+              106.6525,
+              10.7688
+            ],
+            [
+              106.6481,
+              10.7748
+            ],
+            [
+              106.6499,
+              10.7791
+            ],
+            [
+              106.651,
+              10.7847
+            ],
+            [
+              106.6465,
+              10.788
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 10",
+        "VARNAME_3": "Ward 10",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26992,
+        "ward_name": "Phường 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6526238723109,
+              10.79024823039556
+            ],
+            [
+              106.6534,
+              10.7929
+            ],
+            [
+              106.6521,
+              10.7936
+            ],
+            [
+              106.6473,
+              10.7919
+            ],
+            [
+              106.644,
+              10.7918
+            ],
+            [
+              106.6434,
+              10.7867
+            ],
+            [
+              106.6465,
+              10.788
+            ],
+            [
+              106.651,
+              10.7847
+            ],
+            [
+              106.6526238723109,
+              10.79024823039556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 11",
+        "VARNAME_3": "Ward 11",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26983,
+        "ward_name": "Phường 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6521,
+              10.7936
+            ],
+            [
+              106.6554,
+              10.7987
+            ],
+            [
+              106.65389864521592,
+              10.80136748518205
+            ],
+            [
+              106.6526,
+              10.8015
+            ],
+            [
+              106.6534,
+              10.8099
+            ],
+            [
+              106.6481,
+              10.8091
+            ],
+            [
+              106.647,
+              10.7963
+            ],
+            [
+              106.64589607812003,
+              10.796889472848527
+            ],
+            [
+              106.644,
+              10.7918
+            ],
+            [
+              106.6473,
+              10.7919
+            ],
+            [
+              106.6521,
+              10.7936
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 12",
+        "VARNAME_3": "Ward 12",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26971,
+        "ward_name": "Phường 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6367,
+              10.8018
+            ],
+            [
+              106.64589607812003,
+              10.796889472848527
+            ],
+            [
+              106.647,
+              10.7963
+            ],
+            [
+              106.6481,
+              10.8091
+            ],
+            [
+              106.6443,
+              10.8108
+            ],
+            [
+              106.6362,
+              10.8062
+            ],
+            [
+              106.6358,
+              10.8038
+            ],
+            [
+              106.6367,
+              10.8018
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 13",
+        "VARNAME_3": "Ward 13",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26974,
+        "ward_name": "Phường 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6367,
+              10.8018
+            ],
+            [
+              106.6416,
+              10.7859
+            ],
+            [
+              106.6434,
+              10.7867
+            ],
+            [
+              106.644,
+              10.7918
+            ],
+            [
+              106.64589607812003,
+              10.796889472848527
+            ],
+            [
+              106.6367,
+              10.8018
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 14",
+        "VARNAME_3": "Ward 14",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 27004,
+        "ward_name": "Phường 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67773007742704,
+              10.826665515187612
+            ],
+            [
+              106.66892993073277,
+              10.827956653299308
+            ],
+            [
+              106.6636,
+              10.8307
+            ],
+            [
+              106.6572,
+              10.8353
+            ],
+            [
+              106.64634932126697,
+              10.837290950226246
+            ],
+            [
+              106.6425,
+              10.8282
+            ],
+            [
+              106.634,
+              10.8324
+            ],
+            [
+              106.6324,
+              10.833
+            ],
+            [
+              106.6279,
+              10.8247
+            ],
+            [
+              106.6301,
+              10.8223
+            ],
+            [
+              106.6358,
+              10.8038
+            ],
+            [
+              106.6362,
+              10.8062
+            ],
+            [
+              106.6443,
+              10.8108
+            ],
+            [
+              106.6481,
+              10.8091
+            ],
+            [
+              106.6534,
+              10.8099
+            ],
+            [
+              106.6526,
+              10.8015
+            ],
+            [
+              106.65389864521592,
+              10.80136748518205
+            ],
+            [
+              106.6575,
+              10.801
+            ],
+            [
+              106.6573,
+              10.8035
+            ],
+            [
+              106.6611,
+              10.8045
+            ],
+            [
+              106.6616,
+              10.808
+            ],
+            [
+              106.66449736070382,
+              10.807710263929618
+            ],
+            [
+              106.6617,
+              10.8098
+            ],
+            [
+              106.6606,
+              10.8174
+            ],
+            [
+              106.6664,
+              10.8195
+            ],
+            [
+              106.6676,
+              10.8161
+            ],
+            [
+              106.67478813643105,
+              10.81826628769155
+            ],
+            [
+              106.6733,
+              10.8224
+            ],
+            [
+              106.67773007742704,
+              10.826665515187612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 15",
+        "VARNAME_3": "Ward 15",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 27007,
+        "ward_name": "Phường 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.67478813643105,
+              10.81826628769155
+            ],
+            [
+              106.6676,
+              10.8161
+            ],
+            [
+              106.6664,
+              10.8195
+            ],
+            [
+              106.6606,
+              10.8174
+            ],
+            [
+              106.6617,
+              10.8098
+            ],
+            [
+              106.66449736070382,
+              10.807710263929618
+            ],
+            [
+              106.6636,
+              10.8027
+            ],
+            [
+              106.6594,
+              10.7988
+            ],
+            [
+              106.66109495548962,
+              10.796291543026708
+            ],
+            [
+              106.664,
+              10.7956
+            ],
+            [
+              106.6655,
+              10.8004
+            ],
+            [
+              106.6672,
+              10.8002
+            ],
+            [
+              106.669,
+              10.8033
+            ],
+            [
+              106.6728,
+              10.8141
+            ],
+            [
+              106.676,
+              10.8149
+            ],
+            [
+              106.67478813643105,
+              10.81826628769155
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 2",
+        "VARNAME_3": "Ward 2",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26965,
+        "ward_name": "Phường 02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.664,
+              10.7956
+            ],
+            [
+              106.66109495548962,
+              10.796291543026708
+            ],
+            [
+              106.65930871478874,
+              10.793296963028169
+            ],
+            [
+              106.6659,
+              10.791
+            ],
+            [
+              106.664,
+              10.7956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 3",
+        "VARNAME_3": "Ward 3",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26980,
+        "ward_name": "Phường 03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6577,
+              10.7906
+            ],
+            [
+              106.65771533189033,
+              10.790625703463201
+            ],
+            [
+              106.65930871478874,
+              10.793296963028169
+            ],
+            [
+              106.66109495548962,
+              10.796291543026708
+            ],
+            [
+              106.6594,
+              10.7988
+            ],
+            [
+              106.6636,
+              10.8027
+            ],
+            [
+              106.66449736070382,
+              10.807710263929618
+            ],
+            [
+              106.6616,
+              10.808
+            ],
+            [
+              106.6611,
+              10.8045
+            ],
+            [
+              106.6573,
+              10.8035
+            ],
+            [
+              106.6575,
+              10.801
+            ],
+            [
+              106.65389864521592,
+              10.80136748518205
+            ],
+            [
+              106.6554,
+              10.7987
+            ],
+            [
+              106.6521,
+              10.7936
+            ],
+            [
+              106.6534,
+              10.7929
+            ],
+            [
+              106.6577,
+              10.7906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 4",
+        "VARNAME_3": "Ward 4",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26968,
+        "ward_name": "Phường 04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6681,
+              10.7889
+            ],
+            [
+              106.6659,
+              10.791
+            ],
+            [
+              106.65930871478874,
+              10.793296963028169
+            ],
+            [
+              106.65771533189033,
+              10.790625703463201
+            ],
+            [
+              106.6608,
+              10.789
+            ],
+            [
+              106.66276785714285,
+              10.7879125
+            ],
+            [
+              106.6643,
+              10.7871
+            ],
+            [
+              106.6648,
+              10.7901
+            ],
+            [
+              106.6681,
+              10.7889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 5",
+        "VARNAME_3": "Ward 5",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26989,
+        "ward_name": "Phường 05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6603,
+              10.7821
+            ],
+            [
+              106.6646,
+              10.7869
+            ],
+            [
+              106.66276785714285,
+              10.7879125
+            ],
+            [
+              106.6608,
+              10.789
+            ],
+            [
+              106.657,
+              10.7846
+            ],
+            [
+              106.6542,
+              10.7845
+            ],
+            [
+              106.6553,
+              10.7805
+            ],
+            [
+              106.6559,
+              10.7784
+            ],
+            [
+              106.6532,
+              10.7754
+            ],
+            [
+              106.6561,
+              10.7778
+            ],
+            [
+              106.6603,
+              10.7821
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 6",
+        "VARNAME_3": "Ward 6",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26995,
+        "ward_name": "Phường 06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6526238723109,
+              10.79024823039556
+            ],
+            [
+              106.6542,
+              10.7845
+            ],
+            [
+              106.657,
+              10.7846
+            ],
+            [
+              106.6608,
+              10.789
+            ],
+            [
+              106.65771533189033,
+              10.790625703463201
+            ],
+            [
+              106.6577,
+              10.7906
+            ],
+            [
+              106.6534,
+              10.7929
+            ],
+            [
+              106.6526238723109,
+              10.79024823039556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 7",
+        "VARNAME_3": "Ward 7",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26986,
+        "ward_name": "Phường 07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.651,
+              10.7847
+            ],
+            [
+              106.6499,
+              10.7791
+            ],
+            [
+              106.6553,
+              10.7805
+            ],
+            [
+              106.6542,
+              10.7845
+            ],
+            [
+              106.6526238723109,
+              10.79024823039556
+            ],
+            [
+              106.651,
+              10.7847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.14_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 8",
+        "VARNAME_3": "Ward 8",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 26998,
+        "ward_name": "Phường 08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6532,
+              10.7754
+            ],
+            [
+              106.6559,
+              10.7784
+            ],
+            [
+              106.6553,
+              10.7805
+            ],
+            [
+              106.6499,
+              10.7791
+            ],
+            [
+              106.6481,
+              10.7748
+            ],
+            [
+              106.6525,
+              10.7688
+            ],
+            [
+              106.6532,
+              10.7754
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.25.22.15_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.25_1",
+        "NAME_1": "Hồ Chí Minh",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.25.22_1",
+        "NAME_2": "Tân Bình",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Phường 9",
+        "VARNAME_3": "Ward 9",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Phường",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 1,
+        "province_name": "Hồ Chí Minh",
+        "district_id": 15,
+        "district_name": "Quận Tân Bình",
+        "ward_id": 27001,
+        "ward_name": "Phường 09"
+      }
+    }
+  ]
+}

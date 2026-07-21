@@ -1,0 +1,1048 @@
+{
+  "type": "FeatureCollection",
+  "name": "District_73",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.2257,
+              10.5108
+            ],
+            [
+              105.182,
+              10.4595
+            ],
+            [
+              105.1879,
+              10.4603
+            ],
+            [
+              105.2441,
+              10.48
+            ],
+            [
+              105.2633,
+              10.4866
+            ],
+            [
+              105.28373096774195,
+              10.494233548387097
+            ],
+            [
+              105.2423,
+              10.5302
+            ],
+            [
+              105.2257,
+              10.5108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.1_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Chánh",
+        "VARNAME_3": "Binh Chanh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30499,
+        "ward_name": "Xã Bình Chánh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.2423,
+              10.5302
+            ],
+            [
+              105.2626,
+              10.554
+            ],
+            [
+              105.2658,
+              10.56
+            ],
+            [
+              105.2501,
+              10.5728
+            ],
+            [
+              105.2431,
+              10.5673
+            ],
+            [
+              105.2423,
+              10.563
+            ],
+            [
+              105.2291,
+              10.5595
+            ],
+            [
+              105.2246,
+              10.5568
+            ],
+            [
+              105.2153,
+              10.5631
+            ],
+            [
+              105.1951,
+              10.5376
+            ],
+            [
+              105.2257,
+              10.5108
+            ],
+            [
+              105.2423,
+              10.5302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.2_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Long",
+        "VARNAME_3": "Binh Long",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30484,
+        "ward_name": "Xã Bình Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.28373096774195,
+              10.494233548387097
+            ],
+            [
+              105.29968107532336,
+              10.500192929241694
+            ],
+            [
+              105.3067,
+              10.5037
+            ],
+            [
+              105.3129,
+              10.5015
+            ],
+            [
+              105.3176,
+              10.5026
+            ],
+            [
+              105.3205,
+              10.5058
+            ],
+            [
+              105.32,
+              10.5143
+            ],
+            [
+              105.3161,
+              10.5203
+            ],
+            [
+              105.3081,
+              10.527
+            ],
+            [
+              105.2993,
+              10.538
+            ],
+            [
+              105.2963,
+              10.5458
+            ],
+            [
+              105.2964,
+              10.5529
+            ],
+            [
+              105.2716,
+              10.5572
+            ],
+            [
+              105.2658,
+              10.56
+            ],
+            [
+              105.2626,
+              10.554
+            ],
+            [
+              105.2423,
+              10.5302
+            ],
+            [
+              105.28373096774195,
+              10.494233548387097
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.3_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Mỹ",
+        "VARNAME_3": "Binh My",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30487,
+        "ward_name": "Xã Bình Mỹ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.2257,
+              10.5108
+            ],
+            [
+              105.1951,
+              10.5376
+            ],
+            [
+              105.1656,
+              10.5029
+            ],
+            [
+              105.1152,
+              10.437
+            ],
+            [
+              105.182,
+              10.4595
+            ],
+            [
+              105.2257,
+              10.5108
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.4_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Phú",
+        "VARNAME_3": "Binh Phu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30496,
+        "ward_name": "Xã Bình Phú"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.3205,
+              10.5058
+            ],
+            [
+              105.3231,
+              10.501
+            ],
+            [
+              105.3372,
+              10.4894
+            ],
+            [
+              105.34031407113504,
+              10.480011307921217
+            ],
+            [
+              105.3464,
+              10.4908
+            ],
+            [
+              105.331,
+              10.5233
+            ],
+            [
+              105.327,
+              10.5414
+            ],
+            [
+              105.3182,
+              10.5483
+            ],
+            [
+              105.3113,
+              10.5532
+            ],
+            [
+              105.2964,
+              10.5529
+            ],
+            [
+              105.2963,
+              10.5458
+            ],
+            [
+              105.2993,
+              10.538
+            ],
+            [
+              105.3081,
+              10.527
+            ],
+            [
+              105.3161,
+              10.5203
+            ],
+            [
+              105.32,
+              10.5143
+            ],
+            [
+              105.3205,
+              10.5058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.5_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Bình Thủy",
+        "VARNAME_3": "Binh Thuy",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30490,
+        "ward_name": "Xã Bình Thủy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.2501,
+              10.5728
+            ],
+            [
+              105.242,
+              10.5807
+            ],
+            [
+              105.2352,
+              10.5874
+            ],
+            [
+              105.2153,
+              10.5631
+            ],
+            [
+              105.2246,
+              10.5568
+            ],
+            [
+              105.2291,
+              10.5595
+            ],
+            [
+              105.2423,
+              10.563
+            ],
+            [
+              105.2431,
+              10.5673
+            ],
+            [
+              105.2501,
+              10.5728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.6_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Cái Dầu",
+        "VARNAME_3": "Cai Dau",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Thị trấn",
+        "ENGTYPE_3": "Townlet",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30463,
+        "ward_name": "Thị trấn Cái Dầu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1656,
+              10.5029
+            ],
+            [
+              105.1149,
+              10.5454
+            ],
+            [
+              105.1134,
+              10.5466
+            ],
+            [
+              105.0917,
+              10.5365
+            ],
+            [
+              105.0858,
+              10.5352
+            ],
+            [
+              105.08834858537807,
+              10.525687956935407
+            ],
+            [
+              105.09469588540935,
+              10.501998033983991
+            ],
+            [
+              105.0985,
+              10.4878
+            ],
+            [
+              105.1152,
+              10.437
+            ],
+            [
+              105.1656,
+              10.5029
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.7_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Đào Hữu Cảnh",
+        "VARNAME_3": "Dao Huu Canh",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30493,
+        "ward_name": "Xã Đào Hữu Cảnh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1552,
+              10.6907
+            ],
+            [
+              105.159,
+              10.684
+            ],
+            [
+              105.1638,
+              10.6796
+            ],
+            [
+              105.1806,
+              10.6667
+            ],
+            [
+              105.1889,
+              10.6636
+            ],
+            [
+              105.193,
+              10.6583
+            ],
+            [
+              105.2013,
+              10.6444
+            ],
+            [
+              105.2067,
+              10.6431
+            ],
+            [
+              105.2134,
+              10.6369
+            ],
+            [
+              105.2119,
+              10.6303
+            ],
+            [
+              105.214,
+              10.639
+            ],
+            [
+              105.216,
+              10.6565
+            ],
+            [
+              105.2114,
+              10.672
+            ],
+            [
+              105.2022,
+              10.6874
+            ],
+            [
+              105.188,
+              10.6951
+            ],
+            [
+              105.1787,
+              10.699
+            ],
+            [
+              105.1555,
+              10.7019
+            ],
+            [
+              105.1552,
+              10.6907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.8_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Khánh Hòa",
+        "VARNAME_3": "Khanh Hoa",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30466,
+        "ward_name": "Xã Khánh Hòa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.13867445714627,
+              10.672325965049666
+            ],
+            [
+              105.105,
+              10.6383
+            ],
+            [
+              105.1331,
+              10.6181
+            ],
+            [
+              105.1409,
+              10.6074
+            ],
+            [
+              105.1884,
+              10.657
+            ],
+            [
+              105.193,
+              10.6583
+            ],
+            [
+              105.1889,
+              10.6636
+            ],
+            [
+              105.1806,
+              10.6667
+            ],
+            [
+              105.1638,
+              10.6796
+            ],
+            [
+              105.159,
+              10.684
+            ],
+            [
+              105.1552,
+              10.6907
+            ],
+            [
+              105.1529,
+              10.6867
+            ],
+            [
+              105.13867445714627,
+              10.672325965049666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.9_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Mỹ Đức",
+        "VARNAME_3": "My Duc",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30469,
+        "ward_name": "Xã Mỹ Đức"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1409,
+              10.6074
+            ],
+            [
+              105.1737,
+              10.5762
+            ],
+            [
+              105.2125,
+              10.6217
+            ],
+            [
+              105.2119,
+              10.6303
+            ],
+            [
+              105.2134,
+              10.6369
+            ],
+            [
+              105.2067,
+              10.6431
+            ],
+            [
+              105.2013,
+              10.6444
+            ],
+            [
+              105.193,
+              10.6583
+            ],
+            [
+              105.1884,
+              10.657
+            ],
+            [
+              105.1409,
+              10.6074
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.10_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Mỹ Phú",
+        "VARNAME_3": "My Phu",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30472,
+        "ward_name": "Xã Mỹ Phú"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.0654,
+              10.6109
+            ],
+            [
+              105.0747,
+              10.5763
+            ],
+            [
+              105.08087093635996,
+              10.553490692036847
+            ],
+            [
+              105.0858,
+              10.5352
+            ],
+            [
+              105.0917,
+              10.5365
+            ],
+            [
+              105.1134,
+              10.5466
+            ],
+            [
+              105.1149,
+              10.5454
+            ],
+            [
+              105.1664,
+              10.5675
+            ],
+            [
+              105.16932166297737,
+              10.570981981904541
+            ],
+            [
+              105.1737,
+              10.5762
+            ],
+            [
+              105.1409,
+              10.6074
+            ],
+            [
+              105.1331,
+              10.6181
+            ],
+            [
+              105.105,
+              10.6383
+            ],
+            [
+              105.0815,
+              10.6146
+            ],
+            [
+              105.0654,
+              10.6109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.11_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "ÔLong Vỹ",
+        "VARNAME_3": "OLong Vy",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30475,
+        "ward_name": "Xã Ô Long Vỹ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.1149,
+              10.5454
+            ],
+            [
+              105.1656,
+              10.5029
+            ],
+            [
+              105.1951,
+              10.5376
+            ],
+            [
+              105.2153,
+              10.5631
+            ],
+            [
+              105.2008,
+              10.5448
+            ],
+            [
+              105.16932166297737,
+              10.570981981904541
+            ],
+            [
+              105.1664,
+              10.5675
+            ],
+            [
+              105.1149,
+              10.5454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.12_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Thạnh Mỹ Tây",
+        "VARNAME_3": "Thanh My Tay",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30481,
+        "ward_name": "Xã Thạnh Mỹ Tây"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.2352,
+              10.5874
+            ],
+            [
+              105.2182,
+              10.608
+            ],
+            [
+              105.2125,
+              10.6217
+            ],
+            [
+              105.1737,
+              10.5762
+            ],
+            [
+              105.16932166297737,
+              10.570981981904541
+            ],
+            [
+              105.2008,
+              10.5448
+            ],
+            [
+              105.2153,
+              10.5631
+            ],
+            [
+              105.2352,
+              10.5874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "GID_3": "VNM.1.4.13_1",
+        "GID_0": "VNM",
+        "COUNTRY": "Vietnam",
+        "GID_1": "VNM.1_1",
+        "NAME_1": "An Giang",
+        "NL_NAME_1": "NA",
+        "GID_2": "VNM.1.4_1",
+        "NAME_2": "Châu Phú",
+        "NL_NAME_2": "NA",
+        "NAME_3": "Vĩnh Thạnh Trung",
+        "VARNAME_3": "Vinh Thanh Trung",
+        "NL_NAME_3": "NA",
+        "TYPE_3": "Xã",
+        "ENGTYPE_3": "Ward",
+        "CC_3": "NA",
+        "HASC_3": "NA",
+        "province_id": 3,
+        "province_name": "An Giang",
+        "district_id": 73,
+        "district_name": "Huyện Châu Phú",
+        "ward_id": 30478,
+        "ward_name": "Xã Vĩnh Thạnh Trung"
+      }
+    }
+  ]
+}
